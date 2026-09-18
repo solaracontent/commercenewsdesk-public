@@ -1,4 +1,101 @@
 {
-  "generated_at": "2026-09-18T04:15:25.898573+00:00",
-  "items": []
+  "generated_at": "2026-09-18T05:03:29.216200+00:00",
+  "items": [
+    {
+      "headline": "Retailers expect 79% of shoppers to use AI tools and shift budgets to cashback apps",
+      "desk": "Agencies",
+      "slug": "retailers-expect-79-of-shoppers-to-use-ai-tools-and-shift-budget",
+      "url": "https://commercenewsdesk.com/briefs/retailers-expect-79-of-shoppers-to-use-ai-tools-and-shift-budget",
+      "time_utc": "2026-09-17T18:38:47+00:00",
+      "time_et": "Sep 17, 14:38 ET"
+    },
+    {
+      "headline": "Raspberry AI upgrades its platform with generative agents to cut sampling time by up to 60%",
+      "desk": "Apps and SaaS",
+      "slug": "raspberry-ai-upgrades-its-platform-with-generative-agents-to-cut",
+      "url": "https://commercenewsdesk.com/briefs/raspberry-ai-upgrades-its-platform-with-generative-agents-to-cut",
+      "time_utc": "2026-09-17T18:34:35+00:00",
+      "time_et": "Sep 17, 14:34 ET"
+    },
+    {
+      "headline": "United States tender rejection rate jumps to 14.32% after Labor Day",
+      "desk": "Logistics",
+      "slug": "united-states-tender-rejection-rate-jumps-to-14-32-after-labor-d",
+      "url": "https://commercenewsdesk.com/briefs/united-states-tender-rejection-rate-jumps-to-14-32-after-labor-d",
+      "time_utc": "2026-09-17T18:22:27+00:00",
+      "time_et": "Sep 17, 14:22 ET"
+    },
+    {
+      "headline": "Polybion expands Celium biomaterial into everyday products beyond runway",
+      "desk": "DTC",
+      "slug": "polybion-expands-celium-biomaterial-into-everyday-products-beyon",
+      "url": "https://commercenewsdesk.com/briefs/polybion-expands-celium-biomaterial-into-everyday-products-beyon",
+      "time_utc": "2026-09-17T18:00:00+00:00",
+      "time_et": "Sep 17, 14:00 ET"
+    },
+    {
+      "headline": "Panama Canal Projects 29.5 Daily Transits for FY2027 Amid El Ni\u00f1o Drought",
+      "desk": "Logistics",
+      "slug": "panama-canal-projects-29-5-daily-transits-for-fy2027-amid-el-nin",
+      "url": "https://commercenewsdesk.com/briefs/panama-canal-projects-29-5-daily-transits-for-fy2027-amid-el-nin",
+      "time_utc": "2026-09-17T17:54:57+00:00",
+      "time_et": "Sep 17, 13:54 ET"
+    },
+    {
+      "headline": "Jordan Brand launches strength\u2011training gear line with Oct. 13 release at NikeStrength.com and Dick\u2019s Sporting Goods",
+      "desk": "Marketplaces",
+      "slug": "jordan-brand-launches-strengthtraining-gear-line-with-oct-13-rel",
+      "url": "https://commercenewsdesk.com/briefs/jordan-brand-launches-strengthtraining-gear-line-with-oct-13-rel",
+      "time_utc": "2026-09-17T16:01:00+00:00",
+      "time_et": "Sep 17, 12:01 ET"
+    },
+    {
+      "headline": "Nike adds LVMH executive Alexandre Arnault to board as turnaround continues",
+      "desk": "Platforms",
+      "slug": "nike-adds-lvmh-executive-alexandre-arnault-to-board-as-turnaroun",
+      "url": "https://commercenewsdesk.com/briefs/nike-adds-lvmh-executive-alexandre-arnault-to-board-as-turnaroun",
+      "time_utc": "2026-09-17T16:00:00+00:00",
+      "time_et": "Sep 17, 12:00 ET"
+    },
+    {
+      "headline": "Amazon raises U.S. hourly starting wage to $20 and adds new grocery and banking benefits.",
+      "desk": "Platforms",
+      "slug": "amazon-raises-u-s-hourly-starting-wage-to-20-and-adds-new-grocer",
+      "url": "https://commercenewsdesk.com/briefs/amazon-raises-u-s-hourly-starting-wage-to-20-and-adds-new-grocer",
+      "time_utc": "2026-09-17T15:52:00+00:00",
+      "time_et": "Sep 17, 11:52 ET"
+    },
+    {
+      "headline": "AlixPartners forecasts 4\u20117% U.S. holiday sales growth as shoppers shift tactics",
+      "desk": "Marketplaces",
+      "slug": "alixpartners-forecasts-47-u-s-holiday-sales-growth-as-shoppers-s",
+      "url": "https://commercenewsdesk.com/briefs/alixpartners-forecasts-47-u-s-holiday-sales-growth-as-shoppers-s",
+      "time_utc": "2026-09-17T15:37:37+00:00",
+      "time_et": "Sep 17, 11:37 ET"
+    },
+    {
+      "headline": "Toys R Us adds 120 stand\u2011alone stores for holiday season",
+      "desk": "Platforms",
+      "slug": "toys-r-us-adds-120-standalone-stores-for-holiday-season",
+      "url": "https://commercenewsdesk.com/briefs/toys-r-us-adds-120-standalone-stores-for-holiday-season",
+      "time_utc": "2026-09-17T15:33:00+00:00",
+      "time_et": "Sep 17, 11:33 ET"
+    },
+    {
+      "headline": "Mexico lifts empty-truck ban at Eagle Pass after 700 tractors stranded",
+      "desk": "Logistics",
+      "slug": "mexico-lifts-empty-truck-ban-at-eagle-pass-after-700-tractors-st",
+      "url": "https://commercenewsdesk.com/briefs/mexico-lifts-empty-truck-ban-at-eagle-pass-after-700-tractors-st",
+      "time_utc": "2026-09-17T15:19:05+00:00",
+      "time_et": "Sep 17, 11:19 ET"
+    },
+    {
+      "headline": "Ravel secures $8.2 million to scale elastane-free polyester recycling",
+      "desk": "Logistics",
+      "slug": "ravel-secures-8-2-million-to-scale-elastane-free-polyester-recyc",
+      "url": "https://commercenewsdesk.com/briefs/ravel-secures-8-2-million-to-scale-elastane-free-polyester-recyc",
+      "time_utc": "2026-09-17T15:00:00+00:00",
+      "time_et": "Sep 17, 11:00 ET"
+    }
+  ]
 }

@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-09-18T18:07:11.772096+00:00",
+  "generated_at": "2026-09-21T03:30:56.007360+00:00",
   "items": [
     {
       "symbol": "SHOP",
-      "price": 127.26,
-      "change_pct": -2.08
+      "price": 128.5,
+      "change_pct": -1.12
     },
     {
       "symbol": "AMZN",
-      "price": 253.14,
-      "change_pct": 2.92
+      "price": 253.71,
+      "change_pct": 3.15
     },
     {
       "symbol": "EBAY",
-      "price": 112.16,
-      "change_pct": 2.74
+      "price": 111.84,
+      "change_pct": 2.45
     },
     {
       "symbol": "ETSY",
-      "price": 72.45,
-      "change_pct": -1.37
+      "price": 72.6,
+      "change_pct": -1.17
     },
     {
       "symbol": "GLBE",
-      "price": 38.31,
-      "change_pct": 3.74
+      "price": 38.04,
+      "change_pct": 3.01
     },
     {
       "symbol": "MELI",
-      "price": 1800.37,
-      "change_pct": -2.14
+      "price": 1787.39,
+      "change_pct": -2.84
     },
     {
       "symbol": "W",
-      "price": 102.44,
-      "change_pct": -0.77
+      "price": 102.46,
+      "change_pct": -0.76
     },
     {
       "symbol": "CHWY",
-      "price": 20.71,
-      "change_pct": -0.93
+      "price": 20.62,
+      "change_pct": -1.39
     },
     {
       "symbol": "WMT",
-      "price": 107.1,
-      "change_pct": -0.37
+      "price": 106.73,
+      "change_pct": -0.72
     }
   ]
 }

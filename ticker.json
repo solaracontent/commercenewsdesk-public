@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-09-30T23:23:40.744428+00:00",
+  "generated_at": "2026-09-30T23:51:37.416940+00:00",
   "items": [
+    {
+      "headline": "Garnet Hill launches Second Nature resale site for used apparel, bedding",
+      "desk": "DTC",
+      "slug": "garnet-hill-launches-second-nature-resale-site-for-used-apparel",
+      "url": "https://commercenewsdesk.com/briefs/garnet-hill-launches-second-nature-resale-site-for-used-apparel",
+      "time_utc": "2026-09-30T20:11:26+00:00",
+      "time_et": "Sep 30, 16:11 ET"
+    },
     {
       "headline": "Rithum CPO outlines Agentic AI vision at Live 2026 event",
       "desk": "Platforms",
@@ -88,14 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/cargo-thieves-launder-freight-in-as-little-as-one-week-cornell-w",
       "time_utc": "2026-09-30T16:01:00+00:00",
       "time_et": "Sep 30, 12:01 ET"
-    },
-    {
-      "headline": "Wix launches Base Code for non-engineers to edit GitHub code via prompts",
-      "desk": "Platforms",
-      "slug": "wix-launches-base-code-for-non-engineers-to-edit-github-code-via",
-      "url": "https://commercenewsdesk.com/briefs/wix-launches-base-code-for-non-engineers-to-edit-github-code-via",
-      "time_utc": "2026-09-30T15:21:05+00:00",
-      "time_et": "Sep 30, 11:21 ET"
     }
   ]
 }

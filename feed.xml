@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:48:16 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Covenant CEO says market healthier as load-to-truck ratios ease to 1.3‑to‑1.5</title>
@@ -76,6 +76,24 @@ Source: FreightWaves (https://freightwaves.com/news/airbus-a350-freighter-aircra
       <pubDate>Tue, 29 Sep 2026 16:18:13 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/airbus-completes-first-test-flight-of-a350-freighter-targets-lat</guid>
       <category>Logistics</category>
+    </item>
+    <item>
+      <title>Senate passes Common Cents bill to phase out penny</title>
+      <link>https://commercenewsdesk.com/briefs/senate-passes-common-cents-bill-to-phase-out-penny</link>
+      <description>The Senate passed the Common Cents bill on Monday night, sending the legislation to the White House for President Donald Trump’s signature. The legislation provides merchants with a legal framework to round cash transactions to the nearest nickel and formally ends U.S. Mint production of the penny.
+
+The measure does not apply to electronic transactions, covering only cash purchases. Retailers, especially grocers, have faced difficulties obtaining pennies, which complicates SNAP transactions because equal‑treatment rules bar different prices for food‑assistance shoppers. After an August Senate amendment triggered a second House vote earlier this month, the bill cleared the Senate again on Monday following its earlier August passage. The bill was sponsored by Senators Cynthia Lummis (R‑WY) and Kirsten Gillibrand (D‑NY), with House cosponsors Lisa McClain (R‑MI) and Robert Garcia (D‑CA).
+
+“a solution to a real problem for retailers,” Dylan Jeon, vice president of government relations for the National Retail Federation said.
+
+“Independent grocers process millions of transactions every day, and the disappearance of the penny created a very practical problem at the checkout counter,” Stephanie Johnson, senior vice president and head of government affairs for the National Grocers Association said.
+
+The bill had previously cleared the House and Senate in August after a Senate amendment, necessitating a second House vote earlier this month and a final Senate ratification on Monday. The final batch of pennies was struck last November, nine months after President Trump directed the U.S. Treasury to halt penny production.
+
+Source: Payments Dive (https://paymentsdive.com/news/senate-passes-common-cents-bill/831629)</description>
+      <pubDate>Tue, 29 Sep 2026 14:35:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/senate-passes-common-cents-bill-to-phase-out-penny</guid>
+      <category>Payments</category>
     </item>
     <item>
       <title>Panama Canal Authority raises daily Neopanamax transits to 10 starting Oct. 15</title>
@@ -770,22 +788,6 @@ Source: FreightWaves (https://freightwaves.com/news/new-report-just-a-third-of-c
       <pubDate>Tue, 22 Sep 2026 18:23:09 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/container-shipping-on-time-performance-slips-to-29-in-august-as</guid>
       <category>Logistics</category>
-    </item>
-    <item>
-      <title>Amazon asks Meta to remove its store from Muse AI agent experience</title>
-      <link>https://commercenewsdesk.com/briefs/amazon-asks-meta-to-remove-its-store-from-muse-ai-agent-experien</link>
-      <description>Amazon asked Meta to remove its storefront from the Muse AI agent experience two weeks after the assistant launched and saw Meta’s shares climb 11%. The request follows Meta’s launch of Muse, an AI agent that can shop and pay on behalf of users without identifying itself.
-
-Amazon said it was not given advance notice that Muse would access its online store and did not authorize the agent. The company said Muse does not identify itself when browsing and appears to capture and store shopper credentials. Amazon cited a need for third‑party applications to operate openly and respect retailers’ decisions about participation. The move echoes Amazon’s earlier legal action against Perplexity’s Comet AI agent, which is still pending after a U.S. appeals court overturned a temporary ban in August. Shopify announced it will enable Muse for agentic checkouts across all its stores using Shop Pay.
-
-“We think it’s fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate,” Lara Hendrickson, Amazon spokesperson said.
-
-In April, Meta signed a deal with Amazon Web Services to use its chips for agentic AI. Amazon has previously blocked Perplexity’s Comet AI agent from accessing its site and is currently litigating that case. Earlier this year Amazon piloted its own “Buy for Me” feature, which lets shoppers buy from external sellers through Amazon’s platform.
-
-Source: Retail Dive (https://retaildive.com/news/amazon-meta-muse-ai-agent-shopping-experience/831018)</description>
-      <pubDate>Tue, 22 Sep 2026 15:53:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazon-asks-meta-to-remove-its-store-from-muse-ai-agent-experien</guid>
-      <category>Platforms</category>
     </item>
   </channel>
 </rss>

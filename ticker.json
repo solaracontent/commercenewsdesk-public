@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:19:08.495523+00:00",
+  "generated_at": "2026-09-30T16:48:16.625972+00:00",
   "items": [
     {
       "headline": "Covenant CEO says market healthier as load-to-truck ratios ease to 1.3\u2011to\u20111.5",
@@ -32,6 +32,14 @@
       "url": "https://commercenewsdesk.com/briefs/airbus-completes-first-test-flight-of-a350-freighter-targets-lat",
       "time_utc": "2026-09-29T16:18:13+00:00",
       "time_et": "Sep 29, 12:18 ET"
+    },
+    {
+      "headline": "Senate passes Common Cents bill to phase out penny",
+      "desk": "Payments",
+      "slug": "senate-passes-common-cents-bill-to-phase-out-penny",
+      "url": "https://commercenewsdesk.com/briefs/senate-passes-common-cents-bill-to-phase-out-penny",
+      "time_utc": "2026-09-29T14:35:00+00:00",
+      "time_et": "Sep 29, 10:35 ET"
     },
     {
       "headline": "Panama Canal Authority raises daily Neopanamax transits to 10 starting Oct. 15",
@@ -88,14 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/ex-ebay-manager-sues-over-alleged-seller-favoritism-2012-acquisi",
       "time_utc": "2026-09-29T02:08:27+00:00",
       "time_et": "Sep 28, 22:08 ET"
-    },
-    {
-      "headline": "Diesel up 10 cents, spot rates up 2 cents, squeezing trucking margins",
-      "desk": "Logistics",
-      "slug": "diesel-up-10-cents-spot-rates-up-2-cents-squeezing-trucking-marg",
-      "url": "https://commercenewsdesk.com/briefs/diesel-up-10-cents-spot-rates-up-2-cents-squeezing-trucking-marg",
-      "time_utc": "2026-09-28T17:49:44+00:00",
-      "time_et": "Sep 28, 13:49 ET"
     }
   ]
 }

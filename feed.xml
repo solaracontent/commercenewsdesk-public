@@ -5,8 +5,26 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 01:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:01:20 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Kodiak to launch driverless IKEA freight on Texas I-45 later this year</title>
+      <link>https://commercenewsdesk.com/briefs/kodiak-to-launch-driverless-ikea-freight-on-texas-i-45-later-thi</link>
+      <description>Kodiak AI will haul IKEA freight with no one in the cab on a 219-mile stretch of Interstate 45 in Texas later this year. IKEA Supply is the launch shipper for the service, which forms part of an existing 292-mile route between its Baytown distribution center and Frisco store.
+
+The driverless trips mainly operate between Kodiak’s facilities in Houston and the Dallas area. In the last four years, Kodiak moved over 1,300 IKEA loads autonomously with a safety observer, covering more than 750,000 miles. Starting in August, Kodiak launched its driverless long-haul program and now regularly hauls freight between its Lancaster, Texas hub and Houston without anyone behind the wheel. Kodiak’s autonomy readiness measure was 93% at the end of August, up from 84% in February, and the company expects to reach 100% and launch driverless operations by year-end.
+
+“Unsupervised driverless operations – no human in the cab – represent a milestone the entire Kodiak team has been tirelessly working toward since Kodiak was founded more than eight years ago,” Don Burnette, founder and CEO, Kodiak AI said.
+
+“They can reduce their time sleeping on the side of the highway and instead be home with family and friends,” Don Burnette, founder and CEO, Kodiak AI said.
+
+Over the past four years, Kodiak has delivered more than 1,300 loads and logged more than 750,000 miles carrying IKEA goods autonomously with a safety observer aboard, founder and CEO Don Burnette wrote in a company post announcing the partnership update. The company began its driverless long-haul launch program in August and said it now consistently completes deliveries between its Lancaster, Texas, hub and Houston without human intervention. Kodiak already runs driverless trucks commercially for Atlas Energy Solutions in the Permian Basin, work that began in December 2024.
+
+Source: FreightWaves (https://freightwaves.com/news/kodiak-ikea-driverless-freight-i-45)</description>
+      <pubDate>Tue, 29 Sep 2026 17:35:21 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/kodiak-to-launch-driverless-ikea-freight-on-texas-i-45-later-thi</guid>
+      <category>Logistics</category>
+    </item>
     <item>
       <title>Happy Returns integrates with TikTok Shop to offer box‑free returns</title>
       <link>https://commercenewsdesk.com/briefs/happy-returns-integrates-with-tiktok-shop-to-offer-boxfree-retur</link>
@@ -766,22 +784,6 @@ Source: Retail Dive (https://retaildive.com/news/gap-rolls-out-fashiontainment-s
       <pubDate>Tue, 22 Sep 2026 15:22:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/gap-launches-multiyear-fashiontainment-strategy-with-boy-band-ju</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>Rhine water at 16 cm below threshold chokes barge traffic</title>
-      <link>https://commercenewsdesk.com/briefs/rhine-water-at-16-cm-below-threshold-chokes-barge-traffic</link>
-      <description>The Rhine River’s water level in its shallowest middle section dropped to 16 centimeters below the low-water threshold as of Monday, threatening to halt barge traffic on a key central Europe corridor. As of Monday, the river’s navigable depth measured roughly 4.25 feet, per Germany’s Federal Waterways and Shipping Administration.
-
-The river connects the Rotterdam and Antwerp ports—handling 14.2 million and 13.6 million TEU annually—to inland cities across Europe. Only very small vessels or barges loaded to no more than 20 % of capacity can navigate the upper and middle Rhine, per terminal operator Oliver Haas. One barge typically moves the freight of about 200 trucks, so the capacity shortfall is pushing shippers onto rail and road networks that lack spare trains, terminal space and drivers. Rail bottlenecks at the North Sea ports and a shortage of truck drivers are adding to delays and raising costs for container repositioning and demurrage. The Elbe and Danube rivers are also experiencing historically low water levels due to severe drought and heat.
-
-“The only very small vessels, or ones partially loaded to 20% of their capacity, are able to transit the upper and middle Rhine,” Oliver Haas, general manager of HGK Intermodal, a terminal operator at the Port of Cologne said.
-
-Conditions have only gotten worse in the past month. Previous low-water events in Europe have typically occurred in late summer or fall, when dry summers followed low snow melts, so experts are unsure what to predict with rivers drying out so early.
-
-Source: FreightWaves (https://freightwaves.com/news/record-low-rhine-levels-choke-barge-traffic-stress-ground-transport)</description>
-      <pubDate>Tue, 22 Sep 2026 13:14:37 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/rhine-water-at-16-cm-below-threshold-chokes-barge-traffic</guid>
-      <category>Logistics</category>
     </item>
   </channel>
 </rss>

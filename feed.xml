@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:50:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:17:37 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Port Houston lifts August container volumes 1% as steel imports jump 54%</title>
@@ -19,6 +19,20 @@ Although August steel imports jumped 54% year over year, year‑to‑date steel 
 Source: FreightWaves (https://freightwaves.com/news/port-houston-container-volumes-edge-higher-as-steel-imports-surge-54)</description>
       <pubDate>Wed, 30 Sep 2026 16:41:05 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/port-houston-lifts-august-container-volumes-1-as-steel-imports-j</guid>
+      <category>Logistics</category>
+    </item>
+    <item>
+      <title>Panama Canal Adds Transit Slot, Raises Draft to 49 Feet as Water Improves</title>
+      <link>https://commercenewsdesk.com/briefs/panama-canal-adds-transit-slot-raises-draft-to-49-feet-as-water</link>
+      <description>The Panama Canal Authority increased the daily Neopanamax transit slots from nine to 10 starting Oct. 15 and raised the maximum authorized draft to 49 feet. The change lifts total daily capacity across the Neopanamax and Panamax locks to 33 slots and replaces the previous 48‑foot draft limit that took effect Tuesday.
+
+The draft increase follows a postponement of a planned Oct. 1 reduction to 47.5 feet after the authority reassessed weather forecasts and water levels at Gatún Lake. As of Wednesday, the canal projected Gatún Lake’s average level for October at 85.7 feet, up from the earlier forecast of 82.6 feet under a severe El Niño scenario. The authority cited current and projected lake levels, near-average precipitation across the watershed and the water‑saving measures in place at the locks as reasons for the reversal. Officials warned that the water deficit persists, that the transit reservation system remains the only way to guarantee a date, and that vessels without reservations could face indefinite delays. The advisory to shipping companies on Monday specified that the additional Neopanamax slot is available for bookings starting Oct. 15.
+
+Earlier in September the canal had cut daily transits from 36 to 34 on Sept. 4 and then again to 32 on Sept. 15 as El Niño threatened water supplies. A fiscal 2027 budget draft submitted to Panama’s parliament had penciled in an average of 29.5 daily transits for October, based on a severe El Niño outlook. In late August, the canal’s own outlook had Gatún Lake’s water levels falling by more than a foot by the end of October to 82.6 feet.
+
+Source: WWD (https://wwd.com/sourcing-journal/logistics/panama-canal-eases-draft-restrictions-el-nino-water-levels-weather-trade-1239297242)</description>
+      <pubDate>Wed, 30 Sep 2026 16:40:13 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/panama-canal-adds-transit-slot-raises-draft-to-49-feet-as-water</guid>
       <category>Logistics</category>
     </item>
     <item>
@@ -100,6 +114,24 @@ Source: Payments Dive (https://paymentsdive.com/news/circle-cfo-step-down-follow
       <pubDate>Wed, 30 Sep 2026 14:29:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/circle-cfo-jeremy-fox-geen-departs-in-december-after-five-years</guid>
       <category>Payments</category>
+    </item>
+    <item>
+      <title>DoorDash launches Dasher Returns and adds five new retailers to its marketplace</title>
+      <link>https://commercenewsdesk.com/briefs/doordash-launches-dasher-returns-and-adds-five-new-retailers-to</link>
+      <description>On Sept. 29, DoorDash launched its Dasher Returns service in select cities and announced a nationwide rollout for November. The company expects Dasher Returns to be available for 80% of the retail orders it handles by the end of 2026.
+
+For a flat fee, DoorDash will pick up a customer’s return at home and deliver it to the merchant’s store for processing. Once the item is back in stock, the store can resell it quickly and issue the refund in days rather than weeks. DoorDash also added Anthropologie, North Face, Timberland, Vans and Macy’s to its marketplace app, making their products searchable for same‑day delivery. Macy’s said its full catalog will be available inside the DoorDash Marketplace app and that DoorDash will join its 100th Thanksgiving Day Parade in New York City on Nov. 26.
+
+“Starting today, we’re launching Dasher Returns,” Shanna Prevé, chief revenue officer at DoorDash said.
+
+“Now, today we are announcing that the Macy’s catalog will be available from within the DoorDash Marketplace app,” Josh Janos, vice president of marketplaces and digital partnerships at Macy’s said.
+
+Earlier this year, DoorDash began delivering Costco orders in the U.S. and tested drone delivery with Lowe’s and Wing. Macy’s had been using DoorDash for white‑label same‑day and next‑day fulfillment since 2020 for orders placed through its website and apps.
+
+Source: Digital Commerce 360 (https://digitalcommerce360.com/2026/09/30/doordash-prepares-nationwide-returns-service-welcomes-new-retailers-to-marketplace)</description>
+      <pubDate>Wed, 30 Sep 2026 13:00:33 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/doordash-launches-dasher-returns-and-adds-five-new-retailers-to</guid>
+      <category>Platforms</category>
     </item>
     <item>
       <title>Covenant CEO says market healthier as load-to-truck ratios ease to 1.3‑to‑1.5</title>
@@ -763,36 +795,6 @@ Merchants can turn it on in minutes, with setup 70% faster on average compared t
 Source: About Amazon (https://aboutamazon.com/news/retail/amazon-mcf-prime-delivery-merchant-websites)</description>
       <pubDate>Thu, 24 Sep 2026 09:58:21 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazon-lets-u-s-merchants-add-free-prime-delivery-to-their-sites</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Lidl faces ban on Birkenstock lookalikes in Netherlands after court injunction</title>
-      <link>https://commercenewsdesk.com/briefs/lidl-faces-ban-on-birkenstock-lookalikes-in-netherlands-after-co</link>
-      <description>Lidl faces a €5,000 daily penalty after a Dutch court ordered it to stop selling Birkenstock lookalikes in the Netherlands. The injunction covers Birkenstock’s Arizona, Madrid, Gizeh, Boston and Florida sandal designs.
-
-Lidl must pay €5,000 (about £4,200) for each day it continues to sell the prohibited models. The retailer must also give Birkenstock full details of sales and orders for the affected sandals. Lidl will have to compensate Birkenstock for damages and cover its legal costs, with amounts to be set later. The court said the infringement relates mainly to the distinctive footbed design used across Birkenstock’s footwear.
-
-In November 2025 a Dutch court ordered Scapino to stop selling several Birkenstock lookalikes, a decision that is still under appeal. The Court of Justice of the European Union ruled in December that industrially designed products can qualify for copyright protection when they reflect the creator’s own intellectual creation. Earlier in 2025 Germany’s highest civil court found Birkenstock’s sandals to be functional rather than copyright‑protected works of art.
-
-Source: Retail Gazette (https://retailgazette.co.uk/blog/2026/09/lidl-banned-from-selling-birkenstock-lookalikes-after-copyright-ruling)</description>
-      <pubDate>Thu, 24 Sep 2026 05:40:20 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/lidl-faces-ban-on-birkenstock-lookalikes-in-netherlands-after-co</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Amazon launches always‑on AI agent for third‑party sellers</title>
-      <link>https://commercenewsdesk.com/briefs/amazon-launches-alwayson-ai-agent-for-thirdparty-sellers</link>
-      <description>Amazon launched an always‑on AI agent for third‑party sellers on a Wednesday The agent is free for any seller to use and optional, according to Mary Beth Westmoreland, vice president of worldwide selling experience
-
-The always‑on agent can automatically manage pricing, inventory and product performance for merchants. It is built as an upgrade to the Seller Assistant platform, adding new AI‑powered workflows. These workflows run continuously to monitor a seller’s business and respond to changes without manual intervention. As workflows, they can send alerts if a seller’s ratings suddenly decline or monitor pricing for specific products. The platform stores each seller’s profile to generate custom recommendations for item pricing, promotions and inventory management. Through a plug‑in, the agent can connect to external AI tools that sellers already use, initially Amazon’s Quick and Anthropic’s Claude services. The agent is free for any seller to use and optional, as stated by Mary Beth Westmoreland, vice president of worldwide selling experience. Sellers retain control over how much personal data they share with the agent. The new agent expands automation features for easier listing and inventory management. Agents are described as capable of performing multiple actions with little to no human intervention. The always‑on nature means the service runs continuously without requiring sellers to start each action. The platform uses each seller’s profile to tailor workflow recommendations. The agent is free for any seller to use, meaning there is no cost to enable its features.
-
-“The new agent will be free for any seller to use and optional,” Mary Beth Westmoreland, vice president of worldwide selling experience said.
-
-Amazon had previously offered the Seller Assistant platform to assist merchants with listing and inventory management. The upgrade adds AI‑powered workflows that enable continuous, automated actions.
-
-Source: Retail Gazette (https://retailgazette.co.uk/blog/2026/09/amazon-launches-always-on-ai-agent-for-marketplace-sellers)</description>
-      <pubDate>Thu, 24 Sep 2026 05:06:41 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazon-launches-alwayson-ai-agent-for-thirdparty-sellers</guid>
       <category>Platforms</category>
     </item>
   </channel>

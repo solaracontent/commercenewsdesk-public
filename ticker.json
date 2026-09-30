@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T19:50:55.794734+00:00",
+  "generated_at": "2026-09-30T20:17:37.583082+00:00",
   "items": [
     {
       "headline": "Port Houston lifts August container volumes 1% as steel imports jump 54%",
@@ -8,6 +8,14 @@
       "url": "https://commercenewsdesk.com/briefs/port-houston-lifts-august-container-volumes-1-as-steel-imports-j",
       "time_utc": "2026-09-30T16:41:05+00:00",
       "time_et": "Sep 30, 12:41 ET"
+    },
+    {
+      "headline": "Panama Canal Adds Transit Slot, Raises Draft to 49 Feet as Water Improves",
+      "desk": "Logistics",
+      "slug": "panama-canal-adds-transit-slot-raises-draft-to-49-feet-as-water",
+      "url": "https://commercenewsdesk.com/briefs/panama-canal-adds-transit-slot-raises-draft-to-49-feet-as-water",
+      "time_utc": "2026-09-30T16:40:13+00:00",
+      "time_et": "Sep 30, 12:40 ET"
     },
     {
       "headline": "Cargo thieves launder freight in as little as one week, Cornell warns",
@@ -50,6 +58,14 @@
       "time_et": "Sep 30, 10:29 ET"
     },
     {
+      "headline": "DoorDash launches Dasher Returns and adds five new retailers to its marketplace",
+      "desk": "Platforms",
+      "slug": "doordash-launches-dasher-returns-and-adds-five-new-retailers-to",
+      "url": "https://commercenewsdesk.com/briefs/doordash-launches-dasher-returns-and-adds-five-new-retailers-to",
+      "time_utc": "2026-09-30T13:00:33+00:00",
+      "time_et": "Sep 30, 09:00 ET"
+    },
+    {
       "headline": "Covenant CEO says market healthier as load-to-truck ratios ease to 1.3\u2011to\u20111.5",
       "desk": "Logistics",
       "slug": "covenant-ceo-says-market-healthier-as-load-to-truck-ratios-ease",
@@ -80,22 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/airbus-completes-first-test-flight-of-a350-freighter-targets-lat",
       "time_utc": "2026-09-29T16:18:13+00:00",
       "time_et": "Sep 29, 12:18 ET"
-    },
-    {
-      "headline": "Senate passes Common Cents bill to phase out penny",
-      "desk": "Payments",
-      "slug": "senate-passes-common-cents-bill-to-phase-out-penny",
-      "url": "https://commercenewsdesk.com/briefs/senate-passes-common-cents-bill-to-phase-out-penny",
-      "time_utc": "2026-09-29T14:35:00+00:00",
-      "time_et": "Sep 29, 10:35 ET"
-    },
-    {
-      "headline": "Panama Canal Authority raises daily Neopanamax transits to 10 starting Oct. 15",
-      "desk": "Logistics",
-      "slug": "panama-canal-authority-raises-daily-neopanamax-transits-to-10-st",
-      "url": "https://commercenewsdesk.com/briefs/panama-canal-authority-raises-daily-neopanamax-transits-to-10-st",
-      "time_utc": "2026-09-29T13:04:38+00:00",
-      "time_et": "Sep 29, 09:04 ET"
     }
   ]
 }

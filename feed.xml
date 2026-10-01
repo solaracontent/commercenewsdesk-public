@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:51:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:18:00 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI’s ChatGPT ad measurement gaps keep marketer budgets at test level</title>
@@ -23,6 +23,54 @@ OpenAI introduced ads in ChatGPT seven months ago, but its measurement tools hav
 Source: Digiday (https://digiday.com/marketing/openais-measurement-gaps-are-keeping-chatgpt-ads-budgets-at-test-level)</description>
       <pubDate>Thu, 01 Oct 2026 04:01:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/openais-chatgpt-ad-measurement-gaps-keep-marketer-budgets-at-tes</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Creators boost AI adoption to 87% as YouTube adds agentic tools</title>
+      <link>https://commercenewsdesk.com/briefs/creators-boost-ai-adoption-to-87-as-youtube-adds-agentic-tools</link>
+      <description>Over the past year, 87% of creators have increased their use of AI in content creation, and 86% plan to raise it further in the next 12 months. This growth comes after an early‑year rejection of AI‑generated content and coincides with YouTube’s addition of agentic features such as video A/B testing and conversational editing.
+
+YouTube’s new Ask Studio tool, powered by Gemini, lets creators upload multiple video versions and predicts which version will keep viewers watching the longest. CapCut and Adobe Firefly provide AI‑driven editing suites that creators use for tasks ranging from brainstorming to file organization, while brands worry that AI‑flagged posts could trigger platform penalties dubbed “AI jail”. Creators such as Gigi Robinson employ AI for analytics and task management, yet concerns persist that heavy reliance on generative AI could erode authenticity and lead to homogeneous content.
+
+“I think it’s a lot harder to be super binary because it’s just crept into our everyday so much,” Lucy Kruszynski said.
+
+“I don’t think brands care outside of like, ‘is this content going to be flagged as AI? And if it is, will I get into AI jail or algorithm jail?’ That’s the tricky part,” Keith Bendes said.
+
+Earlier in the year, after the release of OpenAI’s Sora 2, the creator economy loudly denounced generative AI content in favor of authenticity. YouTube removed AI slop accounts, Instagram CEO Adam Mosseri issued a memo urging higher ranking for originality, and brands sought the messiness and creativity of real creators.
+
+Source: Digiday (https://digiday.com/media/the-creator-economys-stance-on-ai-is-shifting-again)</description>
+      <pubDate>Thu, 01 Oct 2026 04:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/creators-boost-ai-adoption-to-87-as-youtube-adds-agentic-tools</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Amazon says 20% of brand value appears after ad attribution window closes.</title>
+      <link>https://commercenewsdesk.com/briefs/amazon-says-20-of-brand-value-appears-after-ad-attribution-windo</link>
+      <description>Amazon says about 20% of a brand’s sales value appears after the standard 7‑ to 30‑day ad attribution window ends, based on a study of over two million June campaigns. The finding underpins Amazon’s push to count ad impact over a full year, using a long‑term sales metric first tested in a closed beta since October 2024.
+
+The metric tracks new‑to‑brand shoppers, notes their first ad‑driven actions like a brand search or cart add, and applies the brand’s past 12‑month return from similar shoppers to forecast annual sales. Amazon has also rolled out full‑funnel campaigns, announced last November, that shift budgets across Sponsored Products, Sponsored Brands, display and streaming to encourage longer‑term purchases. Soon marketers will be able to compare projected long‑term sales with actual results in Amazon’s clean room, while the platform now provides agencies with 90 days of historical sales data—short of the roughly 18 months many models require.
+
+“What we actually find is that roughly 20% of the sales value for a brand shows up over time and isn’t captured in that immediate attribution window because that’s just a cutoff date for measurement,” Lily Tong, a director of measurement at Amazon Ads said.
+
+Amazon believes its advertising drives more sales than the short attribution windows currently show. Demonstrating that longer‑term impact is becoming a basic requirement, and Amazon faces the same pressure as Google to prove it. While improved upper‑funnel tools and AI shopping shift spend away from search, platforms such as TikTok, Instagram, YouTube and creators often claim credit for purchases that ultimately occur on Amazon.
+
+Source: Digiday (https://digiday.com/media-buying/amazon-wants-to-own-the-long-game-in-ad-measurement)</description>
+      <pubDate>Thu, 01 Oct 2026 04:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazon-says-20-of-brand-value-appears-after-ad-attribution-windo</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>AI agents show 177 toy brands but nearly all picks come from Amazon’s own store</title>
+      <link>https://commercenewsdesk.com/briefs/ai-agents-show-177-toy-brands-but-nearly-all-picks-come-from-ama</link>
+      <description>Jellyfish’s Share of Model tool found that Alexa for Shopping recommended toys from 177 brands, with nearly all selections coming from Amazon’s own store. By contrast, ChatGPT suggested 24 retailers and Google’s AI Mode suggested 37 for the same toy request.
+
+The Share of Model tool tracked recommendations from Alexa, ChatGPT and Google’s AI Mode across eight categories in the United States, United Kingdom, Australia and Singapore. In July, Copilot’s top 100 e-commerce sites accounted for 34% of its citations, a share more than triple Google’s AI Mode and eight times ChatGPT’s. A Dentsu Creative survey of 1,950 senior marketers in 14 markets found 59% are optimizing content for AI-enabled search while half are investing in agentic commerce. Adobe’s analysis of more than one trillion U.S. retail site visits showed AI-referred shoppers generated 53% higher revenue per visit than other traffic in July.
+
+The article describes AI agents as emerging gatekeepers that choose products for shoppers using algorithms marketers do not fully understand. It notes that marketers have begun tailoring content and investing in agentic commerce to improve visibility in those AI-driven recommendations.
+
+Source: Digiday (https://digiday.com/marketing/in-graphic-detail-where-brands-stand-when-ai-agents-do-the-shopping)</description>
+      <pubDate>Thu, 01 Oct 2026 04:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ai-agents-show-177-toy-brands-but-nearly-all-picks-come-from-ama</guid>
       <category>Platforms</category>
     </item>
     <item>
@@ -756,50 +804,6 @@ Source: The Loadstar (https://theloadstar.com/a-resilient-consumer-meets-kuehnes
       <pubDate>Tue, 29 Sep 2026 08:56:51 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/kuehne-nagel-shares-earnings-outlook-amid-amazon-air-cargo-tie-u</guid>
       <category>Logistics</category>
-    </item>
-    <item>
-      <title>Not On The High Street raises TV/VOD spend 120% for festive campaign</title>
-      <link>https://commercenewsdesk.com/briefs/not-on-the-high-street-raises-tv-vod-spend-120-for-festive-campa</link>
-      <description>Not On The High Street launched a two-part Autumn and Christmas campaign on October 1, boosting its TV and VOD investment by 120% compared with last year. The campaign features a 30‑second brand film airing from October 1 and a 45‑second Christmas spot running from November through mid‑December.
-
-The films were directed by Benji Jackson and Will Warr of Detail Films, with Warr also known for filming Princess Kate’s ‘Mother Nature’ series. Real artisans Kate Brigden, Posh Totty and This is Nessie appear in the Autumn film, while the Christmas spot’s hero prop was handcrafted by Welsh partner MijMoj. NOTHS said the increased spend aims to capture early festive shoppers and build sustained emotional brand affinity during the peak Q4 period, when partners generate about 44% of their yearly sales.
-
-“This year, we wanted to return to the very heart of what makes Not On The High Street so special. That meant doubling down on what has always set us apart: the incredible talent and individuality of our small business community, the real people behind every product, and the deeply emotional connections that thoughtful gifting can create,” Rachel Wells, VP Brand &amp; Experience at Not On The High Street said.
-
-Last year NOTHS ran a shorter festive TV/VOD push with lower investment; this year's campaign marks a 120% increase over that spend.
-
-Source: ChannelX (https://channelx.world/2026/09/not-on-the-high-street-doubles-tv-investment-with-autumn-and-christmas-campaigns)</description>
-      <pubDate>Tue, 29 Sep 2026 08:38:50 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/not-on-the-high-street-raises-tv-vod-spend-120-for-festive-campa</guid>
-      <category>Marketplaces</category>
-    </item>
-    <item>
-      <title>Truce is extended on television but still set to end November 9</title>
-      <link>https://commercenewsdesk.com/briefs/truce-is-extended-on-television-but-still-set-to-end-november-9</link>
-      <description>The truce was extended for two more months on television, while the written agreement shows an end date of November 9. Shippers will see a December window of relief from the extension, but the announcement does not constitute a new deal.
-
-The extension adds two months to the truce period, moving the operational end point to December for shippers. Despite the television announcement, the paper terms of the truce remain unchanged, preserving the November 9 expiry. No new terms were agreed upon in the extension, meaning existing conditions continue to apply. The development gives shippers additional time to manage holiday shipments before the November 9 deadline. The piece also raises the question of what could still break the truce.
-
-Source: The Loadstar (https://theloadstar.com/the-truce-was-extended-on-television-on-paper-it-still-ends-november-9)</description>
-      <pubDate>Tue, 29 Sep 2026 08:11:33 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/truce-is-extended-on-television-but-still-set-to-end-november-9</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Aldi boss accuses rivals of duping shoppers with loyalty prices</title>
-      <link>https://commercenewsdesk.com/briefs/aldi-boss-accuses-rivals-of-duping-shoppers-with-loyalty-prices</link>
-      <description>Aldi UK boss Giles Hurley accused rival supermarkets of duping shoppers with loyalty prices as Aldi reported group sales across the UK and Ireland rose five per cent to a record £19bn in 2025. Operating profit edged down to £432.9m as the retailer absorbed higher wage bills and continued investing in prices, stores and infrastructure.
-
-Aldi said it has invested £340m in price cuts this year to reinforce its value credentials amid intense competition across the grocery sector. The retailer is committing £900m to its UK business in 2027, which will fund 40 new supermarkets and further spending on its distribution network as it works toward a long‑term target of 1,500 UK stores. It currently operates 1,092 stores and is preparing to open 30 new locations in the coming weeks. The Competition and Markets Authority analysed around 50,000 loyalty‑priced products across Tesco, Sainsbury’s, Waitrose, Co‑op and Morrisons and found that 92 per cent offered a genuine saving, with shoppers typically saving between 17 per cent and 25 per cent.
-
-“However, when promotions start with unrealistically high prices and come down to prices which aren’t that competitive and dupe customers, we would view that as loyalty that isn’t supportive, that isn’t transparent and doesn’t help customers plan and budget,” Giles Hurley, Aldi UK boss said.
-
-Aldi remains the only major UK supermarket without a loyalty scheme, and Hurley’s comments come despite a Competition and Markets Authority investigation that found little evidence of routine price inflation for loyalty discounts. The watchdog’s analysis of around 50,000 loyalty‑priced products showed 92% offered genuine savings, though it warned loyalty prices were not always the cheapest across the market.
-
-Source: Retail Gazette (https://retailgazette.co.uk/blog/2026/09/aldi-boss-accuses-rivals-of-duping-shoppers-with-loyalty-prices)</description>
-      <pubDate>Tue, 29 Sep 2026 07:18:42 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/aldi-boss-accuses-rivals-of-duping-shoppers-with-loyalty-prices</guid>
-      <category>Platforms</category>
     </item>
   </channel>
 </rss>

@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 17:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:49:52 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Consumer confidence drops to 12‑year low of 81.8 as inflation worries rise</title>
@@ -22,6 +22,22 @@ Source: Retail Dive (https://retaildive.com/news/consumer-confidence-sags-12-yea
       <pubDate>Thu, 01 Oct 2026 14:39:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/consumer-confidence-drops-to-12year-low-of-81-8-as-inflation-wor</guid>
       <category>Policy</category>
+    </item>
+    <item>
+      <title>SH 130 toll road sees 130% truck traffic rise as fleets seek safer, faster route</title>
+      <link>https://commercenewsdesk.com/briefs/sh-130-toll-road-sees-130-truck-traffic-rise-as-fleets-seek-safe</link>
+      <description>Heavy truck traffic on the southern 41‑mile stretch of SH 130 has risen nearly 130% since 2019, according to the road’s operator. Drivers on SH 130 are 80% less likely to experience a crash than those on I‑35, making it a safer alternative for fleets.
+
+quotes
+
+“The cost of time spent sitting in I-35 congestion — including increased fuel consumption, lost revenue and late fees for freight carriers — can be two to three times the cost of the SH 130 toll,” Ryan Sethness, Head of Freight Business Development, SH 130 Concession Company said.
+
+context
+
+Source: FreightWaves (https://freightwaves.com/news/sh-130-a-smarter-safer-route-through-central-texas)</description>
+      <pubDate>Thu, 01 Oct 2026 13:42:59 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/sh-130-toll-road-sees-130-truck-traffic-rise-as-fleets-seek-safe</guid>
+      <category>Logistics</category>
     </item>
     <item>
       <title>H&amp;M Kids launches Strawberry Thief childrenswear line with Morris &amp; Co on 8 Oct</title>
@@ -798,22 +814,6 @@ Source: Shopify Changelog (https://changelog.shopify.com/posts/return-window-ove
       <pubDate>Tue, 29 Sep 2026 13:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/shopify-lets-merchants-set-14day-return-overrides-for-specific-p</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>German security agencies move to block Cosco’s 80% stake bid for Zippel</title>
-      <link>https://commercenewsdesk.com/briefs/german-security-agencies-move-to-block-coscos-80-stake-bid-for-z</link>
-      <description>German security agencies are reportedly set to block Cosco’s bid to acquire an 80% stake in Hamburg logistics firm Konrad Zippel. The agencies warn the purchase would form part of a broader Chinese strategy to gain a foothold at Hamburg’s port, despite Zippel’s modest 1.5% share of the local freight‑forwarding market.
-
-Under Cosco’s proposal, the state‑owned Chinese shipping giant would take an 80% stake through its Dutch subsidiary Goldlead Supply Chain Development, leaving founder Axel Plass with the remaining 20%. The deal had already cleared Germany’s antitrust authority, Bundeskartellamt, back in February. Plass has insisted the transaction is about winning and retaining cargo and that all jobs would be preserved. The security agencies’ objection stems not from the stake itself but from its addition to Cosco’s existing 24.99% holding in the Tollerot container terminal, which they view as a cumulative acquisition strategy.
-
-“all jobs will be preserved,” Axel Plass, MD said.
-
-Earlier this year, Cosco secured a 24.99% stake in Hamburg’s Tollerot container terminal after a six‑month security review, following an initial attempt to take a 35% share that was blocked by German authorities. The current bid for Zippel would add to that holding, prompting security agencies to warn of a cumulative acquisition strategy. Zippel’s managing director has repeatedly said the transaction is aimed at preserving jobs and winning cargo, not at strategic control.
-
-Source: The Loadstar (https://theloadstar.com/german-security-agencies-baulk-at-cosco-bid-for-zippel)</description>
-      <pubDate>Tue, 29 Sep 2026 12:27:44 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/german-security-agencies-move-to-block-coscos-80-stake-bid-for-z</guid>
-      <category>Logistics</category>
     </item>
   </channel>
 </rss>

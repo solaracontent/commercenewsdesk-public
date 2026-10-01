@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:19:09.986038+00:00",
+  "generated_at": "2026-10-01T18:49:17.851089+00:00",
   "items": [
     {
       "headline": "Skechers CFO John Vandemore joins Levi Strauss as CFO effective November 1",
@@ -10,12 +10,28 @@
       "time_et": "Oct 1, 11:52 ET"
     },
     {
+      "headline": "AI traffic to U.S. retail sites set to rise 130% this holiday season",
+      "desk": "Platforms",
+      "slug": "ai-traffic-to-u-s-retail-sites-set-to-rise-130-this-holiday-seas",
+      "url": "https://commercenewsdesk.com/briefs/ai-traffic-to-u-s-retail-sites-set-to-rise-130-this-holiday-seas",
+      "time_utc": "2026-10-01T15:49:00+00:00",
+      "time_et": "Oct 1, 11:49 ET"
+    },
+    {
       "headline": "KnitWell Group names Angelica Munson chief digital and customer data officer",
       "desk": "Platforms",
       "slug": "knitwell-group-names-angelica-munson-chief-digital-and-customer",
       "url": "https://commercenewsdesk.com/briefs/knitwell-group-names-angelica-munson-chief-digital-and-customer",
       "time_utc": "2026-10-01T15:13:00+00:00",
       "time_et": "Oct 1, 11:13 ET"
+    },
+    {
+      "headline": "Stripe to acquire embedded\u2011finance startup Parafin for $750\u202fmillion",
+      "desk": "Payments",
+      "slug": "stripe-to-acquire-embeddedfinance-startup-parafin-for-750-millio",
+      "url": "https://commercenewsdesk.com/briefs/stripe-to-acquire-embeddedfinance-startup-parafin-for-750-millio",
+      "time_utc": "2026-10-01T14:54:00+00:00",
+      "time_et": "Oct 1, 10:54 ET"
     },
     {
       "headline": "Consumer confidence drops to 12\u2011year low of 81.8 as inflation worries rise",
@@ -78,22 +94,6 @@
       "desk": "Platforms",
       "slug": "creators-boost-ai-adoption-to-87-as-youtube-adds-agentic-tools",
       "url": "https://commercenewsdesk.com/briefs/creators-boost-ai-adoption-to-87-as-youtube-adds-agentic-tools",
-      "time_utc": "2026-10-01T04:01:00+00:00",
-      "time_et": "Oct 1, 00:01 ET"
-    },
-    {
-      "headline": "Amazon says 20% of brand value appears after ad attribution window closes.",
-      "desk": "Platforms",
-      "slug": "amazon-says-20-of-brand-value-appears-after-ad-attribution-windo",
-      "url": "https://commercenewsdesk.com/briefs/amazon-says-20-of-brand-value-appears-after-ad-attribution-windo",
-      "time_utc": "2026-10-01T04:01:00+00:00",
-      "time_et": "Oct 1, 00:01 ET"
-    },
-    {
-      "headline": "AI agents show 177 toy brands but nearly all picks come from Amazon\u2019s own store",
-      "desk": "Platforms",
-      "slug": "ai-agents-show-177-toy-brands-but-nearly-all-picks-come-from-ama",
-      "url": "https://commercenewsdesk.com/briefs/ai-agents-show-177-toy-brands-but-nearly-all-picks-come-from-ama",
       "time_utc": "2026-10-01T04:01:00+00:00",
       "time_et": "Oct 1, 00:01 ET"
     }

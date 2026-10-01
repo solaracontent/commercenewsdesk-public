@@ -5,8 +5,26 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 03:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 03:45:59 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Seeteria AI uses existing warehouse cameras to cut idle dock time</title>
+      <link>https://commercenewsdesk.com/briefs/seeteria-ai-uses-existing-warehouse-cameras-to-cut-idle-dock-tim</link>
+      <description>Seeteria’s AI platform flags idle dock doors that sit for as long as 7 minutes, helping warehouses recover lost capacity without new hardware. Small disruptions of 7 to 15 minutes each can compound into hours of missed capacity per shift, according to the founder.
+
+The platform connects to a facility’s existing camera network over Wi‑Fi, analyzes activity in real time, and sends color‑coded alerts — green, yellow, red — to supervisors’ mobile or tablet apps showing the status of each dock door and zone. Floor supervisors receive live push alerts, warehouse managers get a post‑shift summary of bottlenecks, and executives view a financial‑impact report tied to detention fees and missed throughput targets. The system deliberately avoids identifying people, detecting only objects such as forklifts, pallets, dock doors and congestion patterns to protect worker privacy and reduce surveillance anxiety.
+
+“Our goal all the time is to get the warehouse more capacity from the resources that they are already paying for,” Sarit Tamir, founder and CEO of Seeteria said.
+
+“The system is completely blind to people,” Sarit Tamir, founder and CEO of Seeteria said.
+
+Seeteria recently completed a stint at the CoLab accelerator in Chattanooga, Tennessee, after a connection made at the Home Delivery World conference in Nashville. The company announced that a new pilot launch in Chattanooga is imminent. Its name derives from the Greek goddess Soteria, but the spelling was changed from “SO” to “SEE” to reflect its computer vision focus.
+
+Source: FreightWaves (https://freightwaves.com/news/warehouse-ai-using-existing-cameras-to-cut-idle-dock-time)</description>
+      <pubDate>Thu, 01 Oct 2026 00:19:41 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/seeteria-ai-uses-existing-warehouse-cameras-to-cut-idle-dock-tim</guid>
+      <category>Logistics</category>
+    </item>
     <item>
       <title>DoorDash shows off under‑55‑pound delivery drone for Northern California launch</title>
       <link>https://commercenewsdesk.com/briefs/doordash-shows-off-under55pound-delivery-drone-for-northern-cali</link>
@@ -781,22 +799,6 @@ Hy-Vee’s Dollar Fresh Markets, which launched in 2018, were the regional groce
 Source: Grocery Dive (https://grocerydive.com/news/hy-vee-dollar-fresh-market-transition-groceryshop/831402)</description>
       <pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/hy-vee-rebrands-all-22-dollar-fresh-market-stores-as-hy-vee</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Amazon leads ecommerce marketplaces in AI visibility with 19.3% share of voice</title>
-      <link>https://commercenewsdesk.com/briefs/amazon-leads-ecommerce-marketplaces-in-ai-visibility-with-19-3-s</link>
-      <description>Amazon leads top ecommerce marketplaces in AI visibility with a 19.3% share of voice, according to new analysis from Onclusive. Walmart followed with 14% share of voice, while Amazon also scored the highest prominence at 92% versus Walmart’s 84%. Amazon garnered 16.4 million media mentions, far above Walmart’s 5.6 million, and NIQ research shows 74% of global shoppers now use AI for product discovery.
-
-The study measured share of voice by counting how often each marketplace appeared in responses from ChatGPT and Perplexity.
-
-“What stands out from this analysis is how quickly a new hierarchy of brand visibility is forming within generative AI. The major marketplaces are not appearing equally, and the gap between the most and least visible brands is already significant,” Christophe Asselin, Senior Insights Manager at Onclusive said.
-
-Generative AI now forms another layer of brand discovery alongside traditional search, social media and other digital channels.
-
-Source: ChannelX (https://channelx.world/2026/09/amazon-leads-ecommerce-marketplaces-for-ai-visibility)</description>
-      <pubDate>Mon, 28 Sep 2026 12:25:31 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazon-leads-ecommerce-marketplaces-in-ai-visibility-with-19-3-s</guid>
       <category>Platforms</category>
     </item>
   </channel>

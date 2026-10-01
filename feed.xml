@@ -5,8 +5,26 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:15:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:51:16 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI’s ChatGPT ad measurement gaps keep marketer budgets at test level</title>
+      <link>https://commercenewsdesk.com/briefs/openais-chatgpt-ad-measurement-gaps-keep-marketer-budgets-at-tes</link>
+      <description>Seven months after OpenAI began selling ads in ChatGPT, marketers still struggle to measure campaign performance, leaving budgets at test levels. Agencies report that ChatGPT shows around 100 clicks while their own logs record only 20, and conversions appear 24 to 36 hours later than on Google.
+
+Many advertisers have not enabled conversion tracking because signing OpenAI’s tracking terms raises legal concerns about liability and data use. OpenAI’s conversions API could improve attribution, but enterprise clients are slow to adopt it and smaller firms often lack the staff to set it up correctly. As a result, most campaigns are still optimized toward clicks or impressions rather than cost‑per‑acquisition or return on ad spend.
+
+“The transition now that we are able to optimize to CPA, rather than focusing on CPC and leading metrics, has been pivotal,” Jellyfish’s Victor Batista, senior paid media director said.
+
+“I think with time, as they gain confidence in their measurement suite, we will see further evolution, and platform confidence will improve as more data is analyzed across partners,” Jellyfish’s Victor Batista, senior paid media director said.
+
+OpenAI introduced ads in ChatGPT seven months ago, but its measurement tools have remained basic, prompting marketer frustration.
+
+Source: Digiday (https://digiday.com/marketing/openais-measurement-gaps-are-keeping-chatgpt-ads-budgets-at-test-level)</description>
+      <pubDate>Thu, 01 Oct 2026 04:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/openais-chatgpt-ad-measurement-gaps-keep-marketer-budgets-at-tes</guid>
+      <category>Platforms</category>
+    </item>
     <item>
       <title>Seeteria AI uses existing warehouse cameras to cut idle dock time</title>
       <link>https://commercenewsdesk.com/briefs/seeteria-ai-uses-existing-warehouse-cameras-to-cut-idle-dock-tim</link>
@@ -781,22 +799,6 @@ Aldi remains the only major UK supermarket without a loyalty scheme, and Hurley�
 Source: Retail Gazette (https://retailgazette.co.uk/blog/2026/09/aldi-boss-accuses-rivals-of-duping-shoppers-with-loyalty-prices)</description>
       <pubDate>Tue, 29 Sep 2026 07:18:42 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/aldi-boss-accuses-rivals-of-duping-shoppers-with-loyalty-prices</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Ex-eBay Manager Sues Over Alleged Seller Favoritism, 2012 Acquisition Metrics</title>
-      <link>https://commercenewsdesk.com/briefs/ex-ebay-manager-sues-over-alleged-seller-favoritism-2012-acquisi</link>
-      <description>Former eBay Motors Manager Anson Tse sued eBay on September 25, alleging seller favoritism and saying the Parts &amp; Accessories business delivered 21% year‑over‑year growth in 2012. The Administrative Review Board affirmed the earlier dismissal of his claims on August 31, 2026, prompting Tse to seek de novo review in federal court.
-
-Tse worked for eBay from 2007 to 2015, starting as Manager, Enthusiast Vehicles and later serving as interim head of the Parts &amp; Accessories business.
-
-“before the Secretary of Labor issued a final decision,” Anson Tse, former eBay Motors Manager said.
-
-Tse first filed a Sarbanes‑Oxley whistleblower complaint with OSHA in 2015, which OSHA dismissed, and a Department of Labor Administrative Law Judge later denied his claims after a six‑day hearing. The Administrative Review Board affirmed that decision on August 31, 2026, but Tse is now seeking de novo review in federal court under a SOX provision that allows exit when the Labor Department fails to issue a final decision within 180 days.
-
-Source: Value Added Resource (https://valueaddedresource.net/ex-ebay-whistleblower-new-lawsuit)</description>
-      <pubDate>Tue, 29 Sep 2026 02:08:27 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ex-ebay-manager-sues-over-alleged-seller-favoritism-2012-acquisi</guid>
       <category>Platforms</category>
     </item>
   </channel>

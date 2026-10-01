@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 03:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 04:22:19 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Seeteria AI uses existing warehouse cameras to cut idle dock time</title>
@@ -586,6 +586,42 @@ Source: Payments Dive (https://paymentsdive.com/news/senate-passes-common-cents-
       <category>Payments</category>
     </item>
     <item>
+      <title>Democrats propose tying AGOA duty‑free access to environmental enforcement</title>
+      <link>https://commercenewsdesk.com/briefs/democrats-propose-tying-agoa-dutyfree-access-to-environmental-en</link>
+      <description>Democratic lawmakers introduced legislation this week that would make duty‑free access under the African Growth and Opportunity Act for 32 sub‑Saharan African countries contingent on enforcing their own environmental laws. The bill comes as AGOA’s current authorization runs through December 31, 2028 after a two‑year extension signed by President Trump on September 2.
+
+ECO AGOA would add mandatory environmental compliance to the eligibility criteria without creating new standards, requiring beneficiary nations to enforce existing laws and meet international commitments. It would apply to the more than 1,800 products currently covered, including apparel, textiles, and footwear, across the 32 participating African nations. Examples cited by lawmakers include Lesotho textile mills accused of releasing untreated wastewater, Kenyan apparel manufacturers fined for poor effluent treatment, and Madagascar factories alleged to skirt water‑treatment rules.
+
+“Without environmental accountability criteria, the fossil fuel industry and other big polluters rake in more profits while harming the health of local communities and putting U.S. manufacturers that use clean production methods at a disadvantage,” Senator Sheldon Whitehouse, Democrat of Rhode Island said.
+
+“ECO AGOA sets a simple standard: If you want America’s trade preferences, enforce your own environmental laws. It is a modest step that helps our partners protect their own people and resources,” Representative Lloyd Doggett, Democrat of Texas said.
+
+AGOA’s authorization was set to expire at the end of 2026 after Congress restored the program retroactively in February following a lapse that began in September 2025. President Trump signed a two‑year extension on September 2, extending the program through December 31, 2028.
+
+Source: Sourcing Journal (https://wwd.com/sourcing-journal/sustainability/eco-agoa-environmental-requirements-legslation-1239285488)</description>
+      <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/democrats-propose-tying-agoa-dutyfree-access-to-environmental-en</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Pacsun summit shows Gen Z trusts friends over AI and influencers</title>
+      <link>https://commercenewsdesk.com/briefs/pacsun-summit-shows-gen-z-trusts-friends-over-ai-and-influencers</link>
+      <description>Pacsun’s second-annual Purpose Summit, held last week, revealed that Generation Z relies more on friends and family than on influencers or artificial intelligence, based on its 2026 Youth Report. While 85 percent of young people use AI, just 2 percent trust it for fashion advice and 5 percent for financial advice.
+
+The summit, hosted at Soho House’s Little Beach House Malibu, featured speakers from Snapchat, Rare Beauty, the Los Angeles Rams and Angel City FC, among others. It also marked the first public appearance of the second cohort of Pacsun’s Youth Council, which gives younger consumers a voice through strategy sessions, workshops and executive mentorship. Discussions centered on the report’s finding that Gen Z is pulling closer to family and friends while becoming more selective about noisy online environments shaped by algorithms and inauthentic messaging. The event opened with a guided meditation led by Tai Beauchamp, founder of Tai Media, instead of a traditional keynote.
+
+“The Purpose Summit gives us an opportunity to take what we’re hearing from young people and put it into conversation with the people helping shape the world around them,” Brieane Olson, CEO of Pacsun said.
+
+“The data showed that young people are becoming more intentional about the relationships, influences and priorities closest to them,” Neil Saunders, managing director and retail analyst at GlobalData said.
+
+Pacsun held its first Purpose Summit the previous year, establishing an annual forum for youth insights. The retailer’s Youth Council launched earlier, with its first cohort already advising the brand. The 2026 Youth Report was developed in partnership with GlobalData to inform the summit’s discussions.
+
+Source: Sourcing Journal (https://wwd.com/sourcing-journal/industry-news/pacsun-summit-reveals-gen-z-pulls-up-the-drawbridge-on-ai-1239283808)</description>
+      <pubDate>Tue, 29 Sep 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/pacsun-summit-shows-gen-z-trusts-friends-over-ai-and-influencers</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
       <title>Panama Canal Authority raises daily Neopanamax transits to 10 starting Oct. 15</title>
       <link>https://commercenewsdesk.com/briefs/panama-canal-authority-raises-daily-neopanamax-transits-to-10-st</link>
       <description>The Panama Canal Authority will increase daily Neopanamax lock transits to 10 beginning Oct. 15, lifting total daily capacity across the Neopanamax and Panamax locks to 33 slots. It also restored the maximum authorized draft for Neopanamax vessels to 49 feet, letting ships carry more cargo through the canal.
@@ -598,6 +634,18 @@ Source: FreightWaves (https://freightwaves.com/news/new-limits-more-ships-can-tr
       <pubDate>Tue, 29 Sep 2026 13:04:38 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/panama-canal-authority-raises-daily-neopanamax-transits-to-10-st</guid>
       <category>Logistics</category>
+    </item>
+    <item>
+      <title>Shopify lets merchants set 14‑day return overrides for specific products</title>
+      <link>https://commercenewsdesk.com/briefs/shopify-lets-merchants-set-14day-return-overrides-for-specific-p</link>
+      <description>Shopify now lets merchants set return window overrides for specific collections, products, or variants, allowing periods as short as 14 days instead of the default 90‑day window. Overrides replace the default return window, and when multiple overrides apply the shortest one wins, while final‑sale items remain non‑returnable.
+
+To set an override, merchants go to Settings &gt; Policies &gt; Return and cancellation rules, select a market’s rules to modify, and then choose a collection, product, or variant to apply the new window. If an item matches an override, that override’s return window is used; otherwise the market‑specific or storewide default applies. For example, a merchant can apply a 14‑day window to a “Holiday 2026” collection while keeping the storewide default at 90 days.
+
+Source: Shopify Changelog (https://changelog.shopify.com/posts/return-window-overrides-now-available)</description>
+      <pubDate>Tue, 29 Sep 2026 13:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/shopify-lets-merchants-set-14day-return-overrides-for-specific-p</guid>
+      <category>Platforms</category>
     </item>
     <item>
       <title>German security agencies move to block Cosco’s 80% stake bid for Zippel</title>
@@ -614,6 +662,24 @@ Source: The Loadstar (https://theloadstar.com/german-security-agencies-baulk-at-
       <pubDate>Tue, 29 Sep 2026 12:27:44 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/german-security-agencies-move-to-block-coscos-80-stake-bid-for-z</guid>
       <category>Logistics</category>
+    </item>
+    <item>
+      <title>Primark signs long-term deal with Circ to introduce recycled polyester from 2029</title>
+      <link>https://commercenewsdesk.com/briefs/primark-signs-long-term-deal-with-circ-to-introduce-recycled-pol</link>
+      <description>Primark agreed a long-term purchase deal with Circ to use recycled polyester made from textile waste in its clothing starting in 2029. The deal marks Primark’s first multi-year offtake agreement with a textile-to-textile recycler.
+
+Recycled polyester will be produced at Circ’s commercial facility, which is the company’s first industrial-scale textile-to-textile recycling plant. The plant will source post-consumer and post-industrial textile waste globally, including waste collected in Europe. The agreement supports Primark’s goal to increase circular materials and reduce reliance on virgin polyester, and it forms part of the retailer’s Primark Cares strategy covering circular design, garment reuse and repair, and increased recycled fibre use.
+
+“We launched Primark Cares with a focus on improving the quality and longevity of our clothing, and in the process show that clothes made to last longer don’t have to come at a higher price,” Lynne Walker, Primark Cares director said.
+
+“This partnership is an important milestone in accelerating our ambitions to further embed circularity in our business and help scale innovative textile-to-textile recycling solutions that could play a transformational role in the future of fashion,” Lynne Walker, Primark Cares director said.
+
+Primark has been working to increase the use of recycled fibres through its Primark Cares initiative, which also emphasizes circular design and extending garment life via reuse and repair. Prior to this deal, the retailer had not entered into a multi-year offtake agreement with a textile-to-textile recycler.
+
+Source: Retail Gazette (https://retailgazette.co.uk/blog/2026/09/primark-signs-long-term-deal-to-scale-recycled-fibres)</description>
+      <pubDate>Tue, 29 Sep 2026 12:27:18 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/primark-signs-long-term-deal-with-circ-to-introduce-recycled-pol</guid>
+      <category>Platforms</category>
     </item>
     <item>
       <title>Hapag-Lloyd raises 2026 profit outlook by over $1bn after strong peak season</title>
@@ -742,64 +808,6 @@ Source: FreightWaves (https://freightwaves.com/news/suez-return-speeds-up-savann
       <pubDate>Mon, 28 Sep 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/suez-return-cuts-india-savannah-transit-by-10-14-days</guid>
       <category>Logistics</category>
-    </item>
-    <item>
-      <title>Netstock report shows over 2,500 SMBs juggling multiple supply chain risks</title>
-      <link>https://commercenewsdesk.com/briefs/netstock-report-shows-over-2-500-smbs-juggling-multiple-supply-c</link>
-      <description>Netstock surveyed more than 2,500 global SMBs for its 2026 Benchmark Report, finding they now juggle supplier volatility, raw material cost fluctuations, and demand shifts instead of preparing for a single disruption. The report found that typical SMBs now turn inventory four times per year, the highest level in three years, while top performers average nearly eight turns annually.
-
-The proportion of SMBs reporting more than 10% of inventory as dead stock has doubled since 2024. The share of SMBs saying they do not use AI or are unsure of its effectiveness has been cut in half since 2024. Concerns about data integrity and security in AI applications have risen from 23% of respondents in 2024 to 39% this year. Supplier lead-time swings were cited by 29% of respondents as a planning challenge.
-
-“Businesses are no longer preparing for a single disruption,” Ara Ohanian, CEO of Netstock said.
-
-Since 2024, the portion of SMBs reporting they do not use AI or are uncertain about its effectiveness has fallen by half. At the same time, worries over data integrity and security in AI have grown from 23% to 39% of respondents, and the share of SMBs with over 10% dead stock has doubled.
-
-Source: Sourcing Journal (https://wwd.com/sourcing-journal/industry-news/supply-chain-report-reveals-challenges-facing-smbs-netstock-1239283943)</description>
-      <pubDate>Mon, 28 Sep 2026 16:02:11 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/netstock-report-shows-over-2-500-smbs-juggling-multiple-supply-c</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Shopify adds category metafields to Analytics for filtering and grouping reports</title>
-      <link>https://commercenewsdesk.com/briefs/shopify-adds-category-metafields-to-analytics-for-filtering-and</link>
-      <description>Shopify now makes category metafields available as dimensions and filters in its Analytics tool. Merchants whose products already have category metafields can use them immediately without any additional configuration.
-
-Users can group sales reports by Color. Users can group sales reports by Material. Users can group sales reports by Fit. Users can group sales reports by Fabric. Users can group sales reports by Size. Users can group sales reports by Activity. Users can group sales reports by any other category metafield they have defined. Merchants can filter reports to a specific value such as organic cotton. Merchants can filter reports to a particular color. The metafields can be applied in Reports. The metafields can be applied in Explore. The metafields can be applied in the query editor. The process of categorizing products has not changed. Existing custom metafields continue to work exactly as before. When a product has multiple values for an attribute, Analytics combines them on a single row to avoid double‑counting sales.
-
-Until now, the color, material, fit, and other attributes you set when you categorize a product stayed on the product page. To see which materials or colors actually sell, you had to export.
-
-Source: Shopify Changelog (https://changelog.shopify.com/posts/category-metafields-are-now-available-in-analytics)</description>
-      <pubDate>Mon, 28 Sep 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/shopify-adds-category-metafields-to-analytics-for-filtering-and</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Retailers expect U.S. holiday e‑commerce sales to reach $275.1 billion in 2026</title>
-      <link>https://commercenewsdesk.com/briefs/retailers-expect-u-s-holiday-ecommerce-sales-to-reach-275-1-bill</link>
-      <description>Adobe projects that U.S. online sales for the 2026 holiday season (Nov. 1–Dec. 31) will rise 6.7% year over year to $275.1 billion. For Cyber Week, the five‑day span between Thanksgiving and Cyber Monday, Adobe forecasts online sales of $47.5 billion, a 7.4% increase, with Cyber Monday alone topping $15 billion, up 6.2%. Black Friday is expected to generate $12.9 billion, a 9.2% jump, making it the second‑largest single‑day holiday spend after Cyber Monday.
-
-Adobe predicts that during Cyber Week, personal‑hygiene product sales will surge 150% versus September averages, clothing basics 210%, baby products 113%, pet items 93% and household cleaners 49%. The season’s top categories are electronics at $63.3 billion (+5.9%) and apparel at $51.3 billion (+4.7%), while furniture reaches $33.4 billion (+7.3%) and grocery, toys and cosmetics each near $26.1 billion, $9.6 billion and $9.2 billion respectively, all up about 10%. October’s Prime Big Deal Days are forecast to deliver almost $10 billion in online sales, pushing total October e‑commerce to $95.8 billion, an 8% year‑over‑year gain, while average discount depths stay flat versus 2025. Thanksgiving Day sales are seen at $6.9 billion (+8.5%) with 63% of orders on mobile, up from 61.6% in 2025, and mobile drives 82% of buy‑now‑pay‑later usage, lifting holiday BNPL to $21.3 billion (+6.6%) and AI‑driven site traffic to jump 130%.
-
-Source: Retail Dive (https://retaildive.com/news/holiday-season-ecommerce-sales-growth-2026/831121)</description>
-      <pubDate>Mon, 28 Sep 2026 15:27:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/retailers-expect-u-s-holiday-ecommerce-sales-to-reach-275-1-bill</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Hy-Vee rebrands all 22 Dollar Fresh Market stores as Hy-Vee</title>
-      <link>https://commercenewsdesk.com/briefs/hy-vee-rebrands-all-22-dollar-fresh-market-stores-as-hy-vee</link>
-      <description>Hy-Vee announced it is converting all 22 of its Dollar Fresh Market locations into standard Hy-Vee stores, a shift disclosed by CEO Jeremy Gosch at the Groceryshop keynote on Thursday. The decision follows a January announcement to rebrand four of the stores, which the chain is now extending to the full Dollar Fresh portfolio.
-
-Hy-Vee launched the Dollar Fresh Market format in 2018 as a low‑price banner aimed at competing with dollar retailers. As part of the conversion, each store is receiving an expanded assortment that grew by several thousand items in the first four pilot locations. The remodeled stores also gain bakeries, service meat cases, a health market and a prepared‑foods section offering sandwiches, salads and pizzas. Hy-Vee said the changes reflect what customers have come to expect from its brand, even in more remote locations.
-
-“We tried Dollar Fresh Market — a different brand, low-price operator going for real rural small towns. And what we found is a 96-year-old brand has got way more staying power in any market than trying to have a startup with a different name, because you’re known for something and that’s what you have to hang your hat on,” Jeremy Gosch, CEO said.
-
-Hy-Vee’s Dollar Fresh Markets, which launched in 2018, were the regional grocer’s attempt to take on dollar retailers. The grocer had made transitions like this before, he noted, pointing to Hy-Vee’s decision to convert all of its Wahlburgers restaurants into Market Grille locations in early 2025.
-
-Source: Grocery Dive (https://grocerydive.com/news/hy-vee-dollar-fresh-market-transition-groceryshop/831402)</description>
-      <pubDate>Mon, 28 Sep 2026 14:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/hy-vee-rebrands-all-22-dollar-fresh-market-stores-as-hy-vee</guid>
-      <category>Platforms</category>
     </item>
   </channel>
 </rss>

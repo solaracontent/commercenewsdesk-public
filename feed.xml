@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:55:01 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>OpenAI’s ChatGPT ad measurement gaps keep marketer budgets at test level</title>
@@ -792,17 +792,15 @@ Source: WWD (https://wwd.com/beauty-industry-news/beauty-features/sephora-ms-par
       <category>Marketplaces</category>
     </item>
     <item>
-      <title>Kuehne + Nagel shares earnings outlook amid Amazon air cargo tie-up</title>
-      <link>https://commercenewsdesk.com/briefs/kuehne-nagel-shares-earnings-outlook-amid-amazon-air-cargo-tie-u</link>
-      <description>Kuehne + Nagel set out a more constructive view of its earnings mix in London meetings described in a 24 September JP Morgan note. United States retail spending held up into peak season while import demand remained steady.
+      <title>Freighters face congestion at both Mumbai airports as hubs shift</title>
+      <link>https://commercenewsdesk.com/briefs/freighters-face-congestion-at-both-mumbai-airports-as-hubs-shift</link>
+      <description>Freighters using Mumbai’s airports encounter congestion due to capacity restrictions at the old city airport and teething troubles at the new Navi Mumbai International Airport. The congestion stems from a double-whammy of airside upgrades at the legacy airport and early-stage issues at the newly opened Navi Mumbai hub.
 
-The earnings mix plan includes AI-related air cargo, Chinese brands expanding internationally, and a strategy to restore European Road profitability and productivity gains from a more standardised technology platform. Analysts noted that K+N’s Air Logistics division is expected to benefit from the Amazon air cargo arrangement. The Amazon-Kuehne + Nagel tie-up has left market participants questioning its overall impact on capacity and pricing.
+The old Mumbai City airport is undergoing airside infrastructure upgrades that have imposed capacity restrictions on cargo flights. Navi Mumbai International Airport, the new hub intended to relieve pressure, is experiencing unexpected teething troubles that limit its operational capacity. Cargo airlines operating into Mumbai are consequently caught between the two constrained facilities, leading to congestion for freighters switching hubs. These constraints affect flight schedules and could increase transit times for shippers relying on Mumbai as a gateway.
 
-Earlier notes described the Amazon-Kuehne + Nagel air cargo agreement as leaving questions unanswered. The same coverage noted that K+N’s Air Logistics division was expected to benefit from the arrangement.
-
-Source: The Loadstar (https://theloadstar.com/a-resilient-consumer-meets-kuehnes-capacity-bet-what-to-make-of-it)</description>
-      <pubDate>Tue, 29 Sep 2026 08:56:51 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/kuehne-nagel-shares-earnings-outlook-amid-amazon-air-cargo-tie-u</guid>
+Source: The Loadstar (https://theloadstar.com/mumbai-airports-hit-by-congestion-as-freighter-services-switch-hubs)</description>
+      <pubDate>Tue, 29 Sep 2026 11:07:01 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/freighters-face-congestion-at-both-mumbai-airports-as-hubs-shift</guid>
       <category>Logistics</category>
     </item>
   </channel>

@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2026 23:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:19:47 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>China’s liner‑shipping connectivity index reaches 1,347.6 in September 2026</title>
@@ -337,6 +337,22 @@ context
 Source: FreightWaves (https://freightwaves.com/news/sh-130-a-smarter-safer-route-through-central-texas)</description>
       <pubDate>Thu, 01 Oct 2026 13:42:59 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/sh-130-toll-road-sees-130-truck-traffic-rise-as-fleets-seek-safe</guid>
+      <category>Logistics</category>
+    </item>
+    <item>
+      <title>Oxea chooses Uber Freight to run its global logistics network</title>
+      <link>https://commercenewsdesk.com/briefs/oxea-chooses-uber-freight-to-run-its-global-logistics-network</link>
+      <description>Oxea selected Uber Freight to manage its global logistics network, according to a Sept. 15 press release, while Uber Freight’s AI platform draws on data from more than 20 million delivered shipments. The logistics network spans the U.S., Canada, Mexico, and Europe, and Uber Freight will handle day-to-day transportation across truckload, rail, and ocean.
+
+By anticipating disruptions earlier and coordinating regional and modal transportation, Uber Freight aims to improve on‑time performance and proactive communication for Oxea. Efficient routing from the integrated transportation management system can also help Oxea cut its carbon emissions. The TMS provides real‑time shipment visibility, access to Uber Freight’s public tracking portal and carrier performance dashboards. Uber Freight’s AI logistics platform supplies insight and data analysis from over 20 million shipments and answers industry‑specific questions in real time. Oxea’s Chief Supply Chain Officer Scott Farmer said the partnership lets the company stay focused on its core business while logistics expertise handles the network. The transportation management system can be integrated into Oxea’s enterprise resource planning system, enabling smooth data flow between logistics and core business processes.
+
+“What matters is the impact: a clearer, earlier view of our global network, faster identification of potential disruptions, and more reliable, proactive information for customers,” Bret Bement, VP of supply chain management at Oxea said.
+
+“We bring technology, data and logistics expertise together to run the operation, identify issues earlier and keep improving how the network performs,” D’Andrae Larry, Uber Freight Chief Commercial Officer said.
+
+Source: Supply Chain Dive (https://supplychaindive.com/news/chemical-manufacturer-selects-uber-freight-to-manage-global-logistics/831786)</description>
+      <pubDate>Thu, 01 Oct 2026 12:52:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/oxea-chooses-uber-freight-to-run-its-global-logistics-network</guid>
       <category>Logistics</category>
     </item>
     <item>
@@ -809,22 +825,6 @@ Prior to the outbreak of the US-Israel-Iran conflict, the two UAE ports were a f
 Source: The Loadstar (https://theloadstar.com/hormuz-closure-a-fatal-blow-for-dubai-and-abu-dhabi-transhipment-volumes)</description>
       <pubDate>Wed, 30 Sep 2026 12:20:34 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/hormuz-closure-risks-permanent-transhipment-loss-at-jebel-ali-an</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Cook County sheriff’s cargo theft blitz recovers $635,000 in stolen freight</title>
-      <link>https://commercenewsdesk.com/briefs/cook-county-sheriffs-cargo-theft-blitz-recovers-635-000-in-stole</link>
-      <description>Cook County Sheriff’s Police led a 24‑hour National Supply Chain Blitz on Sept. 23‑24, resulting in the recovery of about $635,000 in stolen cargo. The effort, described as the nation’s first coordinated operation focused specifically on cargo theft, recovered thirty transformers worth roughly $600,000 of the total.
-
-Federal, state and local law enforcement agencies worked with railroad police from Norfolk Southern, Union Pacific, BNSF Railway and CSX, as well as private security groups such as CargoNet, TAPA, Overhaul, LPRC, Class8 and 3SI Security Systems.
-
-“Criminal networks don’t respect jurisdictional lines,” Commander Michael Ware, incident commander said.
-
-Officials described the effort as the nation’s first coordinated operation focused specifically on cargo theft.
-
-Source: FreightWaves (https://freightwaves.com/news/national-cargo-theft-blitz-leads-to-arrests-635k-in-recovered-freight)</description>
-      <pubDate>Wed, 30 Sep 2026 11:31:55 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/cook-county-sheriffs-cargo-theft-blitz-recovers-635-000-in-stole</guid>
       <category>Logistics</category>
     </item>
   </channel>

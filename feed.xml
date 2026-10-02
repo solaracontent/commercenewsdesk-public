@@ -5,8 +5,36 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 20:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:49:40 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Shopify adds support for 3 right-to-left languages to admin and storefronts</title>
+      <link>https://commercenewsdesk.com/briefs/shopify-adds-support-for-3-right-to-left-languages-to-admin-and</link>
+      <description>On October 2, 2026, Shopify released support for three right-to-left languages—Arabic, Urdu and Hebrew.
+
+The update adds support to the Shopify admin. It also adds support to storefront pages. Support extends to the checkout flow. Customer accounts now support the new languages. All themes in the Horizon family receive right-to-left language support. Display language is set from the visitor’s device settings when such settings are available. Product pages and other merchant‑owned content continue to appear in the languages the merchant has already enabled. Merchants can enable translations for product details pages by using the Translate &amp; Adapt app inside the Shopify admin. To begin using the new languages, a merchant adds Arabic, Urdu or Hebrew through the Languages section of the admin settings. The changelog entry is titled Admin now supports 3 new languages. Shopify said the languages are right-to-left. Shopify said the support includes checkout. Shopify said the support includes customer accounts. Shopify said the support includes the Horizon family of themes. Shopify said display language follows device settings when available. Shopify said product pages remain in the enabled languages. Shopify said merchants can enable translations via the Translate &amp; Adapt app. Shopify said to get started, merchants add the languages in the admin.
+
+Source: Shopify Changelog (https://changelog.shopify.com/posts/admin-now-available-in-3-new-languages)</description>
+      <pubDate>Fri, 02 Oct 2026 18:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/shopify-adds-support-for-3-right-to-left-languages-to-admin-and</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Salesforce outlines eight Dreamforce announcements to shift CX toward agentic AI</title>
+      <link>https://commercenewsdesk.com/briefs/salesforce-outlines-eight-dreamforce-announcements-to-shift-cx-t</link>
+      <description>At Dreamforce, Salesforce outlined eight announcements aimed at moving customer experience toward an agentic AI model. The company said its agentic enterprise rests on four layers—connected data, business semantics, agents, and a new AI interface—to let AI act on approved workflows.
+
+Salesforce introduced AIforce as an umbrella for AI interfaces that bring its data and actions into Claude, Slack, Lightning, and other environments via an SDK. Parker Harris asked, “Why should I ever log into Salesforce again? … Maybe you never will.”
+
+“Why should I ever log into Salesforce again? … Maybe you never will,” Parker Harris, Salesforce co-founder said.
+
+This analysis builds on CX Today’s live Dreamforce coverage of Salesforce’s push to take CRM out of Salesforce.
+
+Source: Salesforce Newsroom (https://cxtoday.com/salesforces-agentic-cx-vision-8-dreamforce-announcements-cx-leaders-need-to-act-on)</description>
+      <pubDate>Fri, 02 Oct 2026 17:00:58 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/salesforce-outlines-eight-dreamforce-announcements-to-shift-cx-t</guid>
+      <category>Platforms</category>
+    </item>
     <item>
       <title>U.S. and Canada enforcement blitzes sideline 124 drivers and 226 vehicles</title>
       <link>https://commercenewsdesk.com/briefs/u-s-and-canada-enforcement-blitzes-sideline-124-drivers-and-226</link>
@@ -173,6 +201,22 @@ Source: FTC Press Releases (https://ftc.gov/news-events/news/press-releases/2026
       <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ftc-utah-nevada-sue-lens-com-over-hidden-fees-that-double-lens-p</guid>
       <category>Platforms</category>
+    </item>
+    <item>
+      <title>FTC settles with Southern Glazer’s to limit wine‑spirit price gaps in 26 states</title>
+      <link>https://commercenewsdesk.com/briefs/ftc-settles-with-southern-glazers-to-limit-winespirit-price-gaps</link>
+      <description>The Federal Trade Commission announced a settlement with Southern Glazer’s Wine and Spirits LLC that will restrict the prices it charges small, independent retailers relative to large chain stores across 26 states. Under the agreement, Southern must pay harmed independent retailers 1.5 times the total price difference for any proven discriminatory transaction, and faces penalties if recurring overcharges exceed $5,000 in a year.
+
+The settlement applies to nearly all wine and spirits sales Southern makes to the five largest national chain retailers in the 26 states covered. It bars Southern from offering discounts or rebates to large buyers that are not available to small competitors unless the difference is justified by actual distribution cost differences. An independent monitor will assess compliance; if violations are found, the monitor can trigger direct cash payments to affected small businesses. The FTC can pursue further enforcement if Southern fails to remedy violations, potentially leading to additional penalties.
+
+“This settlement marks a significant milestone for the FTC in its enforcement of the Robinson-Patman Act, which Congress enacted to empower small businesses to compete against large ones,” Daniel Guarnera, Director of the FTC’s Bureau of Competition said.
+
+The FTC’s settlement resolves a lawsuit brought by the Commission in 2024, which alleged that Southern violated the Robinson-Patman Act by depriving small businesses of discounts and rebates available to large competitors. The FTC’s settlement with Southern delivers a successful conclusion to the Commission’s first enforcement action under the Robinson-Patman Act in a generation.
+
+Source: FTC Press Releases (https://ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-settlement-protects-small-businesses-illegal-price-discrimination)</description>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ftc-settles-with-southern-glazers-to-limit-winespirit-price-gaps</guid>
+      <category>Policy</category>
     </item>
     <item>
       <title>FedEx launches $20 Authenticated Delivery service for high-value shipments</title>
@@ -786,54 +830,6 @@ Creator partnerships have been used by retailers for years, but recent months ha
 Source: Modern Retail (https://modernretail.co/marketing/it-scared-the-hell-out-of-me-to-hand-over-the-keys-what-brands-have-learned-from-creator-partnerships)</description>
       <pubDate>Thu, 01 Oct 2026 04:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/favorite-daughter-uses-creator-content-to-boost-growth-since-202</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Seeteria AI uses existing warehouse cameras to cut idle dock time</title>
-      <link>https://commercenewsdesk.com/briefs/seeteria-ai-uses-existing-warehouse-cameras-to-cut-idle-dock-tim</link>
-      <description>Seeteria’s AI platform flags idle dock doors that sit for as long as 7 minutes, helping warehouses recover lost capacity without new hardware. Small disruptions of 7 to 15 minutes each can compound into hours of missed capacity per shift, according to the founder.
-
-The platform connects to a facility’s existing camera network over Wi‑Fi, analyzes activity in real time, and sends color‑coded alerts — green, yellow, red — to supervisors’ mobile or tablet apps showing the status of each dock door and zone. Floor supervisors receive live push alerts, warehouse managers get a post‑shift summary of bottlenecks, and executives view a financial‑impact report tied to detention fees and missed throughput targets. The system deliberately avoids identifying people, detecting only objects such as forklifts, pallets, dock doors and congestion patterns to protect worker privacy and reduce surveillance anxiety.
-
-“Our goal all the time is to get the warehouse more capacity from the resources that they are already paying for,” Sarit Tamir, founder and CEO of Seeteria said.
-
-“The system is completely blind to people,” Sarit Tamir, founder and CEO of Seeteria said.
-
-Seeteria recently completed a stint at the CoLab accelerator in Chattanooga, Tennessee, after a connection made at the Home Delivery World conference in Nashville. The company announced that a new pilot launch in Chattanooga is imminent. Its name derives from the Greek goddess Soteria, but the spelling was changed from “SO” to “SEE” to reflect its computer vision focus.
-
-Source: FreightWaves (https://freightwaves.com/news/warehouse-ai-using-existing-cameras-to-cut-idle-dock-time)</description>
-      <pubDate>Thu, 01 Oct 2026 00:19:41 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/seeteria-ai-uses-existing-warehouse-cameras-to-cut-idle-dock-tim</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>DoorDash shows off under‑55‑pound delivery drone for Northern California launch</title>
-      <link>https://commercenewsdesk.com/briefs/doordash-shows-off-under55pound-delivery-drone-for-northern-cali</link>
-      <description>DoorDash showed off its in‑house delivery drone on Tuesday, a six‑rotor craft weighing under 55 pounds. The drone is slated to begin deliveries in Northern California within months, carrying light orders three to five miles.
-
-It weighs less than Amazon’s Prime Air drone, which the company lists at roughly 78 pounds. Its slow‑spinning propellers were shaped to produce a sound comparable to a passing car, aiming to reduce noise complaints. DoorDash said the first restaurant partners will be Chipotle and Popeyes. The three‑to‑five‑mile range is expected to cover about 80 % of typical DoorDash orders.
-
-“The six-rotor drone comes in under 55 pounds, compared with the roughly 78 pounds Amazon lists for its Prime Air drone, and its slow-spinning propellers were designed so it sounds about like a passing car,” Stanley Tang, co‑founder and chief product officer said.
-
-“The design was built around noise from the start, as Amazon’s drones face complaints from residents about their buzzing,” Harrison Shih, DoorDash Air head said.
-
-DoorDash designed the drone in-house for its DoorDash Air service. Amazon’s Prime Air drone has drawn complaints from residents about its buzzing noise.
-
-Source: Shopifreaks (https://shopifreaks.com/doordash-unveils-its-own-delivery-drone-which-it-says-is-lighter-and-quieter-than-amazons-ahead-of-a-northern-california-launch)</description>
-      <pubDate>Wed, 30 Sep 2026 20:41:33 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/doordash-shows-off-under55pound-delivery-drone-for-northern-cali</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Meta launches Muse for Small Business</title>
-      <link>https://commercenewsdesk.com/briefs/meta-launches-muse-for-small-business</link>
-      <description>Meta launched Muse for Small Business, extending its Muse personal AI agent—released in the United States and Canada earlier this month—to help owners run their businesses. Owners can link Shopify, Stripe, Intuit QuickBooks, Klaviyo, Canva, Slack, and other tools, along with Facebook Pages, Instagram professional analytics, and Meta ad accounts. From there, they can assign goals such as building a growth plan from a year of sales and campaigns, drafting next week’s ads, or flagging expenses that look wrong, with all actions pending owner approval.
-
-Muse itself is free to use, though paid subscription plans are available for owners who need additional features. The system does not publish, send, or process payments until the owner explicitly approves each output.
-
-Source: Shopifreaks (https://shopifreaks.com/meta-launches-muse-for-small-business-connecting-its-ai-agent-to-shopify-stripe-quickbooks-klaviyo-and-meta-ad-accounts)</description>
-      <pubDate>Wed, 30 Sep 2026 20:21:36 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/meta-launches-muse-for-small-business</guid>
       <category>Platforms</category>
     </item>
   </channel>

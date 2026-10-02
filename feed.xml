@@ -5,8 +5,26 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:23:01 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Latitude Global settles payments in under two minutes via stablecoins</title>
+      <link>https://commercenewsdesk.com/briefs/latitude-global-settles-payments-in-under-two-minutes-via-stable</link>
+      <description>Latitude Global offers payment settlement in less than two minutes, according to CEO Cyril Mathew in a Sept. 21 interview. The company’s network reaches about 50 countries and it aims to enter about 200 in the coming years. Latitude has raised $43 million in equity funding, including $35 million announced last month.
+
+Latitude provides fiat on‑and‑off ramps that let neobanks and other firms use stablecoins to transfer money within their apps, and it is focused on meeting clear demand for more emerging markets in Southeast Asia and Africa. The firm employs 14 people and holds money‑transmitter licenses in 45 U.S. states, with applications pending for the remaining five. Founded in January 2025 by former Stripe crypto executive Cyril Mathew, ex‑Stripe engineer Brian Wrightson (CTO), and former Zero Hash leader Vivek Morzaria. Latitude supports USDC and USDT stablecoins for its cross‑border transfers, and Mathew is based in Spring, Texas, a Houston suburb.
+
+“We support several: USDC (Circle), we support USDT (Tether),” Cyril Mathew, CEO said.
+
+“There doesn’t need to be 1,000 stablecoins or 1,000 blockchains, and I’m using a high number on purpose,” Cyril Mathew, CEO said.
+
+Mathew, a former Stripe cryptocurrency executive, established Latitude in January 2025 with Brian Wrightson, a former Stripe engineer who serves as chief technology officer, and Vivek Morzaria, a former executive with Zero Hash, a cryptocurrency infrastructure startup. Latitude has raised $43 million in equity funding, including $35 million announced last month.
+
+Source: Payments Dive (https://paymentsdive.com/news/how-stablecoins-speed-intl-payments-crypto-cross-border-emerging-markets/831935)</description>
+      <pubDate>Fri, 02 Oct 2026 14:21:56 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/latitude-global-settles-payments-in-under-two-minutes-via-stable</guid>
+      <category>Payments</category>
+    </item>
     <item>
       <title>Daimler Truck outlines Europe’s need for 35,000 megawatt chargers by 2030</title>
       <link>https://commercenewsdesk.com/briefs/daimler-truck-outlines-europes-need-for-35-000-megawatt-chargers</link>
@@ -812,24 +830,6 @@ Source: Shopifreaks (https://shopifreaks.com/bed-bath-beyond-returns-to-canada-a
       <pubDate>Wed, 30 Sep 2026 17:41:59 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/sleep-country-canada-brings-bed-bath-beyond-back-online-with-6-0</guid>
       <category>Marketplaces</category>
-    </item>
-    <item>
-      <title>Daimler Truck aims to put driverless trucks on U.S. roads by end of 2026</title>
-      <link>https://commercenewsdesk.com/briefs/daimler-truck-aims-to-put-driverless-trucks-on-u-s-roads-by-end</link>
-      <description>Daimler Truck’s CEO Karin Rådström said the company will have Torc-operated trucks running on public roads without a safety driver before the end of 2026. She added that the first paid freight runs are slated for 2027, with broader deployment planned for 2028.
-
-In November 2024 Torc completed driver-out validation on a closed Texas course at speeds up to 65 mph.
-
-“We’re building the entire autonomous trucking system, from the truck platform and vehicle architecture to the hardware integration and also the autonomous driving software,” Karin Rådström, CEO of Daimler Truck said.
-
-“For the first time, a Torc truck will be able to drive itself on public roads — not on a test track — and without a safety driver in the cab,” Karin Rådström, CEO of Daimler Truck said.
-
-Torc previously demonstrated driver‑out operation on a closed Texas track in November 2024 at up to 65 mph. Freightliner and Western Star together held 37.8% of the North American Class 8 market through June, according to Daimler’s investor presentation.
-
-Source: FreightWaves (https://freightwaves.com/news/daimler-truck-torc-autonomous-system)</description>
-      <pubDate>Wed, 30 Sep 2026 17:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/daimler-truck-aims-to-put-driverless-trucks-on-u-s-roads-by-end</guid>
-      <category>Logistics</category>
     </item>
   </channel>
 </rss>

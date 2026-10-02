@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:49:18 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Daimler Truck outlines Europe’s need for 35,000 megawatt chargers by 2030</title>
@@ -23,6 +23,22 @@ In 2025, heavy‑duty battery‑electric trucks accounted for 2% of Europe’s m
 Source: FreightWaves (https://freightwaves.com/news/daimler-truck-scale-electric-trucks-europe)</description>
       <pubDate>Fri, 02 Oct 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/daimler-truck-outlines-europes-need-for-35-000-megawatt-chargers</guid>
+      <category>Logistics</category>
+    </item>
+    <item>
+      <title>FedEx launches $20 Authenticated Delivery service for high-value shipments</title>
+      <link>https://commercenewsdesk.com/briefs/fedex-launches-20-authenticated-delivery-service-for-high-value</link>
+      <description>FedEx introduced its Authenticated Delivery service on September 16, charging $20 per package for select expedited services in the U.S. and Canada. The option uses QR code authentication to release packages only to authorized recipients, aiming to curb fraud and theft for luxury goods, electronics, healthcare, aerospace and collectibles.
+
+Upon delivery, the recipient must show the QR code to the FedEx driver, who scans and validates it before releasing the package. The service is available with FedEx First Overnight, Priority Overnight, Standard Overnight, 2Day, 2Day A.M. and Express Saver for domestic shipments, and with most international package services except FedEx International Ground. Authenticated Delivery shipments cannot be subject to address changes, hold‑at‑location requests or redirect‑to‑hold, but recipients may place a temporary vacation hold on the package. If a delivery attempt fails, FedEx may reattempt up to three times; after the third unsuccessful attempt the package is returned to the sender. The QR code is generated at shipment creation and sent to the recipient via email or SMS, ensuring only the intended party can authorize release.
+
+“The future of delivery isn’t just moving packages quickly. It’s about building greater trust throughout the delivery process,” Neil Gibson, FedEx SVP of global customer experience said.
+
+The launch of FedEx Authenticated Delivery marks another way the carrier is pushing to draw higher-value packages into its network to boost profitability. Rival UPS has also bolstered its options for more secure package delivery in recent years; its DeliveryDefense tool weighs loss frequency and delivery attempts to predict successful delivery likelihood and lets shippers reroute at‑risk shipments to alternate drop‑off locations.
+
+Source: Supply Chain Dive (https://supplychaindive.com/news/fedex-rolls-out-added-security-option-for-select-deliveries/831596)</description>
+      <pubDate>Fri, 02 Oct 2026 11:09:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/fedex-launches-20-authenticated-delivery-service-for-high-value</guid>
       <category>Logistics</category>
     </item>
     <item>
@@ -813,20 +829,6 @@ Torc previously demonstrated driver‑out operation on a closed Texas track in N
 Source: FreightWaves (https://freightwaves.com/news/daimler-truck-torc-autonomous-system)</description>
       <pubDate>Wed, 30 Sep 2026 17:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/daimler-truck-aims-to-put-driverless-trucks-on-u-s-roads-by-end</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Port Houston lifts August container volumes 1% as steel imports jump 54%</title>
-      <link>https://commercenewsdesk.com/briefs/port-houston-lifts-august-container-volumes-1-as-steel-imports-j</link>
-      <description>Port Houston’s public terminals handled 373,756 twenty-foot equivalent units in August, a 1% increase from the same month last year. Steel imports reached 502,965 tons in August, up 54% from a year earlier.
-
-Loaded imports totaled 176,016 TEUs in August, a 4% rise from a year earlier, while loaded exports fell 2% to 136,070 TEUs, with machinery, electronics, retail consumer goods, furniture, automotive products, and apparel cited as import commodities and seasonal front‑loading noted as a contributing factor. Through August 2026, Port Houston’s container volumes totaled 2.97 million TEUs, up 1% year over year, with loaded imports up 5% to 1.39 million TEUs, loaded exports down 1% to 1.06 million TEUs, and overall loaded container activity up 2% to 2.45 million TEUs. Vessel activity on the Houston Ship Channel increased in August, with deep‑draft transits rising 9% to 1,607 and barge transits up 10% to 19,712, both measures up 7% year to date. Port Houston approved design work for a refrigerated container yard at Bayport Container Yard 9 to hold over 1,800 units, completed 10 FTZ site authorizations matching its 2024 record with 11 under review, and welcomed the first vessel of Crowley Maritime’s Houston‑Central America service.
-
-Although August steel imports jumped 54% year over year, year‑to‑date steel tonnage through August was down 10% to about 2.87 million tons, with imports down 11% to roughly 2.71 million tons. General cargo fell 26% in August to 116,881 tons but remained up 22% year to date at 913,863 tons, including a 27% rise in imports.
-
-Source: FreightWaves (https://freightwaves.com/news/port-houston-container-volumes-edge-higher-as-steel-imports-surge-54)</description>
-      <pubDate>Wed, 30 Sep 2026 16:41:05 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/port-houston-lifts-august-container-volumes-1-as-steel-imports-j</guid>
       <category>Logistics</category>
     </item>
   </channel>

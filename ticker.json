@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T08:03:54.092668+00:00",
+  "generated_at": "2026-10-07T08:45:53.995805+00:00",
   "items": [
     {
       "headline": "Apple blocks major ad tech firms in Safari via secret iOS 27 list",
@@ -14,6 +14,14 @@
       "desk": "Platforms",
       "slug": "zara-and-gap-use-luxury-tactics-to-boost-media-impact-and-sales",
       "url": "https://commercenewsdesk.com/briefs/zara-and-gap-use-luxury-tactics-to-boost-media-impact-and-sales",
+      "time_utc": "2026-10-07T04:00:00+00:00",
+      "time_et": "Oct 7, 00:00 ET"
+    },
+    {
+      "headline": "CPG brands face tariff\u2011financing mismatch after July U.S. tariff finalization",
+      "desk": "Policy",
+      "slug": "cpg-brands-face-tarifffinancing-mismatch-after-july-u-s-tariff-f",
+      "url": "https://commercenewsdesk.com/briefs/cpg-brands-face-tarifffinancing-mismatch-after-july-u-s-tariff-f",
       "time_utc": "2026-10-07T04:00:00+00:00",
       "time_et": "Oct 7, 00:00 ET"
     },
@@ -88,14 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/autonomous-trucks-log-440-000-driverless-miles-on-sun-belt-route",
       "time_utc": "2026-10-06T16:04:39+00:00",
       "time_et": "Oct 6, 12:04 ET"
-    },
-    {
-      "headline": "Moralve adopts Amazon\u2019s Global Warehousing to cut shipments from 5 to 1",
-      "desk": "Platforms",
-      "slug": "moralve-adopts-amazons-global-warehousing-to-cut-shipments-from",
-      "url": "https://commercenewsdesk.com/briefs/moralve-adopts-amazons-global-warehousing-to-cut-shipments-from",
-      "time_utc": "2026-10-06T15:58:27+00:00",
-      "time_et": "Oct 6, 11:58 ET"
     }
   ]
 }

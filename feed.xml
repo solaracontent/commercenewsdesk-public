@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 08:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:45:53 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Apple blocks major ad tech firms in Safari via secret iOS 27 list</title>
@@ -43,6 +43,20 @@ Source: Glossy (https://glossy.co/fashion/zara-gap-luxury-marketing-launchmetric
       <pubDate>Wed, 07 Oct 2026 04:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/zara-and-gap-use-luxury-tactics-to-boost-media-impact-and-sales</guid>
       <category>Platforms</category>
+    </item>
+    <item>
+      <title>CPG brands face tariff‑financing mismatch after July U.S. tariff finalization</title>
+      <link>https://commercenewsdesk.com/briefs/cpg-brands-face-tarifffinancing-mismatch-after-july-u-s-tariff-f</link>
+      <description>In July, the U.S. Trade Representative set tariffs of 10% to 12.5% on goods from 60 trading partners, affecting nearly all U.S. imports. Founders of CPG brands earning $2 million to $20 million now see a working‑capital gap when tariffs shift after a retailer’s purchase order is locked. Retailers usually pay on 60‑ to 90‑day terms, leaving brands to finance the gap between co‑packer deposits and eventual receipt.
+
+Brands often use short‑term debt or factoring that assumes steady costs, so a tariff rise mid‑cycle leaves them repaying debt based on the old price while absorbing the extra expense. Founders should model each order at current landed cost and again at 10%‑15% higher, then check whether their financing can absorb the swing without breaking cash flow.
+
+Before the July tariff finalization, import‑dependent brands faced shifting duty rates that made cost forecasting difficult. The new fixed rates removed day‑to‑day volatility but still allow tariffs to be applied after a purchase order is priced.
+
+Source: SupplyChainBrain (https://supplychainbrain.com/blogs/1-think-tank/post/44783-the-hidden-financing-risk-behind-the-new-tariff-environment)</description>
+      <pubDate>Wed, 07 Oct 2026 04:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/cpg-brands-face-tarifffinancing-mismatch-after-july-u-s-tariff-f</guid>
+      <category>Policy</category>
     </item>
     <item>
       <title>Wayfair expands Klarna BNPL to offer 0% financing up to six months</title>
@@ -790,24 +804,6 @@ Source: Digiday (https://digiday.com/media-buying/how-consumer-healthcare-brands
       <pubDate>Tue, 06 Oct 2026 04:01:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/opella-shifts-media-spend-to-digital-as-otc-market-hits-58-2-bil</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>S4 Capital’s Monks lets AI agents run unsupervised for up to 48 hours</title>
-      <link>https://commercenewsdesk.com/briefs/s4-capitals-monks-lets-ai-agents-run-unsupervised-for-up-to-48-h</link>
-      <description>S4 Capital’s Monks has begun allowing its AI agents to operate without human supervision for stretches of up to 48 hours Most of the autonomous work involves coding on the agency’s own software, and sizable projects can span several days
-
-Before a run starts, staff write the requirements that the agents build against, and the clarity of those requirements shapes the output. The agents then check their own work, splitting tasks, testing code against the original requirements, and reviewing each other’s output as they go. Wesley ter Haar, chief AI and revenue officer at Monks, said the agents ‘were working for 36 to 48 hours and not making mistakes.’ He added that the team can ‘drive some of that with decent prompting,’ after which the agents keep themselves in check. Clients want to see what was prompted and what reasoning the agents used before approving any output. Some clients request a central registry where they can turn agents on or off, track spending, and rate performance. Monks plans to extend the agentic setup beyond software into social and performance marketing, where agents react to trends, comments, or underperforming posts. In those use cases, engagement data serves as the feedback loop that agents check their work against, similar to how requirements guide coding agents.
-
-“We had coding agents that were working for 36 to 48 hours and not making mistakes,” Wesley ter Haar, chief AI and revenue officer at S4 Capital’s Monks said.
-
-“You can drive some of that with decent prompting,” Wesley ter Haar, chief AI and revenue officer at S4 Capital’s Monks said.
-
-Until recently, developers at Monks had to write out detailed instructions for how agents should divide tasks and pass work between them.
-
-Source: Digiday (https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days)</description>
-      <pubDate>Tue, 06 Oct 2026 04:01:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/s4-capitals-monks-lets-ai-agents-run-unsupervised-for-up-to-48-h</guid>
-      <category>Agencies</category>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,24 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:52:00 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apple blocks major ad tech firms in Safari via secret iOS 27 list</title>
+      <link>https://commercenewsdesk.com/briefs/apple-blocks-major-ad-tech-firms-in-safari-via-secret-ios-27-lis</link>
+      <description>Apple’s iOS 27 updates, released in mid‑September, began blocking major ad tech firms from tracking users in Safari. The initial list names The Trade Desk, LiveRamp, ID5, Permutive and Experian’s Audigent as blocked, while rivals such as Zeta’s LiveIntent, Lotame and Yahoo’s ConnectID remain unblocked. When a user opens Safari, the browser stops communicating with the blocked domains, preventing them from collecting data or serving ads.
+
+Apple requires every browser installed on iPhone and iPad to use its WebKit engine, so Chrome, Firefox and others are subject to the same blocklist. The new WebKit code lets Apple add or remove companies from the list without waiting for a full iOS update, although the code has not yet shipped to users.
+
+“What this will allow Apple to do is make this block list dynamic,” Rowena Lam, senior director of privacy and data at IAB Tech Lab and product lead for its Trusted Server initiative said.
+
+Advertising Week New York, a four-day conference that draws nearly 20,000 of adland’s finest, is renowned for on-stage programming tinged with optimism and creator reps angling for their 15 minutes in the spotlight. However, out in the snaking lines outside the conference venue, nearby hotels and dive bars, the talk often circles back to Apple — the biggest brand/provider in the industry — which reopened its war with the digital ad industry just a week before.
+
+Source: Digiday (https://digiday.com/media-buying/apples-secret-blocklist-is-the-talk-of-advertising-week-new-york-mostly-off-the-record)</description>
+      <pubDate>Wed, 07 Oct 2026 04:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/apple-blocks-major-ad-tech-firms-in-safari-via-secret-ios-27-lis</guid>
+      <category>Platforms</category>
+    </item>
     <item>
       <title>Suboo enters liquidation owing roughly $655,000</title>
       <link>https://commercenewsdesk.com/briefs/suboo-enters-liquidation-owing-roughly-655-000</link>
@@ -788,20 +804,6 @@ In April, Nike said it would make changes to operations including “optimizing 
 Source: SupplyChainBrain (https://supplychainbrain.com/articles/44969-nike-to-nearshore-more-production-as-it-seeks-to-shrink-itself)</description>
       <pubDate>Tue, 06 Oct 2026 04:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/nike-shifts-production-nearer-to-home-to-boost-supply-chain-flex</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Holiday fulfillment and returns collide as U.S. sales exceed $1 trillion</title>
-      <link>https://commercenewsdesk.com/briefs/holiday-fulfillment-and-returns-collide-as-u-s-sales-exceed-1-tr</link>
-      <description>During the November‑December holiday period, operators confront overlapping outbound fulfillment and returns flows as U.S. holiday sales are projected to exceed $1 trillion and consumers return 14% of their purchases. Close to one in seven of those returns happen in the final six days of December, the same week outbound volume stays above typical levels.
-
-Inbound docks become congested as returning goods arrive while outbound shipments still require receiving space, limiting the area available for put‑away. Warehouse flexibility shrinks because labor and square footage cannot be easily shifted between outbound and reverse processes when both peaks run concurrently. Transportation networks feel added pressure as carriers must move both outbound orders and return shipments through the same capacity, and seasonal labor pools are at their lowest level since 2009. Cross‑training becomes more valuable than deep specialization as workers need to switch between picking, packing, and inspecting returns throughout the shift.
-
-In the past, fulfillment volumes built through November and December, with returns only rising after the outbound rush ended, letting operators handle shipping first and reverse logistics later. Earlier promotions, longer calendars, faster return initiation, and growth in omnichannel buying have merged the formerly separate peaks into a single, overlapping period. The traditional pattern of peak season no longer applies.
-
-Source: SupplyChainBrain (https://supplychainbrain.com/blogs/1-think-tank/post/44778-how-to-prepare-for-the-collision-of-holiday-fulfillment-and-returns)</description>
-      <pubDate>Tue, 06 Oct 2026 04:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/holiday-fulfillment-and-returns-collide-as-u-s-sales-exceed-1-tr</guid>
       <category>Platforms</category>
     </item>
   </channel>

@@ -5,8 +5,40 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 10:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:52:20 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Consumers limit AI agents’ payment access despite willingness to let them shop</title>
+      <link>https://commercenewsdesk.com/briefs/consumers-limit-ai-agents-payment-access-despite-willingness-to</link>
+      <description>A PYMNTS Intelligence and Visa Acceptance Solutions survey of 1,185 merchants, 5,241 consumers and 150 acquirers found that 56% would let an AI agent search and compare products but only 35% would share saved payment credentials. For a $300 purchase, 52% of consumers want to pick the payment method themselves while 25% would accept an AI recommendation but retain final approval.
+
+Ninety-six percent of surveyed acquirers say agent governance is important, and 93% say consent and data‑governance frameworks will be key to supporting agentic commerce.
+
+While payment stacks have become fine-tuned for transaction authorization, agentic commerce inserts a new question.
+
+Source: PYMNTS (https://pymnts.com/news/artificial-intelligence/2026/ai-agents-turn-permission-into-payments-new-control-point)</description>
+      <pubDate>Wed, 07 Oct 2026 08:01:15 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/consumers-limit-ai-agents-payment-access-despite-willingness-to</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>SoFi reports grocery trips up 13% as consumers manage cash flow</title>
+      <link>https://commercenewsdesk.com/briefs/sofi-reports-grocery-trips-up-13-as-consumers-manage-cash-flow</link>
+      <description>SoFi Tech Solutions’ Q2 Debit Spend Index showed U.S. consumers increased grocery trips by close to 13% while cutting average basket size, according to senior director Max Spivakovsky. Fuel purchases jumped 28% and travel‑related spending rose 21% in the same period, indicating households kept discretionary spending despite higher essential costs.
+
+Card‑on‑file transactions accounted for almost 25% of debit purchases and more than 30% of total debit spending in SoFi’s Q2 data. Those saved‑card purchases averaged close to $60, compared with an overall debit transaction average of $37. In SoFi’s research, about 20% of consumers said they would switch cards for better benefits, underscoring the demand for added value.
+
+“Providers shouldn’t be just looking at isolated transactions anymore,” Max Spivakovsky said.
+
+“When folks are feeling financially cautious, the absolute last thing they want to see is a surprise,” Max Spivakovsky said.
+
+The article opens by noting that careful consumers are adjusting their spending without cutting overall outlays, using debit data to see how they juggle essentials and discretionary items. It cites SoFi’s Q2 Debit Spend Index as the source of the behavioral insights.
+
+Source: PYMNTS (https://pymnts.com/consumer-payments/2026/careful-consumers-want-control-sofi-says-banks-should-hand-it-over)</description>
+      <pubDate>Wed, 07 Oct 2026 08:01:09 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/sofi-reports-grocery-trips-up-13-as-consumers-manage-cash-flow</guid>
+      <category>Payments</category>
+    </item>
     <item>
       <title>UK retail media jumps 32% to £2bn in first half of 2026</title>
       <link>https://commercenewsdesk.com/briefs/uk-retail-media-jumps-32-to-2bn-in-first-half-of-2026</link>
@@ -758,40 +790,6 @@ Finmid is Berlin‑based and provides the financing technology behind Wolt, Deli
 Source: Retail Technology Innovation Hub (https://retailtechinnovationhub.com/home/2026/10/5/european-embedded-lending-firm-finmid-bags-17-million-series-a-extension-as-total-funding-hits-52-million)</description>
       <pubDate>Tue, 06 Oct 2026 04:12:58 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/finmid-secures-17m-series-a-extension-total-funding-hits-52m</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Morrisons appoints Mohsen Ghasempour as Chief AI Officer</title>
-      <link>https://commercenewsdesk.com/briefs/morrisons-appoints-mohsen-ghasempour-as-chief-ai-officer</link>
-      <description>Recently, Morrisons appointed Mohsen Ghasempour as Chief AI Officer He will establish a central data science and AI function for the UK grocery retailer
-
-Ghasempour served as Chief AI Officer at Kingfisher from March 2024 after more than two years as Group AI Director. AI-driven personalisation increased by 16%, generating approximately £100 million in sales. Kingfisher’s marketplace GMV rose 42% to £372 million, representing 18% of e-commerce sales, and Screwfix Sprint 20‑minute delivery sales grew 50%.
-
-“The creation of this new department reflects our commitment to ensuring we embrace the opportunities in data and AI at pace, with focus, and in the right way,” Rami Baitiéh, CEO at Morrisons said.
-
-“Mohsen brings a phenomenal track record, joining us from Kingfisher where he built and scaled their AI operations across Europe under the leadership of my friend, Thierry Garnier,” Rami Baitiéh, CEO at Morrisons said.
-
-Kingfisher has been using AI-enabled productivity tools such as Fabric to accelerate content creation, enhance SEO and improve conversion. The FTSE 100 home‑improvement retailer raised its profit target to between £595 million and £635 million, up from a previous range of £565 million to £625 million.
-
-Source: Retail Technology Innovation Hub (https://retailtechinnovationhub.com/home/2026/10/5/morrisons-talks-embracing-opportunities-in-data-and-ai-as-mohsen-ghasempour-joins-grocery-retailer)</description>
-      <pubDate>Tue, 06 Oct 2026 04:10:55 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/morrisons-appoints-mohsen-ghasempour-as-chief-ai-officer</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Kulczykowski joins M&amp;S as Senior Head of Software Engineering after Maersk</title>
-      <link>https://commercenewsdesk.com/briefs/kulczykowski-joins-m-s-as-senior-head-of-software-engineering-af</link>
-      <description>Roman Kulczykowski joined M&amp;S as Senior Head of Software Engineering after leaving A.P. Moller - Maersk. He previously served as Technology Platform Leader and Senior Engineering Director at A.P. Moller - Maersk and was Head of SAP Technical Platforms at BP.
-
-In his new role, he will lead teams across a broad portfolio of corporate systems, including SAP, focusing on strengthening engineering capability, improving quality and reliability, and enabling the safe and sustainable delivery of transformation. He plans to stay close to colleagues who use the technology daily, spending time with frontline teams to understand what works, identify improvements, and ensure their experience shapes technology priorities. He also aims to build strong partnerships across engineering, product, architecture and the wider business to turn priorities into meaningful technology and business outcomes.
-
-“I’ll be leading teams across a broad portfolio of corporate systems, including SAP, with a focus on strengthening engineering capability, improving quality and reliability, and enabling the safe and sustainable delivery of transformation. An important part of the role will be staying close to the colleagues who use our technology every day to support customers. I’ll be spending time with frontline teams to understand what works, where we can make things better, and ensure their experience helps shape our technology priorities,” Roman Kulczykowski, Senior Head of Software Engineering at M&amp;S said.
-
-“What I’m most excited about is the opportunity to work with the talented and passionate people across M&amp;S, building strong partnerships across engineering, product, architecture and the wider business, and helping turn our priorities into meaningful technology and business outcomes. It’s a great time to be joining M&amp;S, and a privilege to become part of such an iconic British brand. I’m genuinely excited about what we can achieve together,” Roman Kulczykowski, Senior Head of Software Engineering
-
-Source: Retail Technology Innovation Hub (https://retailtechinnovationhub.com/home/2026/10/5/roman-kulczykowski-exits-ap-moller-maersk-and-becomes-senior-head-of-software-engineering-at-mands)</description>
-      <pubDate>Tue, 06 Oct 2026 04:10:52 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/kulczykowski-joins-m-s-as-senior-head-of-software-engineering-af</guid>
       <category>Platforms</category>
     </item>
   </channel>

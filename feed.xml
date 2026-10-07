@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:50:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:24:34 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ikea launches second-hand marketplace in UK and Ireland for Family members</title>
@@ -437,6 +437,20 @@ Source: PYMNTS (https://pymnts.com/loans/2026/lenders-find-creditworthy-borrower
       <category>Platforms</category>
     </item>
     <item>
+      <title>ASOS confirms hackers accessed basic user data after Tuesday app breach</title>
+      <link>https://commercenewsdesk.com/briefs/asos-confirms-hackers-accessed-basic-user-data-after-tuesday-app</link>
+      <description>ASOS confirmed on Tuesday morning that hackers breached its app and may have accessed basic personal information such as names and contact details. The retailer stressed that payment‑card information and account passwords were not affected by the incident.
+
+Hackers sent a push notification via the ASOS app on Tuesday morning, threatening users and directly addressing the company’s data protection officer and IT teams. ASOS described the incident as a public extortion attempt, noting that such tactics are rare in cyberattacks. The company is investigating the breach and has filed a statement with the London Stock Exchange. ASOS said that some basic customer data may have been accessed, but that, according to the company, payment card information and account passwords were not compromised. The breach was discovered earlier today, according to ASOS’s statement. Users of the ASOS app received threatening notifications from the attackers. ASOS said it is investigating a cyberattack on external platforms linked to the app breach.
+
+ASOS characterized the attackers’ push notification as a public extortion attempt, which it labeled a rare tactic in cyberattacks. The company confirmed it is investigating the cyberattack on external platforms after the notification was sent. ASOS confirmed that hackers breached the app for a ransom note.
+
+Source: Retail Gazette (https://retailgazette.co.uk/blog/2026/10/asos-confirms-cyber-attack)</description>
+      <pubDate>Tue, 06 Oct 2026 15:31:48 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/asos-confirms-hackers-accessed-basic-user-data-after-tuesday-app</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
       <title>Etsy pilots Class 8 electric trucks on Texas route to cut freight emissions</title>
       <link>https://commercenewsdesk.com/briefs/etsy-pilots-class-8-electric-trucks-on-texas-route-to-cut-freigh</link>
       <description>Etsy is deploying Class 8 battery-electric trucks in Texas as part of a pilot program aimed at reaching net-zero emissions by 2040, according to environmental impact lead Sam Brundrett. Through the Green Market Activation coalition, Etsy will pay for Environmental Attribute Certificates that offset the higher cost of running electric trucks versus diesel.
@@ -781,20 +795,6 @@ Source: PYMNTS (https://pymnts.com/news/b2b-payments/2026/karen-webster-says-the
       <pubDate>Tue, 06 Oct 2026 08:00:57 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/pymnts-launches-seventh-annual-b2b-payments-event-on-agentic-ent</guid>
       <category>Payments</category>
-    </item>
-    <item>
-      <title>Amazon’s U.S. retail spending share hits record 9.6% in September 2026</title>
-      <link>https://commercenewsdesk.com/briefs/amazons-u-s-retail-spending-share-hits-record-9-6-in-september-2</link>
-      <description>Amazon captured 9.6% of total U.S. retail spending in the second quarter of 2026, according to a PYMNTS Intelligence report released in September. Its lead over Walmart grew to 2.09 percentage points, about twice the gap from a year earlier.
-
-The report found Amazon gained spending share in every category tracked during the second quarter of 2026. In sporting and hobby goods, music and books, Amazon’s share was 35% compared with Walmart’s 5.1%, its largest lead across the seven categories. Electronics and appliances followed closely, with Amazon at 32.1% and Walmart at 5.3%. Amazon also led in furniture and home furnishings (9% vs 6.6%), clothing and apparel (17.8% vs 6%) and health and personal care (8% vs 7.6%). Walmart still captured 21% of food and beverage spending versus Amazon’s 3% and retained the lead in auto parts. The PYMNTS Intelligence report draws on company earnings reports and federal spending data to calculate the shares. For retailers, the findings offer a useful guide to serving shoppers: make planned purchases easy to order and give regular store visitors reasons to return.
-
-A year earlier, Walmart held a slight advantage in health and personal care, while Amazon’s lead in furniture had grown from a small Walmart edge in 2019 to 14.3 percentage points. Overall, retail’s share of total consumer spending stabilized at 31.3%, with purchase‑prone categories rising to 24% of retail spending from 21.1% in 2019.
-
-Source: PYMNTS (https://pymnts.com/amazon/2026/amazons-retail-lead-goes-beyond-electronics)</description>
-      <pubDate>Tue, 06 Oct 2026 08:00:06 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazons-u-s-retail-spending-share-hits-record-9-6-in-september-2</guid>
-      <category>Platforms</category>
     </item>
   </channel>
 </rss>

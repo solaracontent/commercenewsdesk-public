@@ -5,8 +5,42 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 19:14:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 19:47:49 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>UPS cuts seasonal hiring by 9% as package volume falls 3.3%</title>
+      <link>https://commercenewsdesk.com/briefs/ups-cuts-seasonal-hiring-by-9-as-package-volume-falls-3-3</link>
+      <description>UPS announced it will hire about 9% fewer seasonal workers this year compared with last year, according to a Reuters report. The company also said it reduced its seasonal workforce by 15,000 positions in 2025, according to its annual report.
+
+UPS’s U.S. average daily package volume fell 3.3% year-over-year in the second quarter, as the company completed its planned cut of lower‑yielding Amazon business. Revenue per package rose 9.3% over the same period, driven by higher prices and a more profitable customer mix. The firm’s global workforce stands at roughly 460,000 employees, according to its own release. The seasonal hiring cut is part of UPS’s broader strategy to reduce shipments for Amazon and focus on more profitable deliveries.
+
+“the company is attempting to rebuild the economics of parcel delivery around a different formula of less low-return volume, more automation, and a technology layer that makes its physical network visible and adaptable in real time,” UPS CEO Carol Tomé, CEO said.
+
+Last year UPS hired more than 125,000 seasonal workers for the holiday season, according to an October 2024 company article. In its 2025 annual report, the company reported cutting 15,000 seasonal positions for that year.
+
+Source: PYMNTS (https://pymnts.com/shipping/2026/ups-trims-seasonal-hiring-after-planned-package-volume-reduction)</description>
+      <pubDate>Wed, 07 Oct 2026 16:15:36 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ups-cuts-seasonal-hiring-by-9-as-package-volume-falls-3-3</guid>
+      <category>Logistics</category>
+    </item>
+    <item>
+      <title>Ramp veterans raise $25 million for AI creative platform Melius</title>
+      <link>https://commercenewsdesk.com/briefs/ramp-veterans-raise-25-million-for-ai-creative-platform-melius</link>
+      <description>Ramp veterans Joowon Kim, Young Kim, and Arnav Ramu announced on Oct. 6 that they have raised $25 million for their AI creative platform Melius. The financing will support expansion of Melius’s platform, which lets users generate images, videos and ad campaigns using AI agents. Joowon Kim, Young Kim and Arnav Ramu previously worked as engineers at the spending/finance software company Ramp.
+
+After six months of building an AI-powered performance marketing tool, the team decided the idea lacked traction and scrapped the entire codebase. Melius now offers a set of AI agents that handle tasks such as adjusting lighting so users can focus on creative direction. The platform targets people who want to move from concept to finished creative assets without a steep learning curve.
+
+“Transitioning from wanting to make something to actually making it has never been seamless,” Joowon Kim, Co-Founder said.
+
+“We scrapped the entire codebase; we burned all of it,” Joowon Kim, Co-Founder said.
+
+Before raising the $25 million, the founders had spent six months developing an AI-powered performance marketing tool that they ultimately abandoned. They then shifted focus to building a platform for creating images, videos and ad campaigns using AI agents.
+
+Source: PYMNTS (https://pymnts.com/news/artificial-intelligence/2026/ramp-veterans-raise-25-million-for-ai-creative-platform-melius)</description>
+      <pubDate>Wed, 07 Oct 2026 16:00:44 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ramp-veterans-raise-25-million-for-ai-creative-platform-melius</guid>
+      <category>Platforms</category>
+    </item>
     <item>
       <title>Pacsun uses TikTok creator to sell 11,000 jeans in 48 hours</title>
       <link>https://commercenewsdesk.com/briefs/pacsun-uses-tiktok-creator-to-sell-11-000-jeans-in-48-hours</link>
@@ -770,42 +804,6 @@ Source: WWD (https://wwd.com/sourcing-journal/logistics/fedex-electric-trucks-ev
       <pubDate>Tue, 06 Oct 2026 13:17:30 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/fedex-orders-2-000-electric-trucks-from-harbinger-in-300m-deal</guid>
       <category>Logistics</category>
-    </item>
-    <item>
-      <title>Plaid launches credit and fraud models, lifting loan repayment prediction 42%</title>
-      <link>https://commercenewsdesk.com/briefs/plaid-launches-credit-and-fraud-models-lifting-loan-repayment-pr</link>
-      <description>Plaid launched its new credit and fraud models on Tuesday, saying LendScore 2 improves loan repayment prediction by 42% over traditional data and that Instant Link enables real‑time cash‑flow sharing. The Instant Link model lets eligible consumers share cash‑flow insights with lenders in seconds, while a new AI foundation model aims to strengthen fraud detection by learning from patterns across the Plaid Network.
-
-LendScore 2 uses cash‑flow underwriting and is said to predict repayment ability with 42% greater strength than traditional credit data alone. LendScore Arc, a transformer‑based model introduced Tuesday, learns from the order and timing of borrowers’ transactions and is described as Plaid’s best‑performing credit model yet. Specialized versions of the models are now available for auto, home and short‑term loans. Plaid’s sequential foundation model now powers its ACH risk product Protect to better predict payment risk.
-
-“The next generation of LendScore and specialized models close that gap at scale, and with Arc, we’re giving lenders new tools to expand access to more affordable credit,” Michelle Young, Plaid Credit Product Lead said.
-
-“They build on foundation models that already understand how financial behavior unfolds over time, across the Plaid Network, and that means better decisions, and better outcomes, for our customers and the millions of people who depend on those services to manage their own financial lives,” Will Robinson, Plaid Chief Technology Officer said.
-
-In June, PYMNTS reported that lenders are shifting to models built around real‑time behavior, arguing that what a consumer earns and owes today matters more than their credit score from six months ago. The same PYMNTS Intelligence and Plaid collaboration found that 94% of surveyed firms are not yet fully compliance‑ready for new Nacha rules requiring active fraud monitoring on the ACH network. This gap has prompted Plaid to build models that turn cash‑flow data into actionable credit and
-
-Source: PYMNTS (https://pymnts.com/consumer-finance/2026/plaid-launches-credit-and-fraud-models-fueled-by-cash-flow-data)</description>
-      <pubDate>Tue, 06 Oct 2026 13:00:35 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/plaid-launches-credit-and-fraud-models-lifting-loan-repayment-pr</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Super El Niño forces retailers to rethink winter inventory</title>
-      <link>https://commercenewsdesk.com/briefs/super-el-nino-forces-retailers-to-rethink-winter-inventory</link>
-      <description>The Super El Niño weather pattern is prompting retailers to reassess their winter merchandise plans as December approaches. Analysts warn that warm winter conditions could hurt sales of cold‑weather apparel and force companies like Deckers to discount Ugg footwear if December temperatures rise.
-
-The phenomenon’s strongest effects are expected in North America during the fall and winter months, disrupting typical seasonal merchandising cycles. With inventory already locked‑in well in advance for the season, retailers face the risk of sales misses and excess stock if consumer demand fails to materialize. VF Corp.’s brands, including The North Face and Timberland, are cited as carrying significant risk from warmer weather patterns observed in the 2015 and 2023 El Niño cycles. Historical data shows that warm anomalies in critical winter months have consistently reduced consumer spending on coats and other softgoods.
-
-“This could be potentially one of the top 10 warmest winters starting in the month of December, so some of the decision-making that can happen with retailers is they shift their inventory too early and move it to discount,” Matthew Porcelli, meteorologist and senior solutions engineer at The Weather Company said.
-
-“Consumers don't buy coats when it is warm outside,” Ike Boruchow, Wells Fargo analyst said.
-
-Just when merchandising and inventory management seemed complicated enough, thanks to shifting tariffs and rising costs, along comes the strongest El Niño weather disruption on record. Burlington because traditionally they have sold more coats and were hit hard by an El Niño a decade ago.
-
-Source: Retail Dive (https://retaildive.com/news/what-the-super-el-nino-means-for-retail/831188)</description>
-      <pubDate>Tue, 06 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/super-el-nino-forces-retailers-to-rethink-winter-inventory</guid>
-      <category>Platforms</category>
     </item>
   </channel>
 </rss>

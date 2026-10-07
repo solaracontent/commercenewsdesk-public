@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:19:51.943402+00:00",
+  "generated_at": "2026-10-07T07:40:44.258491+00:00",
   "items": [
     {
       "headline": "Apple blocks major ad tech firms in Safari via secret iOS 27 list",
@@ -16,6 +16,14 @@
       "url": "https://commercenewsdesk.com/briefs/zara-and-gap-use-luxury-tactics-to-boost-media-impact-and-sales",
       "time_utc": "2026-10-07T04:00:00+00:00",
       "time_et": "Oct 7, 00:00 ET"
+    },
+    {
+      "headline": "YEEP! hits 4,000 parcel lockers and prepares Generation 3 rollout",
+      "desk": "Logistics",
+      "slug": "yeep-hits-4-000-parcel-lockers-and-prepares-generation-3-rollout",
+      "url": "https://commercenewsdesk.com/briefs/yeep-hits-4-000-parcel-lockers-and-prepares-generation-3-rollout",
+      "time_utc": "2026-10-07T03:44:42+00:00",
+      "time_et": "Oct 6, 23:44 ET"
     },
     {
       "headline": "Suboo enters liquidation owing roughly $655,000",
@@ -88,14 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/target-revives-simply-shabby-chic-line-launching-bedding-sunday",
       "time_utc": "2026-10-06T15:50:00+00:00",
       "time_et": "Oct 6, 11:50 ET"
-    },
-    {
-      "headline": "Lenders use alternative data to approve millions more borrowers",
-      "desk": "Platforms",
-      "slug": "lenders-use-alternative-data-to-approve-millions-more-borrowers",
-      "url": "https://commercenewsdesk.com/briefs/lenders-use-alternative-data-to-approve-millions-more-borrowers",
-      "time_utc": "2026-10-06T15:32:55+00:00",
-      "time_et": "Oct 6, 11:32 ET"
     }
   ]
 }

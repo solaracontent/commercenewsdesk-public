@@ -5,8 +5,22 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 14:52:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:22:53 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Amazon controls 63% of German online retail as sales hit €69.1bn</title>
+      <link>https://commercenewsdesk.com/briefs/amazon-controls-63-of-german-online-retail-as-sales-hit-69-1bn</link>
+      <description>Amazon held a 63 percent share of Germany’s online retail market in 2024, with its marketplace generating €69.1 billion in sales. The figure represents a 5 percent year‑on‑year increase, driven largely by third‑party sellers who contributed 46.1 percent of online spending while Amazon’s own retail accounted for 17.2 percent.
+
+According to the IFH KÖln and General Evidence study, 97 percent of German online shoppers purchased from Amazon last year, and 59 percent of those shoppers were Prime members. Beyond online, Amazon accounted for 17 percent of total retail spending (online and offline) in the studied product categories and influenced an additional 24 percent of spending in those groups. The study also noted that Otto and Zalando together grew their German sales by €1.4 billion, while Shein and Temu saw combined growth of roughly €1 billion. One in eight Amazon shoppers said they are shifting some purchases to Chinese platforms, mainly for price reasons. Amazon continues to invest in its logistics network in the country, expanding fulfillment centers and delivery capabilities to support its growing sales volume.
+
+IFH KÖln stresses that Amazon is facing somewhat stronger competition in Germany from Otto, Zalando, Shein and Temu. The researchers note that, although Amazon still leads on product range, ease of ordering and delivery speed, Chinese platforms are gaining ground on price.
+
+Source: Ecommerce News Europe (https://ecommercenews.eu/amazon-holds-63-of-german-online-retail)</description>
+      <pubDate>Wed, 07 Oct 2026 13:52:07 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazon-controls-63-of-german-online-retail-as-sales-hit-69-1bn</guid>
+      <category>Platforms</category>
+    </item>
     <item>
       <title>Ikea launches second-hand marketplace in UK and Ireland for Family members</title>
       <link>https://commercenewsdesk.com/briefs/ikea-launches-second-hand-marketplace-in-uk-and-ireland-for-fami</link>
@@ -779,22 +793,6 @@ Source: PYMNTS (https://pymnts.com/news/artificial-intelligence/2026/will-holida
       <pubDate>Tue, 06 Oct 2026 08:02:21 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/forty-senior-executives-weigh-in-on-ais-role-in-holiday-shopping</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>PYMNTS launches seventh annual B2B Payments event on agentic enterprise</title>
-      <link>https://commercenewsdesk.com/briefs/pymnts-launches-seventh-annual-b2b-payments-event-on-agentic-ent</link>
-      <description>PYMNTS launches its seventh annual B2B Payments event, running Oct. 5 through Oct. 14, to explore how enterprises are embedding AI into core operations. The event draws on PYMNTS Intelligence’s monthly tracking of 60 enterprise CFOs, which shows that 62% of firms now spend over $10 million on AI tools.
-
-Three years ago, only about 30% of enterprises were fully using strategic, high‑impact generative AI, but nine months into the research 90% of CFOs reported positive returns, including in cybersecurity. PYMNTS found that while enterprises apply AI to an average of seven of eight business functions, just 20% of the 437 deployments examined are truly embedded in workflows. Among companies with three or more embedded AI functions, 93% say the technology has already paid off, compared with 25% of firms overall. Webster argues that trust and experience earned through repeated use are needed before AI can be granted authority to act autonomously within core systems.
-
-“I think every enterprise is already agentic. And the question is how far along are they on that journey,” Karen Webster, CEO of PYMNTS said.
-
-This year marks the seventh annual PYMNTS B2B Payments event, building on six previous editions that have examined various B2B payments trends. PYMNTS Intelligence has been tracking enterprise CFOs monthly for several years to gauge AI adoption and returns.
-
-Source: PYMNTS (https://pymnts.com/news/b2b-payments/2026/karen-webster-says-the-agentic-enterprise-is-already-here)</description>
-      <pubDate>Tue, 06 Oct 2026 08:00:57 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/pymnts-launches-seventh-annual-b2b-payments-event-on-agentic-ent</guid>
-      <category>Payments</category>
     </item>
   </channel>
 </rss>

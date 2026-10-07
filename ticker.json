@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:09:41.621294+00:00",
+  "generated_at": "2026-10-07T03:42:14.259598+00:00",
   "items": [
     {
       "headline": "Suboo enters liquidation owing roughly $655,000",
@@ -74,6 +74,14 @@
       "time_et": "Oct 6, 11:50 ET"
     },
     {
+      "headline": "Lenders use alternative data to approve millions more borrowers",
+      "desk": "Platforms",
+      "slug": "lenders-use-alternative-data-to-approve-millions-more-borrowers",
+      "url": "https://commercenewsdesk.com/briefs/lenders-use-alternative-data-to-approve-millions-more-borrowers",
+      "time_utc": "2026-10-06T15:32:55+00:00",
+      "time_et": "Oct 6, 11:32 ET"
+    },
+    {
       "headline": "Etsy pilots Class 8 electric trucks on Texas route to cut freight emissions",
       "desk": "Marketplaces",
       "slug": "etsy-pilots-class-8-electric-trucks-on-texas-route-to-cut-freigh",
@@ -88,14 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/uber-buys-ezcater-for-2-3b-to-boost-b2b-food-delivery",
       "time_utc": "2026-10-06T15:04:04+00:00",
       "time_et": "Oct 6, 11:04 ET"
-    },
-    {
-      "headline": "Giant Company launches GLP-1 store tours in six Pennsylvania locations",
-      "desk": "Deals",
-      "slug": "giant-company-launches-glp-1-store-tours-in-six-pennsylvania-loc",
-      "url": "https://commercenewsdesk.com/briefs/giant-company-launches-glp-1-store-tours-in-six-pennsylvania-loc",
-      "time_utc": "2026-10-06T15:00:00+00:00",
-      "time_et": "Oct 6, 11:00 ET"
     }
   ]
 }

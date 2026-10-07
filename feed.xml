@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 03:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 03:42:14 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Suboo enters liquidation owing roughly $655,000</title>
@@ -147,6 +147,20 @@ Since Michael Fiddelke became CEO in February, Target has overseen a merchandisi
 Source: Retail Dive (https://retaildive.com/news/target-simply-shabby-chic-partnership-home-merchandise-overhaul/832229)</description>
       <pubDate>Tue, 06 Oct 2026 15:50:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/target-revives-simply-shabby-chic-line-launching-bedding-sunday</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Lenders use alternative data to approve millions more borrowers</title>
+      <link>https://commercenewsdesk.com/briefs/lenders-use-alternative-data-to-approve-millions-more-borrowers</link>
+      <description>Lenders are turning to bank‑transaction data, cash‑flow records and richer credit histories to approve loans for millions of U.S. adults who lack traditional scores. Recent underwriting shows that verified bank transactions can lift approvals by up to 8% for underserved segments, Affirm’s new model adds 3.4% more completed purchases, and Plaid’s LendScore delivers a 73% approval rate versus a 65% benchmark.
+
+Roughly 25 million U.S. adults have insufficient recent credit activity to generate a usable score, according to the CFPB. About 35% of subprime consumers hold neither a credit nor a store card, compared with 12% of prime and 4% of super‑prime borrowers. Personify Financial reports that adding verified bank‑transaction data increased approvals by up to 8% among underserved consumers while keeping credit costs steady. Affirm’s latest transformer‑based underwriting model generated 3.4% more completed purchases at comparable risk by approving applicants its earlier system had declined. Plaid’s LendScore model posted a 73% approval rate versus 65% for a traditional benchmark at equivalent risk, and at the same approval rate it observed 41% lower risk. The Federal Reserve estimates that 32 million U.S. adults are unscoreable, including 7 million with no credit history and 25 million with thin files. PYMNTS Intelligence counts roughly 44 million U.S. adults as subprime, or 17% of consumers, with 55% living paycheck‑to‑paycheck and 19% using buy now, pay later services. For small‑business lenders, a survey of 350 executives found 57% citing inaccurate or incomplete business records as an underwriting obstacle, and microbusiness credit applications approved at a 77% rate versus 95% for large enterprises, with 19% rejected for insufficient information.
+
+The CFPB’s earlier report on credit invisibility highlighted the gap in traditional scoring, showing millions of adults lack sufficient credit history. PYMNTS Intelligence had previously noted that a large share of subpri
+
+Source: PYMNTS (https://pymnts.com/loans/2026/lenders-find-creditworthy-borrowers-hiding-in-the-data)</description>
+      <pubDate>Tue, 06 Oct 2026 15:32:55 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/lenders-use-alternative-data-to-approve-millions-more-borrowers</guid>
       <category>Platforms</category>
     </item>
     <item>
@@ -787,24 +801,6 @@ Source: Internet Retailing Australia (https://internetretailing.com.au/marley-sp
       <pubDate>Tue, 06 Oct 2026 02:04:06 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/marley-spoon-expands-meal-kit-offering-with-breakfast-lunch-and</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>Beyond Appliances raises ₹110 Cr to fund new plant and oven launch</title>
-      <link>https://commercenewsdesk.com/briefs/beyond-appliances-raises-110-cr-to-fund-new-plant-and-oven-launc</link>
-      <description>Beyond Appliances recently secured ₹110 Cr ($10.4 Mn) in a Series B funding round led by Fireside Ventures. The startup intends to use the capital to establish a new manufacturing facility and launch its first ovens within the next nine to twelve months.
-
-Founded in August 2024 by Eshwar K Vikas and Rakesh Patil, the Bengaluru‑based company builds connected kitchen appliances such as smart chimneys and smart hobs. Its flagship product is an Android‑powered chimney with a display that works as a domestic kitchen management system, letting users access OTT and music apps, set cooking reminders and manage grocery lists via Zepto and Blinkit. Beyond Appliances currently runs two factories in Delhi NCR and Bengaluru, producing about 90 % of its goods in‑house, and reported a net revenue of ₹40 Cr in FY 26. The brand sells 60 % of its output online and the rest offline, with a presence in 20 select Bengaluru stores and roughly 1,200 users across Bengaluru, Hyderabad, Chennai, Pune and Delhi NCR.
-
-“Beyond Appliances will be coming out with its ovens within the next 9-12 months,” Eshwar K Vikas, Founder said.
-
-“We are currently scaling our offline presence very fast. We have about 300-400 touchpoints for customers across GT (general trade) and AT (alternate trade), and exclusive outlets as well,” Eshwar K Vikas, Founder said.
-
-The Series B follows a $4 Mn Series A raised a year earlier, also led by Fireside Ventures with Dharana Capital participating. The raise comes as more Indian startups enter the home‑appliance space, driven by consumer spending on interiors and devices, with peers such as Karban, Fanzart and NUOS integrating aesthetics and functionality.
-
-Source: Inc42 (https://inc42.com/buzz/beyond-appliances-raises-%E2%82%B9110-cr-to-expand-product-portfolio-boost-manufacturing)</description>
-      <pubDate>Tue, 06 Oct 2026 00:30:16 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/beyond-appliances-raises-110-cr-to-fund-new-plant-and-oven-launc</guid>
-      <category>DTC</category>
     </item>
   </channel>
 </rss>

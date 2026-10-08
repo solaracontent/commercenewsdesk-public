@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T17:17:46.339454+00:00",
+  "generated_at": "2026-10-08T17:46:43.200633+00:00",
   "items": [
     {
       "headline": "Samsung seeks $186 million from CMA CGM over container charges",
@@ -10,12 +10,36 @@
       "time_et": "Oct 8, 10:20 ET"
     },
     {
+      "headline": "Rust Coast Deploys Real-Time Computer Vision to Cut Apparel Fit Errors",
+      "desk": "Platforms",
+      "slug": "rust-coast-deploys-real-time-computer-vision-to-cut-apparel-fit",
+      "url": "https://commercenewsdesk.com/briefs/rust-coast-deploys-real-time-computer-vision-to-cut-apparel-fit",
+      "time_utc": "2026-10-08T14:00:00+00:00",
+      "time_et": "Oct 8, 10:00 ET"
+    },
+    {
       "headline": "Revlon reports 9.8\u2011times higher CTR from Amazon interactive video ads",
       "desk": "Platforms",
       "slug": "revlon-reports-9-8times-higher-ctr-from-amazon-interactive-video",
       "url": "https://commercenewsdesk.com/briefs/revlon-reports-9-8times-higher-ctr-from-amazon-interactive-video",
       "time_utc": "2026-10-08T13:52:00+00:00",
       "time_et": "Oct 8, 09:52 ET"
+    },
+    {
+      "headline": "Shipt names Raj Kapoor as CEO effective Oct. 18",
+      "desk": "Platforms",
+      "slug": "shipt-names-raj-kapoor-as-ceo-effective-oct-18",
+      "url": "https://commercenewsdesk.com/briefs/shipt-names-raj-kapoor-as-ceo-effective-oct-18",
+      "time_utc": "2026-10-08T13:30:35+00:00",
+      "time_et": "Oct 8, 09:30 ET"
+    },
+    {
+      "headline": "Survey shows 81% of finance leaders faced AI\u2011linked fraud attempts in past year",
+      "desk": "Payments",
+      "slug": "survey-shows-81-of-finance-leaders-faced-ailinked-fraud-attempts",
+      "url": "https://commercenewsdesk.com/briefs/survey-shows-81-of-finance-leaders-faced-ailinked-fraud-attempts",
+      "time_utc": "2026-10-08T13:29:00+00:00",
+      "time_et": "Oct 8, 09:29 ET"
     },
     {
       "headline": "ThredUp CEO says AI costs surprised him but won't curb usage",
@@ -72,30 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/australian-shoppers-plan-to-spend-346-on-black-friday-up-from-32",
       "time_utc": "2026-10-08T08:31:28+00:00",
       "time_et": "Oct 8, 04:31 ET"
-    },
-    {
-      "headline": "Fast Retailing posts 32% profit rise to 743.1 billion yen",
-      "desk": "Platforms",
-      "slug": "fast-retailing-posts-32-profit-rise-to-743-1-billion-yen",
-      "url": "https://commercenewsdesk.com/briefs/fast-retailing-posts-32-profit-rise-to-743-1-billion-yen",
-      "time_utc": "2026-10-08T08:30:27+00:00",
-      "time_et": "Oct 8, 04:30 ET"
-    },
-    {
-      "headline": "WEX executive says AI agents need payment controls to act safely",
-      "desk": "Payments",
-      "slug": "wex-executive-says-ai-agents-need-payment-controls-to-act-safely",
-      "url": "https://commercenewsdesk.com/briefs/wex-executive-says-ai-agents-need-payment-controls-to-act-safely",
-      "time_utc": "2026-10-08T08:02:45+00:00",
-      "time_et": "Oct 8, 04:02 ET"
-    },
-    {
-      "headline": "PYMNTS report splits U.S. consumers into three spending groups as prices rise",
-      "desk": "Platforms",
-      "slug": "pymnts-report-splits-u-s-consumers-into-three-spending-groups-as",
-      "url": "https://commercenewsdesk.com/briefs/pymnts-report-splits-u-s-consumers-into-three-spending-groups-as",
-      "time_utc": "2026-10-08T08:00:35+00:00",
-      "time_et": "Oct 8, 04:00 ET"
     }
   ]
 }

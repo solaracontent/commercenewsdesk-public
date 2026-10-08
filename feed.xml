@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:46:43 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Samsung seeks $186 million from CMA CGM over container charges</title>
@@ -22,6 +22,22 @@ Source: FreightWaves (https://freightwaves.com/news/samsung-seeks-186m-from-cma-
       <category>Logistics</category>
     </item>
     <item>
+      <title>Rust Coast Deploys Real-Time Computer Vision to Cut Apparel Fit Errors</title>
+      <link>https://commercenewsdesk.com/briefs/rust-coast-deploys-real-time-computer-vision-to-cut-apparel-fit</link>
+      <description>Rust Coast founder Kyle Valade has introduced a turnkey computer vision system that uses factory‑floor cameras to automatically measure garments and compare them to specifications in real time. The system sends images to an app where analytics are generated and alerts are pushed to the brand’s portal, aiming to capture a picture of each item throughout production.
+
+Cameras are installed across factories and take pictures passively without interfering with workers. Visual AI processes the images to automatically measure the clothing made by suppliers. The system compares those measurements with the product’s specification in real time. Photos and data are sent to Rust Coast’s app for more intensive processing that generates analytics and alerts. Those alerts are then pushed to the brand’s portal for review. The company is working toward capturing a picture of each piece of clothing throughout the entire manufacturing process. Valade says the technology will save companies millions by ensuring correctly sized products are always shipped. Before founding Rust Coast, Valade worked at Rivian for several years, helping to pull in and organize petabytes of vehicle data. He initially launched Rust Coast to digitize manual, pencil‑and‑paper processes in factories, starting with garment measurements. Many factory processes remain pencil‑and‑paper even when machines are advanced and digital. He began by examining the beanies production line, noting that each step—yarn knitting, fabric cutting, folding, sewing, labeling, and final measurement—must be correct or the whole item is ruined.
+
+“that will save companies millions by ensuring correctly sized products are always shipped,” Kyle Valade, founder of Rust Coast Manufacturing Technology said.
+
+Before founding Rust Coast, Valade worked at Rivian for several years, helping to pull in and organize petabytes of vehicle data. He initially launched Rust Coast to digitize manual, pencil‑and‑paper processes in factories, starting with
+
+Source: WWD (https://wwd.com/sourcing-journal/industry-news/how-rust-coast-is-eliminating-apparels-fit-problem-1239319655)</description>
+      <pubDate>Thu, 08 Oct 2026 14:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/rust-coast-deploys-real-time-computer-vision-to-cut-apparel-fit</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
       <title>Revlon reports 9.8‑times higher CTR from Amazon interactive video ads</title>
       <link>https://commercenewsdesk.com/briefs/revlon-reports-9-8times-higher-ctr-from-amazon-interactive-video</link>
       <description>In June, Revlon used Amazon’s Interactive Video Ads and Dynamic TV Creative to achieve a 9.8‑times higher click‑through rate versus non‑interactive ads. The same campaign also lifted branded search rates by two times and return on ad spend by 2.6 times versus category benchmarks.
@@ -36,6 +52,40 @@ Source: Marketing Dive (https://marketingdive.com/news/how-revlon-used-amazons-i
       <pubDate>Thu, 08 Oct 2026 13:52:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/revlon-reports-9-8times-higher-ctr-from-amazon-interactive-video</guid>
       <category>Platforms</category>
+    </item>
+    <item>
+      <title>Shipt names Raj Kapoor as CEO effective Oct. 18</title>
+      <link>https://commercenewsdesk.com/briefs/shipt-names-raj-kapoor-as-ceo-effective-oct-18</link>
+      <description>Shipt appointed Raj Kapoor as its next chief executive officer, with the change taking effect on October 18. Kapoor previously served as Shipt’s chief operating officer from 2022 to 2025 before moving to Target, and he succeeds Kamau Witherspoon, who had led the company for over four years.
+
+During his three-year run as COO, Kapoor scaled Shipt’s fulfillment engine, improved quality and service, and led day-to-day operations. At Target, he drove profitable growth, expanded assortment and improved the customer experience on Target Plus. Shipt remains a wholly owned Target subsidiary, acquired in 2017. The leadership shift coincides with Shipt’s recent AI push, including the September launch of Ask Shipt, an AI-powered shopping assistant that can build carts from conversation or photos and suggest budget‑friendly meals.
+
+“I’m excited to rejoin Shipt, work with Target and our partners, and lead a team whose care and dedication I know firsthand. My focus is simple: enhance convenience for our customers, empower our shopper and driver community, and strengthen business performance across our offerings,” Raj Kapoor, incoming CEO said.
+
+Kamau Witherspoon had led Shipt for four-plus years and will remain through late October to support the transition. Witherspoon spent more than 15 years at Target, and during his tenure he integrated the Shipt marketplace as a benefit for Target Circle 360 members. Shipt was acquired by Target in 2017.
+
+Source: Grocery Dive (https://grocerydive.com/news/shipt-names-ceo-raj-kapoor-target/832478)</description>
+      <pubDate>Thu, 08 Oct 2026 13:30:35 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/shipt-names-raj-kapoor-as-ceo-effective-oct-18</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Survey shows 81% of finance leaders faced AI‑linked fraud attempts in past year</title>
+      <link>https://commercenewsdesk.com/briefs/survey-shows-81-of-finance-leaders-faced-ailinked-fraud-attempts</link>
+      <description>Early Warning Services’ Certos unit surveyed 230 senior financial leaders between August 7 and 21, finding that 81% reported an attempted fraud involving AI‑generated content in the last year. Seventy‑nine percent said they were concerned that such fraud could damage trust in their organization, while 43% pointed to payment diversion as their top worry.
+
+Eighty‑four percent of respondents said AI‑enabled fraud is much or somewhat harder to detect than traditional schemes. Only half felt confident they could spot such fraud before money left the company, despite 87% believing they were somewhat prepared. Ninety‑three percent said the risk is changing how they view their financial‑institution partners, and 51% want those partners to provide better detection of suspicious activity.
+
+“Biggest concern is a convincing fake request slipping through and sending company money to the wrong place,” anonymous CFO of a Fortune 500 company said.
+
+“AI can make fraud easier to create, scale and disguise,” Certos spokesperson said.
+
+Certos’ report comes at a time when businesses across many industries continue to loudly and enthusiastically embrace new AI tools in the name of productivity, even as purveyors of the technology themselves continue to issue dire warnings about the threats posed by their own products.
+
+Source: Payments Dive (https://paymentsdive.com/news/finance-leaders-fight-deepfakes-Certos-fraud-prevention/832475)</description>
+      <pubDate>Thu, 08 Oct 2026 13:29:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/survey-shows-81-of-finance-leaders-faced-ailinked-fraud-attempts</guid>
+      <category>Payments</category>
     </item>
     <item>
       <title>ThredUp CEO says AI costs surprised him but won't curb usage</title>
@@ -776,60 +826,6 @@ Source: Retail Insight Network (https://retail-insight-network.com/news/ikea-sec
       <pubDate>Wed, 07 Oct 2026 08:19:20 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ikea-launches-second-hand-marketplace-in-uk-and-ireland-for-fami</guid>
       <category>Marketplaces</category>
-    </item>
-    <item>
-      <title>Wild Thingz gives shoppers at least 24 free Halloween sweets with Ocado purchase</title>
-      <link>https://commercenewsdesk.com/briefs/wild-thingz-gives-shoppers-at-least-24-free-halloween-sweets-wit</link>
-      <description>Wild Thingz launched a free Halloween sweets promotion with Ocado in October, offering shoppers at least 24 packets of sweets. Shoppers can claim the free bundle by uploading their Ocado receipt or delivery confirmation on the Wild Thingz website, with deliveries made while stocks last.
-
-The free bundle consists of organic treat-size sweets that are plant-based and made with natural flavourings.
-Wild Thingz says its range contains half the sugar of leading UK sweet brands and contains no artificial colours or flavours.
-The promotion runs throughout October and is part of the brand’s wider ‘No Trickz. Just Treatz.’ campaign aimed at encouraging families to choose lower‑sugar confectionery.
-Besides Ocado, Wild Thingz products are stocked through Amazon, Whole Foods Market, Planet Organic, Center Parcs, Everyone Active, and independent retailers.
-
-“Halloween is all about having fun, but we know the cost of all those little extras can quickly add up for families,” Fliss Newland, Founder of Wild Thingz said.
-
-“We wanted to do something a bit wild this year – not just talk about making a better choice, but actually put the treats on us,” Fliss Newland, Founder of Wild Thingz said.
-
-Wild Thingz makes plant‑based fruity sweets using natural flavourings and claims its range contains half the sugar of leading UK sweet brands.
-Alongside Ocado, the brand is stocked through Amazon, Whole Foods Market, Planet Organic, Center Parcs, Everyone Active, and a network of independent retailers.
-
-Source: Grocery Gazette (https://grocerygazette.co.uk/2026/10/07/wild-thingz-launches-free-halloween-sweets-promotion-with-ocado)</description>
-      <pubDate>Wed, 07 Oct 2026 08:16:23 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/wild-thingz-gives-shoppers-at-least-24-free-halloween-sweets-wit</guid>
-      <category>Marketplaces</category>
-    </item>
-    <item>
-      <title>Consumers limit AI agents’ payment access despite willingness to let them shop</title>
-      <link>https://commercenewsdesk.com/briefs/consumers-limit-ai-agents-payment-access-despite-willingness-to</link>
-      <description>A PYMNTS Intelligence and Visa Acceptance Solutions survey of 1,185 merchants, 5,241 consumers and 150 acquirers found that 56% would let an AI agent search and compare products but only 35% would share saved payment credentials. For a $300 purchase, 52% of consumers want to pick the payment method themselves while 25% would accept an AI recommendation but retain final approval.
-
-Ninety-six percent of surveyed acquirers say agent governance is important, and 93% say consent and data‑governance frameworks will be key to supporting agentic commerce.
-
-While payment stacks have become fine-tuned for transaction authorization, agentic commerce inserts a new question.
-
-Source: PYMNTS (https://pymnts.com/news/artificial-intelligence/2026/ai-agents-turn-permission-into-payments-new-control-point)</description>
-      <pubDate>Wed, 07 Oct 2026 08:01:15 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/consumers-limit-ai-agents-payment-access-despite-willingness-to</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>SoFi reports grocery trips up 13% as consumers manage cash flow</title>
-      <link>https://commercenewsdesk.com/briefs/sofi-reports-grocery-trips-up-13-as-consumers-manage-cash-flow</link>
-      <description>SoFi Tech Solutions’ Q2 Debit Spend Index showed U.S. consumers increased grocery trips by close to 13% while cutting average basket size, according to senior director Max Spivakovsky. Fuel purchases jumped 28% and travel‑related spending rose 21% in the same period, indicating households kept discretionary spending despite higher essential costs.
-
-Card‑on‑file transactions accounted for almost 25% of debit purchases and more than 30% of total debit spending in SoFi’s Q2 data. Those saved‑card purchases averaged close to $60, compared with an overall debit transaction average of $37. In SoFi’s research, about 20% of consumers said they would switch cards for better benefits, underscoring the demand for added value.
-
-“Providers shouldn’t be just looking at isolated transactions anymore,” Max Spivakovsky said.
-
-“When folks are feeling financially cautious, the absolute last thing they want to see is a surprise,” Max Spivakovsky said.
-
-The article opens by noting that careful consumers are adjusting their spending without cutting overall outlays, using debit data to see how they juggle essentials and discretionary items. It cites SoFi’s Q2 Debit Spend Index as the source of the behavioral insights.
-
-Source: PYMNTS (https://pymnts.com/consumer-payments/2026/careful-consumers-want-control-sofi-says-banks-should-hand-it-over)</description>
-      <pubDate>Wed, 07 Oct 2026 08:01:09 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/sofi-reports-grocery-trips-up-13-as-consumers-manage-cash-flow</guid>
-      <category>Payments</category>
     </item>
   </channel>
 </rss>

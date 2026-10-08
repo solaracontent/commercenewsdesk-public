@@ -5,8 +5,149 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:46:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:40:12 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Google Cloud offers Gemini agent for enterprise Workspace users</title>
+      <link>https://commercenewsdesk.com/briefs/google-cloud-offers-gemini-agent-for-enterprise-workspace-users</link>
+      <description>Google Cloud launched a universal Gemini agent for enterprise Workspace users that runs in Gmail, Drive, Docs, and Calendar. It can respond to queries, perform knowledge tasks, generate images and media, and write and execute code.
+
+It is secured through identity and policy management, authorization and permission controls, and secure sandboxing and network gateways, and includes cost controls via multi-model orchestration, Smart Routing, and real-time spend caps. The agent can securely connect to a user’s company software and any Model Context Protocol server, use custom skills added by the user, and learn from each interaction. Industry‑specific agents for financial services and legal are now in preview, with government, healthcare, and retail versions planned for release soon.
+
+In April, Google Cloud unveiled the Gemini Enterprise Agent Platform as a unified system for building, connecting, securing, and governing AI agents. In August it said it had agentic AI solutions for financial services and legal in preview, positioning them as the first in a series of industry‑specific offerings.
+
+Source: PYMNTS (https://pymnts.com/news/artificial-intelligence/2026/google-cloud-targets-enterprise-market-with-universal-agent-work)</description>
+      <pubDate>Thu, 08 Oct 2026 16:41:34 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/google-cloud-offers-gemini-agent-for-enterprise-workspace-users</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Bond-eye, Maxxam and Woolmark launch 45/45/10 wool-blend swimwear fabric</title>
+      <link>https://commercenewsdesk.com/briefs/bond-eye-maxxam-and-woolmark-launch-45-45-10-wool-blend-swimwear</link>
+      <description>Bond-eye, Maxxam and Woolmark have launched a swimwear fabric made of 45% Australian Merino wool, 45% Tencel and 10% elastane. The fabric debuts as part of a 26‑piece collection designed to cut reliance on nylon and polyester.
+
+The material resulted from a two‑year collaborative development process assisted by a specialist Italian knitting mill. It builds on Bond‑eye’s ten‑year partnership with Rosemary Moore, the founder of Maxxam, who first introduced tubular crinkle fabric over four decades ago. Woolmark subjected the fabric to strict performance testing to ensure colourfastness in chlorinated pool water and seawater. The four‑way stretch construction lets garments adjust to sizes from extra‑small to large without losing shape or luxurious feel. The blend uses wool’s natural elasticity, temperature regulation and moisture‑managing abilities to provide a soft, breathable feel suitable for active swimwear.
+
+“The challenge was not simply to introduce wool into swimwear, but to develop a fabrication that could meet the category’s technical demands without compromising the qualities that make Merino wool distinctive,” Bryan Fry, managing director of Woolmark said.
+
+“It’s exciting to use wool because of its natural elasticity and recovery, as well as its moisture‑wicking and temperature‑regulating properties—we wanted to explore how those qualities could translate into swimwear,” Mim Goode, Bond-eye designer said.
+
+Bond-eye has worked with Rosemary Moore for more than a decade on tubular crinkle fabric, which Moore originally invented over forty years ago. Maxxam, founded by Moore, continues to develop the crinkle technology while Woolmark provides certification and technical support for natural‑fiber innovations.
+
+Source: Sourcing Journal (https://wwd.com/sourcing-journal/sustainability/bond-eye-maxxam-and-woolmark-launch-wool-blend-swimwear-1239333060)</description>
+      <pubDate>Thu, 08 Oct 2026 16:38:04 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/bond-eye-maxxam-and-woolmark-launch-45-45-10-wool-blend-swimwear</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Mastercard and SoFi enable Orbi to launch crypto‑linked debit card in Mexico</title>
+      <link>https://commercenewsdesk.com/briefs/mastercard-and-sofi-enable-orbi-to-launch-cryptolinked-debit-car</link>
+      <description>Mastercard and SoFi are helping Orbi launch a crypto‑linked debit card in Mexico, where stablecoins made up 40% of crypto purchases in 2025. The card lets users spend either fiat or crypto balances at checkout while merchants receive traditional fiat, and SoFi supplies the BIN sponsorship, issuance, authorization, processing and compliance infrastructure. The program is available to Orbi customers across Mexico and does not require merchants to alter their existing point‑of‑sale systems.
+
+SoFi’s role includes providing the bank identification number, handling transaction approvals, and ensuring compliance with local regulations.
+
+“Mexico is one of the world’s largest remittance markets, and stablecoins are becoming an increasingly important way to move money across its borders,” Kathleen Pierce-Gilmore, SoFi Tech Solutions President said.
+
+In 2025, stablecoins accounted for 40% of crypto purchases among Bitso users in Mexico, Argentina, Brazil and Colombia, surpassing bitcoin’s 18% share. A PYMNTS Intelligence report released in July found that consumers are interested in using crypto for purchases but face acceptance, trust and uneven payment experiences, noting that linked cards could help bridge the gap.
+
+Source: PYMNTS (https://pymnts.com/cryptocurrency/2026/mastercard-sofi-help-orbi-launch-crypto-card-mexico)</description>
+      <pubDate>Thu, 08 Oct 2026 16:21:50 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/mastercard-and-sofi-enable-orbi-to-launch-cryptolinked-debit-car</guid>
+      <category>Payments</category>
+    </item>
+    <item>
+      <title>Meta unveils AI‑enhanced ad tools and Shopify checkout at Advertising Week</title>
+      <link>https://commercenewsdesk.com/briefs/meta-unveils-aienhanced-ad-tools-and-shopify-checkout-at-adverti</link>
+      <description>Meta announced a suite of AI‑powered advertising updates and new direct‑checkout features at its Advertising Week presentation in New York today. The updates give the business assistant more memory and agentic functions, expand Ads Creative Studio to additional advertisers, and enable Shopify buyers to complete purchases without leaving Messenger.
+
+The business assistant now incorporates creative insights, retains context from prior quarters, and can generate creative assets, adjust targeting, or modify budgets via conversational prompts. Meta is also testing importing tools that let brands upload their strategy and brand‑voice guidelines to further refine the assistant’s outputs. Agentic capabilities added to the assistant allow it to create ad elements, change audience targeting, and alter an ad’sbudget through natural‑language commands. Scheduled tasks such as recurring performance reports and alerts are being tested to keep advertisers informed of potential issues. Ads Creative Studio, which uses performance data and audience insights to highlight what’s working in campaigns, is being rolled out beyond selected ad partners to a broader set of brands. The studio provides AI guidance on how to tap into those insights and now lets marketers generate video concepts from static assets, edit hooks, audio, length, overlays, and end scenes. Meta has expanded its Meta Ads MCP server to support more use cases, allowing advertisers to integrate third‑party AI tools for campaign building and management. Customer Lifecycle Strategy is now available to all advertisers, enabling them to set a top‑level audience focus that guides all campaign recommendations. New AI‑powered video tools let users create video from catalog listings and add related‑product recommendations for upselling. Meta is working with Shopify to enable direct purchases of Shopify products inside Messenger via the Meta Business Agent. Similar AI‑driven checkout tests are underway for Meta AI with Adyen, PayPa
+
+Source: Marketing Dive (https://marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517)</description>
+      <pubDate>Thu, 08 Oct 2026 16:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/meta-unveils-aienhanced-ad-tools-and-shopify-checkout-at-adverti</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Next, Primark and Tesco fund WRAP’s overhaul of UK textile collection</title>
+      <link>https://commercenewsdesk.com/briefs/next-primark-and-tesco-fund-wraps-overhaul-of-uk-textile-collect</link>
+      <description>Next, Primark and Tesco funded the initial phase of WRAP’s Textiles Collections Transition Program after the nonprofit published its first report on Thursday. WRAP will hold stakeholder workshops from October through January to develop a Blueprint slated for publication in spring 2027. The charity said prices for used textiles collected through charity shops fell more than 80 percent between January 2024 and January 2026.
+
+U.K. textile collectors and sorters faced an “88-million-pounds-a-year loss”—about $116 million—according to WRAP’s May 2025 assessment. In 2021, household recycling centers discarded around 711,000 metric tons of used textiles, representing 49 percent of the UK’s used‑textile flow. Collection trials under the ACT UK project showed that giving citizens more donation opportunities increased volumes by up to 46 percent, though participants struggled to distinguish reusable from non‑reusable items. Asda’s trial letting customers hand over unwanted textiles with grocery deliveries attracted interest but was halted due to waste‑permit requirements.
+
+“Transforming textile collections is an industry-wide challenge that no organization can solve alone,” Catherine David, WRAP’s chief executive officer said.
+
+The initiative follows years of warnings about financial pressures facing the UK’s textile reuse and recycling sector. WRAP’s 2024 Textiles Market Situation Report estimated that household recycling centers discarded around 711,000 metric tons of used textiles in 2021, representing 49 percent of used textiles in the UK.
+
+Source: Sourcing Journal (https://wwd.com/sourcing-journal/industry-news/wrap-next-primark-tesco-textile-collections-1239333409)</description>
+      <pubDate>Thu, 08 Oct 2026 16:19:58 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/next-primark-and-tesco-fund-wraps-overhaul-of-uk-textile-collect</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Consumers anticipate higher spending as inflation worries climb</title>
+      <link>https://commercenewsdesk.com/briefs/consumers-anticipate-higher-spending-as-inflation-worries-climb</link>
+      <description>According to the Fed survey, median expected household spending growth rose to 5.5% in September, the highest since May 2023. Inflation expectations climbed to 3.9%, while the perceived chance of job loss dropped to 13.5%, its lowest since December 2024.
+
+Expected household income growth edged up to 3.1%, its highest since February 2025, while the perceived probability of losing a job fell to 13.5% and the chance of finding new work after a layoff rose to 46.1%.
+Median year-ahead inflation expectations climbed to 3.9% (highest since May 2023), three-year expectations rose to 3.3%, the five-year measure held at 3.0%, and expected price growth reached 5.5% for food, 4.8% for gas, 6.8% for rent, 7.5% for college and 9.2% for medical care.
+The Consumer Expectations Index fell 0.7 points to 54.1, the macroeconomic and buying climate subindex slipped 2.2 points to 45.0, buying conditions dropped 1.8 points and personal financial resilience remained near 58.3.
+Job mobility fell 2.2 points to 46.9, below the neutral level of 50, personal job security remained high at 80.4, perceived safety from layoffs improved to 71.9, and 51.8% of consumers said their savings would cover three months or less if income stopped.
+
+In August, the Consumer Expectations Index had already slipped, marking the second straight month of decline.
+Personal financial resilience stayed near 58.3 while buying conditions fell 1.8 points.
+Personal job security stayed at 80.4 and perceived safety from layoffs improved to 71.9.
+
+Source: PYMNTS (https://pymnts.com/economy/2026/consumers-expect-to-spend-more-as-inflation-anxiety-rises)</description>
+      <pubDate>Thu, 08 Oct 2026 15:37:06 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/consumers-anticipate-higher-spending-as-inflation-worries-climb</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>SONAR Rate Intelligence adds intermodal rates with 21.1% savings estimate</title>
+      <link>https://commercenewsdesk.com/briefs/sonar-rate-intelligence-adds-intermodal-rates-with-21-1-savings</link>
+      <description>In October 2026, SONAR Rate Intelligence added intermodal contract and spot rates plus a conversion savings tool that shows truckload-to-intermodal savings averaging 21.1% per load. On the Chicago-to-Elizabeth, New Jersey lane, the tool estimates a saving of roughly $593 per load when shifting from van to intermodal.
+
+Users can select intermodal as an equipment type or drill into it from any van lane to view contract and spot rates, resolved ramps, and rate trends. The conversion savings feature calculates estimated savings per load, total lane savings, intermodal volume, and conversion potential, allowing users to input their own rates and annual volume. Data includes intermodal contract rates, spot rates on covered corridors, rate and volume trends over the last 12 months, and suggested in‑gate and out‑gate ramps with distances from origin and destination.
+
+Source: FreightWaves (https://freightwaves.com/news/sonar-rate-intelligence-adds-intermodal-rates-and-truckload-to-intermodal-conversion-savings)</description>
+      <pubDate>Thu, 08 Oct 2026 15:11:45 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/sonar-rate-intelligence-adds-intermodal-rates-with-21-1-savings</guid>
+      <category>Logistics</category>
+    </item>
+    <item>
+      <title>AI-driven trade surge lifts semiconductors to 42% of global goods growth in 2025</title>
+      <link>https://commercenewsdesk.com/briefs/ai-driven-trade-surge-lifts-semiconductors-to-42-of-global-goods</link>
+      <description>Semiconductors, data transmission equipment and data center hardware made up 42% of all goods trade growth in 2025, according to a NYU Stern report commissioned by DHL. That share climbed to roughly 76% in the first quarter of the same year.
+
+FedEx’s chief commercial officer said the addressable transportation market for data centers and IT service equipment is conservatively valued at $7 billion. DHL Global Forwarding estimates the data center logistics market was about $23 billion in 2025 and projects it to reach at least $35 billion by 2030. Analysts estimate cloud providers could spend as much as $525 billion on data center construction in 2026 alone. AI-related supply chains require speed, visibility, cross-border expertise and resilience. This shift demands logistics providers with expertise in handling sensitive, high‑value cargo and navigating complex international regulations.
+
+“The biggest story in global trade right now is AI – not tariffs,” John Pearson, CEO of DHL Express said.
+
+AI infrastructure differs from typical consumer goods because it involves moving large, valuable, and delicate items from Asian factories to worldwide data centers, requiring special handling, customs clearance and storage. U.S. AI investment has boosted imports of related goods even as overall imports of other products have fallen.
+
+Source: FreightWaves (https://freightwaves.com/news/ai-gold-rush-transforms-trans-pacific-trade-and-logistics)</description>
+      <pubDate>Thu, 08 Oct 2026 14:52:07 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ai-driven-trade-surge-lifts-semiconductors-to-42-of-global-goods</guid>
+      <category>Logistics</category>
+    </item>
+    <item>
+      <title>CBP begins paying IEEPA tariff refunds for finally liquidated entries</title>
+      <link>https://commercenewsdesk.com/briefs/cbp-begins-paying-ieepa-tariff-refunds-for-finally-liquidated-en</link>
+      <description>U.S. Customs and Border Protection has started processing refunds for finally liquidated entries linked to the now‑defunct IEEPA tariffs after an Oct. 6 court filing confirmed eligibility. Only plaintiffs who submitted a valid importer of record number to CBP by July 30, 2026 can currently receive the refunds, while later filers must wait for further guidance.
+
+As of Oct. 6, CBP had accepted 477 CAPE declarations covering 425,517 entries for processing. The agency said importers can apply for the refunds through the Consolidated Administration and Processing of Entries (CAPE) portal. The CAPE system is designed to handle roughly $11.4 billion, or 6.9% of the duties imposed under the International Emergency Economic Powers Act that were later struck down by the Supreme Court. As of Oct. 2, CAPE had accepted about $136.6 billion in potential and certified refunds, with $126 billion already forwarded to the Treasury for disbursement. The Court of International Trade earlier this year ruled that CBP must refund unprocessed or unfinalized entries and later expanded the order to include finally liquidated entries, though the Justice Department appealed the decision.
+
+“Organizations can apply for the refunds through CBP's Consolidated Administration and Processing of Entries portal, or CAPE,” Brandon Lord, executive director of CBP’s Trade Programs Directorate said.
+
+“Another important step in the CAPE process — and one importers involved in the tariff litigation will want to continue to monitor,” Kelly Nelson, principal consultant and managing director of KPMG Trade &amp; Customs Services said.
+
+The CAPE rollout began earlier this year to process refunds for IEEPA‑related duties after the Supreme Court invalidated them in February. CBP had aimed to launch the third phase for finally liquidated entries by end‑July but postponed it to October, and the Court of International Trade had ordered refunds for unprocessed entries before expanding the order to finally liquidated entrie
+
+Source: Supply Chain Dive (https://supplychaindive.com/news/cbp-starts-paying-out-ieepa-tariff-refunds-for-finally-liquidated-entries/832411)</description>
+      <pubDate>Thu, 08 Oct 2026 14:42:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/cbp-begins-paying-ieepa-tariff-refunds-for-finally-liquidated-en</guid>
+      <category>Policy</category>
+    </item>
     <item>
       <title>Samsung seeks $186 million from CMA CGM over container charges</title>
       <link>https://commercenewsdesk.com/briefs/samsung-seeks-186-million-from-cma-cgm-over-container-charges</link>
@@ -681,151 +822,6 @@ Source: SupplyChainBrain (https://supplychainbrain.com/articles/44982-from-visib
       <pubDate>Wed, 07 Oct 2026 14:51:15 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/experts-explore-trusted-data-and-ai-for-autonomous-supply-chains</guid>
       <category>Logistics</category>
-    </item>
-    <item>
-      <title>Logistics firms agree to pay $2 million to settle hiring‑discrimination cases</title>
-      <link>https://commercenewsdesk.com/briefs/logistics-firms-agree-to-pay-2-million-to-settle-hiringdiscrimin</link>
-      <description>The U.S. Equal Employment Opportunity Commission announced on Monday that Birchstone Management will pay $500,000 and Mile Hi Companies $1.5 million to resolve federal hiring‑discrimination claims. Birchstone’s $500,000 settlement includes a $55,000 payment to the woman who filed the charge and a $445,000 fund for other affected applicants, while Mile Hi’s $1.5 million resolves allegations of discrimination against Black, female and Afghan job seekers.
-
-Birchstone must revise its hiring and recruitment policies, provide training to personnel involved in hiring at several locations, audit its employment recordkeeping annually and report to the EEOC for two years.
-
-The Birchstone settlement follows a Sept. 25 announcement that Mile Hi Companies agreed to pay $1.5 million to settle an EEOC lawsuit filed in 2024. The EEOC alleged Mile Hi denied employment opportunities to Black, female and Afghan applicants beginning in 2015.
-
-Source: FreightWaves (https://freightwaves.com/news/logistics-firms-to-pay-2m-to-settle-hiring-discrimination-cases)</description>
-      <pubDate>Wed, 07 Oct 2026 14:42:28 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/logistics-firms-agree-to-pay-2-million-to-settle-hiringdiscrimin</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Noah secures $38 million seed funding after 538% revenue surge</title>
-      <link>https://commercenewsdesk.com/briefs/noah-secures-38-million-seed-funding-after-538-revenue-surge</link>
-      <description>Noah closed a $38 million seed round after raising an additional $16 million from new and existing investors, building on $22 million raised earlier in 2025, according to a Wednesday press release. Year‑to‑date revenue jumped 538% versus 2025 while the company added more than 150 new customers.
-
-The proceeds will fund expansion of Noah’s international money‑transfer platform, including broadening its regulatory licences, hiring engineering and compliance specialists, and strengthening connections with local payment rails. In the United States, Noah will open a New York office to accelerate domestic growth and support its stablecoin‑based settlement services. Today the platform is live in over 150 markets, supports more than 60 currencies, and enables smooth cross‑border payments for enterprises and individuals both directly and through partnerships with fintechs, neobanks and workforce platforms. The company also highlighted recent integrations, noting that its infrastructure was adopted by the MiniPay wallet in October 2025 and that it has partnered with Cedar Money, Bron and Aurea Hub to broaden its service network.
-
-“Noah is building the infrastructure that will make one-click international transactions possible everywhere, with full compliance at both the origination and destination of funds,” Shah Ramezani said.
-
-“Just as neobanks have revolutionized domestic banking, we want to redefine global money transfer markets,” Shah Ramezani said.
-
-In May, PYMNTS reported that a new architectural model of cross‑border settlement is emerging and is being powered by stablecoins. Earlier, Noah’s technology was integrated into the non‑custodial MiniPay wallet to enable freelancers, creators and sellers to receive global payouts.
-
-Source: PYMNTS (https://pymnts.com/cryptocurrency/2026/stablecoin-rails-provider-noah-closes-38-million-dollar-seed-funding-following-538percent-revenue-surge)</description>
-      <pubDate>Wed, 07 Oct 2026 14:38:54 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/noah-secures-38-million-seed-funding-after-538-revenue-surge</guid>
-      <category>Payments</category>
-    </item>
-    <item>
-      <title>France and Germany urge EU to adopt rapid-response trade tool</title>
-      <link>https://commercenewsdesk.com/briefs/france-and-germany-urge-eu-to-adopt-rapid-response-trade-tool</link>
-      <description>French President Emmanuel Macron and German Chancellor Friedrich Merz warned that the EU’s trade deficit with China is expanding by about 1 billion euros per day. They urged the European Commission to create a rapid-response mechanism modeled on America’s Section 301 duties to counter unfair trade practices faster. They argued the EU’s current Anti‑Coercion Instrument requires a months‑long investigation and majority government approval before it can be used.
-
-Macron and Merz said the EU’s trade deficit with China has reached roughly 1 billion euros ($1.125 billion) each day, driven by a surge of Chinese imports.
-European Trade Commissioner Maroš Šefčovič is set to travel to Beijing on Thursday for the final round of rebalancing talks that began four months ago, with outcomes to be reviewed at an EU leaders’ summit in Brussels on October 15‑16.
-The proposed rapid‑response tool would bypass the lengthy Anti‑Coercion Instrument process, allowing the Commission to act quickly without waiting for a months‑long probe or a unanimous member‑state vote.
-Macron and Merz also called on the Commission to diversify Europe’s supply chains to lessen dependence on Chinese goods.
-
-“Without delaying the full use of the existing set of instruments, we need a comprehensive framework to complement our toolbox with new legal instruments—in a lean and non-bureaucratic way,” Emmanuel Macron, President of France, and Friedrich Merz, Chancellor of Germany said.
-
-Days ahead of a scheduled EU‑China trade meeting, Macron and Merz warned that Chinese imports are threatening European manufacturers and the broader economy. They noted that US Section 301 tariffs have already redirected Chinese goods toward Europe, worsening the bloc’s imbalance.
-
-Source: Sourcing Journal (https://wwd.com/sourcing-journal/trade/france-germany-weapon-trade-threats-european-union-china-1239317928)</description>
-      <pubDate>Wed, 07 Oct 2026 14:30:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/france-and-germany-urge-eu-to-adopt-rapid-response-trade-tool</guid>
-      <category>Policy</category>
-    </item>
-    <item>
-      <title>Amazon controls 63% of German online retail as sales hit €69.1bn</title>
-      <link>https://commercenewsdesk.com/briefs/amazon-controls-63-of-german-online-retail-as-sales-hit-69-1bn</link>
-      <description>Amazon held a 63 percent share of Germany’s online retail market in 2024, with its marketplace generating €69.1 billion in sales. The figure represents a 5 percent year‑on‑year increase, driven largely by third‑party sellers who contributed 46.1 percent of online spending while Amazon’s own retail accounted for 17.2 percent.
-
-According to the IFH KÖln and General Evidence study, 97 percent of German online shoppers purchased from Amazon last year, and 59 percent of those shoppers were Prime members. Beyond online, Amazon accounted for 17 percent of total retail spending (online and offline) in the studied product categories and influenced an additional 24 percent of spending in those groups. The study also noted that Otto and Zalando together grew their German sales by €1.4 billion, while Shein and Temu saw combined growth of roughly €1 billion. One in eight Amazon shoppers said they are shifting some purchases to Chinese platforms, mainly for price reasons. Amazon continues to invest in its logistics network in the country, expanding fulfillment centers and delivery capabilities to support its growing sales volume.
-
-IFH KÖln stresses that Amazon is facing somewhat stronger competition in Germany from Otto, Zalando, Shein and Temu. The researchers note that, although Amazon still leads on product range, ease of ordering and delivery speed, Chinese platforms are gaining ground on price.
-
-Source: Ecommerce News Europe (https://ecommercenews.eu/amazon-holds-63-of-german-online-retail)</description>
-      <pubDate>Wed, 07 Oct 2026 13:52:07 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazon-controls-63-of-german-online-retail-as-sales-hit-69-1bn</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>New trucking capacity remains stagnant as fleet growth stalls in August 2026</title>
-      <link>https://commercenewsdesk.com/briefs/new-trucking-capacity-remains-stagnant-as-fleet-growth-stalls-in</link>
-      <description>As of October 2026, new for‑hire tractor counts stood at 19,520, showing no net increase despite elevated tender rejections. The SONAR Truckload Rejection Index lingered near 14%, roughly triple its 2023‑2025 average, while freight volume rose only 9% over the same period.
-
-Net weekly authority additions exceeded 2,000 in August and September, marking a five‑year high, though much of the increase reflects administrative changes from the FMCSA’s Motus registration system rather than new trucks. Only about two‑thirds of new interstate registrants obtained liability insurance, a sharp drop from the over‑90% rate seen in 2019, indicating fewer carriers are actually hitting the road. A growing pool of disqualified drivers—202,345 CDL holders were in prohibited status as of January 2026—and stricter English‑language rules are raising entry costs and keeping new capacity out of the market. Overall for‑hire tractor fleets contracted by roughly 51,000 units in August alone, underscoring the speed at which existing capacity is exiting the market.
-
-In the previous cycle (2020‑2022), rising rejection rates spurred a surge in new‑fleet tractors, which climbed to about 47,000 by mid‑2022. Before that, from 2019 to 2022, total operating authorities grew 51% while for‑hire tractors increased just 12%, showing a long‑standing gap between permissions and actual trucks. The current uptick in authority filings is largely driven by the Motus system clearing a backlog, not by genuine fleet expansion. The widening gap between authority issuance and actual truck purchases has been evident for years, but 2026’s administrative surge makes the disparity especially pronounced.
-
-Source: FreightWaves (https://freightwaves.com/news/is-trucking-capacity-coming-back-why-new-capacity-isnt-entering-the-2026-freight-market)</description>
-      <pubDate>Wed, 07 Oct 2026 13:45:10 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/new-trucking-capacity-remains-stagnant-as-fleet-growth-stalls-in</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Former Flipkart executives seek ESOP buyback from Walmart amid IPO delay</title>
-      <link>https://commercenewsdesk.com/briefs/former-flipkart-executives-seek-esop-buyback-from-walmart-amid-i</link>
-      <description>Former Flipkart executives Mukesh Bansal, Ankit Nagori and Sanjay Baweja urge Walmart to buy back their vested employee stock options, which currently allow only up to 5% liquidation under the July buyback tranche. The July buyback valued Flipkart at around $38.2 billion, but eligible employees could liquidate only a small fraction of their holdings.
-
-The executives said they wrote to Walmart’s board, which includes Flipkart group CEO Kalyan Krishnamurthy, requesting a complete exit opportunity for their vested ESOPs granted 10 to 15 years ago. They argued that former employees should not be disadvantaged simply because they are no longer on Flipkart’s payroll and demanded fair treatment for the options. A Walmart spokesperson said the company would examine the issues raised and take the feedback seriously, while reiterating that an IPO remains part of the strategic roadmap when timing is right. For FY25, Flipkart Internet’s marketplace arm reported a 36.7% decline in consolidated net loss to ₹1,494.2 crore while total income rose 14% year-on-year to ₹20,807.4 crore.
-
-Months earlier, Walmart completed the second tranche of Flipkart's employee stock buyback, valuing the company at about $38.2 billion and allowing employees to sell only up to 5% of their vested options. Walmart has said it aims for a $50 billion valuation before listing Flipkart, which has postponed its IPO to 2028 while focusing on profitability and expanding quick commerce.
-
-Source: Inc42 (https://inc42.com/buzz/mukesh-bansal-ankit-nagori-seek-esop-buyback-from-flipkart-amid-ipo-uncertainty)</description>
-      <pubDate>Wed, 07 Oct 2026 13:24:24 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/former-flipkart-executives-seek-esop-buyback-from-walmart-amid-i</guid>
-      <category>Marketplaces</category>
-    </item>
-    <item>
-      <title>Liquid Death refines AI marketing platform with 17 Omega updates in three weeks</title>
-      <link>https://commercenewsdesk.com/briefs/liquid-death-refines-ai-marketing-platform-with-17-omega-updates</link>
-      <description>Liquid Death has updated its proprietary AI marketing platform 17 times in the last three weeks through work with Power Digital Marketing. The updates let the brand optimize retail media campaigns daily and aim to manage a sizable media budget with just two in‑house staff.
-
-Power Digital’s ecosystem combines an intelligence layer called Iris, an operating system named Omega, and a creative intelligence layer dubbed Creative Affinity. Liquid Death’s team can now query revenue and media data through a unified interface, eliminating the need for separate Slack messages or manual queries. The platform enables daily adjustments to ad spend and creative, a shift from the previous twice‑weekly or weekly review cadence. The system does not require additional licensing fees beyond the agency’s existing service agreement, according to Vatere.
-
-“On a pretty sizeable budget, how can I operate that with only two people internally? That's the goal,” Benoit Vatere, chief media and digital commerce officer at Liquid Death said.
-
-“In an AI-native world, you need to be developing applications that align to how your customers want to work, and think of ways you can invent better things to do that they already do today in a more automated way,” Jeff Mason, CEO of Power Digital Marketing said.
-
-Prior to this work, Liquid Death described itself as AI‑curious, using publicly available models such as Claude and ChatGPT to experiment with generative AI. Power Digital’s August announcement of its proprietary AI ecosystem gave the brand a structured intelligence layer to build upon. The agency frames the next evolution as AI‑native, where an orchestration layer lets teams run work inside a custom application rather than relying on external tools.
-
-Source: Marketing Dive (https://marketingdive.com/news/how-liquid-death-is-building-an-ai-native-marketing-organization/832345)</description>
-      <pubDate>Wed, 07 Oct 2026 13:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/liquid-death-refines-ai-marketing-platform-with-17-omega-updates</guid>
-      <category>DTC</category>
-    </item>
-    <item>
-      <title>Lumio raises $12 million Series A to scale consumer electronics portfolio</title>
-      <link>https://commercenewsdesk.com/briefs/lumio-raises-12-million-series-a-to-scale-consumer-electronics-p</link>
-      <description>Lumio secured $12 million in a Series A funding round led by Blume Ventures, with Stellaris Venture Partners and 3one4 Capital also participating. Founded in 2024 by former Xiaomi India CBO Raghu Reddy and ex-Flipkart executive Kailash Sankaranarayanan, the company launched its first smart TV lineup in early 2025 and now offers projectors and speakers. Lumio says it serves over 35,000 households across more than 5,000 pin codes and has crossed ₹100 crore in gross merchandise value within 13 months of commercial sales.
-
-The fresh capital will be used to invest in product development, software enhancements, new category exploration, and to strengthen quality and after‑sales support as the business grows.
-
-“This funding gives us the opportunity to invest further in our products and software, explore new categories, and strengthen quality and after-sales support as we grow,” Raghu Reddy said.
-
-“India’s 3-3.5 Cr affluent households are reimagining their living rooms, and no longer default to legacy brands. Raghu and Kailash have leveraged their deep experience in home entertainment and customer insights to create a compelling home entertainment brand in Lumio,” Sajith Pai said.
-
-Before the Series A, Lumio had raised a $4.3 million seed round in July 2024 from Stellaris Venture Partners, 3one4 Capital, Mamaearth’s Varun Alagh, Tracxn’s Abhishek Goyal and other angel investors.
-
-Source: Inc42 (https://inc42.com/buzz/lumio-raises-12-mn-to-scale-consumer-electronics-portfolio)</description>
-      <pubDate>Wed, 07 Oct 2026 12:19:33 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/lumio-raises-12-million-series-a-to-scale-consumer-electronics-p</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Ikea launches second-hand marketplace in UK and Ireland for Family members</title>
-      <link>https://commercenewsdesk.com/briefs/ikea-launches-second-hand-marketplace-in-uk-and-ireland-for-fami</link>
-      <description>Ikea has launched a second-hand marketplace in the UK and Ireland for Ikea Family members to buy and sell pre-owned Ikea products. Items listed on the marketplace cost on average 60% less than comparable new products.
-
-Listing is free for Ikea Family members, who can receive payment either in cash or via an Ikea digital refund card that includes a 15% bonus. Sellers can scan eligible items to create listings that automatically add recommended prices, product images, measurements, descriptions, assembly instructions and care information. Mattresses, appliances, food, modified products, recalled products and any non-Ikea items are excluded from the marketplace.
-
-“The way people furnish their homes has changed. Whether they are moving, redecorating or looking for a particular piece, more customers are considering pre-owned furniture alongside new and are actively searching for items that can help create a home that feels personal to them,” Greg Lucas said.
-
-The marketplace already operates in eight European markets, including Spain, Norway, Portugal, Poland, Sweden and Belgium, with Germany set to join on 14 October. Ingka Group said the marketplace recorded 15 million visits and 95,700 listings across its first six markets up to 31 August 2026, with 25.5% of users being new or reactivated Ikea Family members.
-
-Source: Retail Insight Network (https://retail-insight-network.com/news/ikea-second-hand-marketplace-uk-ireland)</description>
-      <pubDate>Wed, 07 Oct 2026 08:19:20 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ikea-launches-second-hand-marketplace-in-uk-and-ireland-for-fami</guid>
-      <category>Marketplaces</category>
     </item>
   </channel>
 </rss>

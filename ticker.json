@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-08T23:11:36.910653+00:00",
+  "generated_at": "2026-10-08T23:38:07.427367+00:00",
   "items": [
+    {
+      "headline": "FMCSA advances split\u2011sleeper berth pilot with 256\u2011driver trial",
+      "desk": "Logistics",
+      "slug": "fmcsa-advances-splitsleeper-berth-pilot-with-256driver-trial",
+      "url": "https://commercenewsdesk.com/briefs/fmcsa-advances-splitsleeper-berth-pilot-with-256driver-trial",
+      "time_utc": "2026-10-08T19:29:49+00:00",
+      "time_et": "Oct 8, 15:29 ET"
+    },
+    {
+      "headline": "FMCSA grants five-year beacon exemption for Level 4 autonomous trucks",
+      "desk": "Logistics",
+      "slug": "fmcsa-grants-five-year-beacon-exemption-for-level-4-autonomous-t",
+      "url": "https://commercenewsdesk.com/briefs/fmcsa-grants-five-year-beacon-exemption-for-level-4-autonomous-t",
+      "time_utc": "2026-10-08T18:49:38+00:00",
+      "time_et": "Oct 8, 14:49 ET"
+    },
+    {
+      "headline": "Global container volumes hit record 17.46 million TEUs in August",
+      "desk": "Logistics",
+      "slug": "global-container-volumes-hit-record-17-46-million-teus-in-august",
+      "url": "https://commercenewsdesk.com/briefs/global-container-volumes-hit-record-17-46-million-teus-in-august",
+      "time_utc": "2026-10-08T18:20:17+00:00",
+      "time_et": "Oct 8, 14:20 ET"
+    },
     {
       "headline": "Google Cloud offers Gemini agent for enterprise Workspace users",
       "desk": "Platforms",
@@ -42,6 +66,14 @@
       "time_et": "Oct 8, 12:19 ET"
     },
     {
+      "headline": "Shopify adds automated policy generation to speed store launches",
+      "desk": "Platforms",
+      "slug": "shopify-adds-automated-policy-generation-to-speed-store-launches",
+      "url": "https://commercenewsdesk.com/briefs/shopify-adds-automated-policy-generation-to-speed-store-launches",
+      "time_utc": "2026-10-08T16:00:00+00:00",
+      "time_et": "Oct 8, 12:00 ET"
+    },
+    {
       "headline": "Consumers anticipate higher spending as inflation worries climb",
       "desk": "Platforms",
       "slug": "consumers-anticipate-higher-spending-as-inflation-worries-climb",
@@ -64,38 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/ai-driven-trade-surge-lifts-semiconductors-to-42-of-global-goods",
       "time_utc": "2026-10-08T14:52:07+00:00",
       "time_et": "Oct 8, 10:52 ET"
-    },
-    {
-      "headline": "CBP begins paying IEEPA tariff refunds for finally liquidated entries",
-      "desk": "Policy",
-      "slug": "cbp-begins-paying-ieepa-tariff-refunds-for-finally-liquidated-en",
-      "url": "https://commercenewsdesk.com/briefs/cbp-begins-paying-ieepa-tariff-refunds-for-finally-liquidated-en",
-      "time_utc": "2026-10-08T14:42:00+00:00",
-      "time_et": "Oct 8, 10:42 ET"
-    },
-    {
-      "headline": "Samsung seeks $186 million from CMA CGM over container charges",
-      "desk": "Logistics",
-      "slug": "samsung-seeks-186-million-from-cma-cgm-over-container-charges",
-      "url": "https://commercenewsdesk.com/briefs/samsung-seeks-186-million-from-cma-cgm-over-container-charges",
-      "time_utc": "2026-10-08T14:20:18+00:00",
-      "time_et": "Oct 8, 10:20 ET"
-    },
-    {
-      "headline": "Rust Coast Deploys Real-Time Computer Vision to Cut Apparel Fit Errors",
-      "desk": "Platforms",
-      "slug": "rust-coast-deploys-real-time-computer-vision-to-cut-apparel-fit",
-      "url": "https://commercenewsdesk.com/briefs/rust-coast-deploys-real-time-computer-vision-to-cut-apparel-fit",
-      "time_utc": "2026-10-08T14:00:00+00:00",
-      "time_et": "Oct 8, 10:00 ET"
-    },
-    {
-      "headline": "Revlon reports 9.8\u2011times higher CTR from Amazon interactive video ads",
-      "desk": "Platforms",
-      "slug": "revlon-reports-9-8times-higher-ctr-from-amazon-interactive-video",
-      "url": "https://commercenewsdesk.com/briefs/revlon-reports-9-8times-higher-ctr-from-amazon-interactive-video",
-      "time_utc": "2026-10-08T13:52:00+00:00",
-      "time_et": "Oct 8, 09:52 ET"
     }
   ]
 }

@@ -5,8 +5,22 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 08:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:54:12 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>UPI MDR rollout may be pushed to January 2027 amid retailer pushback</title>
+      <link>https://commercenewsdesk.com/briefs/upi-mdr-rollout-may-be-pushed-to-january-2027-amid-retailer-push</link>
+      <description>The National Payments Corporation of India‑led UPI and Services Steering Committee is weighing a deferral of the merchant discount rate on select UPI transactions from October 15 to January 1, 2027, following opposition from retail trader groups. Under the proposed framework, a 0.40% fee would apply to person‑to‑merchant UPI payments above ₹2,000, capped at ₹300 per transaction, while businesses with up to ₹40 lakh annual turnover could be exempted and payments below the threshold would remain free of charge.
+
+For bill payments, utilities, education and fuel, the fee would be a flat ₹5 on each transaction exceeding ₹2,000. Consumers would not bear the MDR, and the acquiring bank would retain 0.28% of the transaction value as interchange, passing 0.12% to the issuing bank and 0.08% to the UPI app provider. Authorities are also reviewing a raise in the daily UPI transaction limit for certain sectors from ₹1 lakh to ₹2 lakh. In September, UPI processed 24.07 billion transactions worth ₹29.37 trillion, with volume up 22.6% year‑on‑year and value up 18% year‑on‑year. The fee would create a new revenue stream for banks, payment service providers and third‑party application providers.
+
+The MDR would end the current zero‑fee regime for most merchant UPI payments, a shift that the Centre said would leave about 96% of transactions unaffected. Retailer associations have opposed the fee, arguing it would raise costs for thin‑margin businesses and had called for a ‘No UPI Day’ on October 2 before withdrawing the protest after a meeting with Finance Minister Nirmala Sitharaman on September 30.
+
+Source: Inc42 (https://inc42.com/buzz/upi-mdr-rollout-may-be-deferred-to-january-2027-amid-pushback-by-retailers)</description>
+      <pubDate>Thu, 08 Oct 2026 05:36:32 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/upi-mdr-rollout-may-be-pushed-to-january-2027-amid-retailer-push</guid>
+      <category>Payments</category>
+    </item>
     <item>
       <title>Ty Symonds joins Pottery for the Planet as GM effective October 12</title>
       <link>https://commercenewsdesk.com/briefs/ty-symonds-joins-pottery-for-the-planet-as-gm-effective-october</link>
@@ -809,22 +823,6 @@ Source: Sourcing Journal (https://wwd.com/sourcing-journal/industry-news/califor
       <pubDate>Tue, 06 Oct 2026 21:01:45 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/california-governor-newsom-signs-ab-1693-to-speed-storefront-per</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>Shippers push for AI-capable 3PLs amid nearshoring surge and global disruptions</title>
-      <link>https://commercenewsdesk.com/briefs/shippers-push-for-ai-capable-3pls-amid-nearshoring-surge-and-glo</link>
-      <description>According to the 2027 Third-Party Logistics Study released Tuesday, 74 percent of shippers report major or severe impacts from global conflicts and geopolitical disruptions. At the same time, 86 percent are increasing their use of outsourced logistics services while 74 percent are consolidating their 3PL partners, up from 50 percent in the prior year.
-
-The study shows 93 percent of shippers deem AI important, very important or critical when choosing a 3PL, yet only 12 percent of providers say they are highly prepared to deliver AI-enabled operations. Nearshoring remains a priority, with 74 percent of shippers diversifying suppliers or sourcing regions and 73 percent raising safety stock or inventory buffers. Nike’s chief operating officer told employees the brand is shifting away from owning much of its fulfillment network and will focus more on local partnerships, reflecting the broader move toward regional sourcing.
-
-“The preponderance of what we’ve been facing is a global reset in the geopolitical environment, supplemented by natural phenomena and, on top of that, a large driving force of global economic reset,” Mark Baxa, president and CEO of the Council of Supply Chain Management Professionals (CSCMP) said.
-
-The research was produced by NTT DATA, Penske Logistics and the University of Tennessee’s Global Supply Chain Institute, with backing from the CSCMP. Anne Reinke of the Intermodal Association of North America pointed to a large increase in Mexico‑bound intermodal shipments. Bloomberg reported last week that Nike is pursuing a nearshoring strategy more aggressively than before.
-
-Source: Sourcing Journal (https://wwd.com/sourcing-journal/logistics/3pl-study-nike-nearshoring-ai-third-party-logistics-cscmp-penske-1239316246)</description>
-      <pubDate>Tue, 06 Oct 2026 20:13:37 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/shippers-push-for-ai-capable-3pls-amid-nearshoring-surge-and-glo</guid>
-      <category>Logistics</category>
     </item>
   </channel>
 </rss>

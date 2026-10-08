@@ -5,8 +5,26 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 01:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:41:17 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Xeneta says Hormuz freight shock may have peaked after 344% rate surge</title>
+      <link>https://commercenewsdesk.com/briefs/xeneta-says-hormuz-freight-shock-may-have-peaked-after-344-rate</link>
+      <description>Xeneta reported that container rates from China to the U.S. East and West Coasts have risen 344 percent and 335 percent since February 28, but the market has likely reached its post‑Hormuz crisis peak. The spread between the two coasts has widened to $3,177 per 40‑foot equivalent unit, with East‑Coast bound containers averaging $11,523 and West‑Coast bound boxes averaging $8,346.
+
+Xeneta forecasts that, looking three months ahead, spot rates could fall to $6,000‑$7,000 for East‑Coast destinations and $4,500‑$5,500 for the West Coast. The UAE’s National Association of Freight and Logistics notes that moving cargo into the Persian Gulf now costs three to five times pre‑war levels due to surcharges, rerouting and land‑transport expenses. Maritime security sources recorded at least 12 attacks on oil, LNG and LPG tankers in the week of September 28 to October 5, the highest weekly total since the conflict began. The International Maritime Organization separately verified nine of those incidents, up from a previous weekly high of eight in mid‑July.
+
+“We can say with a level of confidence that the market has reached its post-Hormuz crisis peak in 2026,” Peter Sand, chief analyst at ocean and air freight benchmarking platform Xeneta said.
+
+“The spread will narrow as the broader decline takes hold in the remainder of the year, driven mainly by a harder fall into the U.S. East Coast due to its more elevated starting point,” Peter Sand, chief analyst at Xeneta said.
+
+Before the Hormuz crisis, the cost gap between East and West Coast shipments was just $772 per 40‑foot unit. In the week of July 13, maritime logs recorded eight vessel attacks, the prior peak.
+
+Source: WWD (https://wwd.com/sourcing-journal/logistics/strait-of-hormuz-freight-rates-peaked-iran-war-xeneta-container-shipping-oil-1239320306)</description>
+      <pubDate>Wed, 07 Oct 2026 22:35:31 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/xeneta-says-hormuz-freight-shock-may-have-peaked-after-344-rate</guid>
+      <category>Logistics</category>
+    </item>
     <item>
       <title>Report urges brands to build farmer ties for better cotton traceability</title>
       <link>https://commercenewsdesk.com/briefs/report-urges-brands-to-build-farmer-ties-for-better-cotton-trace</link>
@@ -793,24 +811,6 @@ Source: Retail Gazette (https://retailgazette.co.uk/blog/2026/10/asos-confirms-c
       <pubDate>Tue, 06 Oct 2026 15:31:48 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/asos-confirms-hackers-accessed-basic-user-data-after-tuesday-app</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>Etsy pilots Class 8 electric trucks on Texas route to cut freight emissions</title>
-      <link>https://commercenewsdesk.com/briefs/etsy-pilots-class-8-electric-trucks-on-texas-route-to-cut-freigh</link>
-      <description>Etsy is deploying Class 8 battery-electric trucks in Texas as part of a pilot program aimed at reaching net-zero emissions by 2040, according to environmental impact lead Sam Brundrett. Through the Green Market Activation coalition, Etsy will pay for Environmental Attribute Certificates that offset the higher cost of running electric trucks versus diesel.
-
-The pilot, which includes Amazon, eBay, Green Worldwide Shipping, Meta and Google, now has 63 members and is scheduled to launch in early 2027. Nevoya has been selected as the carrier and plans to deploy new battery-electric trucks late this year and early 2027, using charging infrastructure being built with Greenlane Infrastructure on the Houston‑Dallas corridor. Etsy’s commitment under the four‑year GMA agreement is to purchase a defined volume of zero‑emission trucking certificates measured in tonne‑kilometers, not tied to specific marketplace shipments. By 2030, Etsy targets a 52% reduction in scope 3 emissions per dollar of gross profit relative to its 2020 baseline.
-
-“By 2030, the company aims to lower its scope 3 emissions per dollar of gross profit by 52% from its 2020 baseline,” Sam Brundrett, environmental impact lead at Etsy said.
-
-“The certificates help cover the additional cost of operating electric trucks compared with diesel trucks,” Sam Brundrett, environmental impact lead at Etsy said.
-
-The pilot was initially announced in January and is done in partnership with the Center for Green Market Activation (GMA) and Smart Freight Centre. The coalition also includes Amazon, eBay, Green Worldwide Shipping, Meta, and most recently, Google. The GMA pilot is focused on the Houston‑Dallas route due to significant freight volumes moving in both directions between the two cities.
-
-Source: Supply Chain Dive (https://supplychaindive.com/news/how-etsy-is-pushing-freight-decarbonization/832159)</description>
-      <pubDate>Tue, 06 Oct 2026 15:26:43 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/etsy-pilots-class-8-electric-trucks-on-texas-route-to-cut-freigh</guid>
-      <category>Marketplaces</category>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,24 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:18:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:48:46 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Argos expands marketplace to 130,000 products in biggest range push</title>
+      <link>https://commercenewsdesk.com/briefs/argos-expands-marketplace-to-130-000-products-in-biggest-range-p</link>
+      <description>Argos plans to offer more than 130,000 products from vetted third‑party retailers and brands on its Trusted Sellers marketplace by the end of 2026. The platform, which was trialled with 40 partners in July, already offers more than 70,000 products. The expansion marks the biggest increase in Argos’s product range in its history.
+
+Initially focused on furniture, home, and toys, Trusted Sellers is now expanding into health and beauty, gifting and electricals, with beauty brands such as Clarins, Dermalogica, and Medicube already available. Products are delivered directly by Trusted Sellers, although customers can still earn Nectar Points on marketplace purchases. The expansion forms part of a wider transformation programme at Argos that includes investment in its digital experience, rapid delivery, Argos Pay, and other customer propositions. Every partner is vetted by Argos before joining Trusted Sellers, ensuring that products meet the retailer’s quality and safety standards.
+
+“The launch of Trusted Sellers enables us to complement those ranges with thousands of new lines from brands and independent businesses that mean our customers get an even wider range,” Graham Biggart said.
+
+In July, Argos trialled the Trusted Sellers marketplace with 40 partners, offering over 70,000 products. The expansion comes after Sainsbury’s agreed to sell Argos to Swift Partners for £120 million in July, ending ten years of ownership since acquiring the brand for £1.4 billion in 2016. Graham Biggart said the feedback on and from Trusted Sellers has been incredibly positive.
+
+Source: Retail Gazette (https://retailgazette.co.uk/blog/2026/10/argos-marketplace-range-push)</description>
+      <pubDate>Thu, 08 Oct 2026 00:00:10 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/argos-expands-marketplace-to-130-000-products-in-biggest-range-p</guid>
+      <category>Marketplaces</category>
+    </item>
     <item>
       <title>Xeneta says Hormuz freight shock may have peaked after 344% rate surge</title>
       <link>https://commercenewsdesk.com/briefs/xeneta-says-hormuz-freight-shock-may-have-peaked-after-344-rate</link>
@@ -796,20 +812,6 @@ The CFPB’s earlier report on credit invisibility highlighted the gap in tradit
 Source: PYMNTS (https://pymnts.com/loans/2026/lenders-find-creditworthy-borrowers-hiding-in-the-data)</description>
       <pubDate>Tue, 06 Oct 2026 15:32:55 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/lenders-use-alternative-data-to-approve-millions-more-borrowers</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>ASOS confirms hackers accessed basic user data after Tuesday app breach</title>
-      <link>https://commercenewsdesk.com/briefs/asos-confirms-hackers-accessed-basic-user-data-after-tuesday-app</link>
-      <description>ASOS confirmed on Tuesday morning that hackers breached its app and may have accessed basic personal information such as names and contact details. The retailer stressed that payment‑card information and account passwords were not affected by the incident.
-
-Hackers sent a push notification via the ASOS app on Tuesday morning, threatening users and directly addressing the company’s data protection officer and IT teams. ASOS described the incident as a public extortion attempt, noting that such tactics are rare in cyberattacks. The company is investigating the breach and has filed a statement with the London Stock Exchange. ASOS said that some basic customer data may have been accessed, but that, according to the company, payment card information and account passwords were not compromised. The breach was discovered earlier today, according to ASOS’s statement. Users of the ASOS app received threatening notifications from the attackers. ASOS said it is investigating a cyberattack on external platforms linked to the app breach.
-
-ASOS characterized the attackers’ push notification as a public extortion attempt, which it labeled a rare tactic in cyberattacks. The company confirmed it is investigating the cyberattack on external platforms after the notification was sent. ASOS confirmed that hackers breached the app for a ransom note.
-
-Source: Retail Gazette (https://retailgazette.co.uk/blog/2026/10/asos-confirms-cyber-attack)</description>
-      <pubDate>Tue, 06 Oct 2026 15:31:48 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/asos-confirms-hackers-accessed-basic-user-data-after-tuesday-app</guid>
       <category>Platforms</category>
     </item>
   </channel>

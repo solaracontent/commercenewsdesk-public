@@ -1,9 +1,9 @@
 {
-  "stories_today": 8,
+  "stories_today": 12,
   "sources_watched": 150,
   "sources_healthy": 88,
-  "last_crawl_utc": "2026-10-09T15:30:01.815583+00:00",
-  "last_crawl_et": "Oct 9, 11:30 ET",
+  "last_crawl_utc": "2026-10-09T16:30:02.591258+00:00",
+  "last_crawl_et": "Oct 9, 12:30 ET",
   "pipeline_ok": true,
-  "run_id": "aac0ddc3ba3b47db"
+  "run_id": "77b472c12c1b4986"
 }

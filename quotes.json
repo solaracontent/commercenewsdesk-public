@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T20:12:40.527141+00:00",
+  "generated_at": "2026-10-09T20:44:51.032206+00:00",
   "items": [
     {
       "symbol": "SHOP",
@@ -18,8 +18,8 @@
     },
     {
       "symbol": "ETSY",
-      "price": 76.78,
-      "change_pct": 7.4
+      "price": 76.71,
+      "change_pct": 7.3
     },
     {
       "symbol": "GLBE",
@@ -33,8 +33,8 @@
     },
     {
       "symbol": "W",
-      "price": 105.68,
-      "change_pct": 1.16
+      "price": 105.74,
+      "change_pct": 1.22
     },
     {
       "symbol": "CHWY",

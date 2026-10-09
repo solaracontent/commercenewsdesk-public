@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T01:43:30.539667+00:00",
+  "generated_at": "2026-10-09T02:19:28.046120+00:00",
   "items": [
     {
       "headline": "FedEx and Stripe plan 2027 financing product using supply-chain data for SMBs",
@@ -16,6 +16,14 @@
       "url": "https://commercenewsdesk.com/briefs/amazon-prime-big-deal-days-generate-9-86-billion-in-u-s-online-s",
       "time_utc": "2026-10-08T21:52:12+00:00",
       "time_et": "Oct 8, 17:52 ET"
+    },
+    {
+      "headline": "WooCommerce launches version 11.2 with checkout date picker and sticky filters",
+      "desk": "Platforms",
+      "slug": "woocommerce-launches-version-11-2-with-checkout-date-picker-and",
+      "url": "https://commercenewsdesk.com/briefs/woocommerce-launches-version-11-2-with-checkout-date-picker-and",
+      "time_utc": "2026-10-08T21:21:06+00:00",
+      "time_et": "Oct 8, 17:21 ET"
     },
     {
       "headline": "Natura launches $99 Interface ring for 24/7 AI agent control",
@@ -88,14 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/next-primark-and-tesco-fund-wraps-overhaul-of-uk-textile-collect",
       "time_utc": "2026-10-08T16:19:58+00:00",
       "time_et": "Oct 8, 12:19 ET"
-    },
-    {
-      "headline": "Shopify adds automated policy generation to speed store launches",
-      "desk": "Platforms",
-      "slug": "shopify-adds-automated-policy-generation-to-speed-store-launches",
-      "url": "https://commercenewsdesk.com/briefs/shopify-adds-automated-policy-generation-to-speed-store-launches",
-      "time_utc": "2026-10-08T16:00:00+00:00",
-      "time_et": "Oct 8, 12:00 ET"
     }
   ]
 }

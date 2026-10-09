@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 01:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:19:28 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>FedEx and Stripe plan 2027 financing product using supply-chain data for SMBs</title>
@@ -37,6 +37,18 @@ Both iterations fell on a Tuesday and Wednesday, and the 2026 edition recorded h
 Source: Digital Commerce 360 (https://digitalcommerce360.com/2026/10/08/amazon-prime-day-big-deal-days-sales-2026)</description>
       <pubDate>Thu, 08 Oct 2026 21:52:12 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazon-prime-big-deal-days-generate-9-86-billion-in-u-s-online-s</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>WooCommerce launches version 11.2 with checkout date picker and sticky filters</title>
+      <link>https://commercenewsdesk.com/briefs/woocommerce-launches-version-11-2-with-checkout-date-picker-and</link>
+      <description>WooCommerce has released version 11.2. Stores with up to 50,000 products can now reorder items faster and see reduced database queries when pulling reports.
+
+Sticky positioning can be enabled for the Product Filters block, keeping filters on screen as shoppers scroll through long category pages. Quantity selectors, product images, and filter chips now offer new style controls such as borders, shadows, colors, rounded corners, font, and spacing adjustments. Account emails for password reset, new account, and confirmation no longer CC or BCC the store owner, because those messages now contain login links meant only for the customer. Standard download links remain functional, while a rare custom or imported link containing malformed data may fail and can be reissued from the order when a customer reports an issue. Shop managers can no longer edit users who also hold roles like forum or membership, so WP Admin must handle those role updates. WooCommerce 11.2 delivers security improvements and a database update, advising merchants to back up before applying the update. The product CSV importer now matches rows by global unique ID, then SKU, then GTIN, UPC, EAN, or ISBN when updating existing products. Merchants using the Checkout block can add a date field for shoppers to pick a preferred delivery date or birthday, with limits set via a short code snippet. Store owners selling to EU customers can now configure both the acknowledgment and notification emails for order withdrawals, editing messages, choosing recipients, or turning either email off. Catalog and admin screens load faster, with variable products checking out quicker and report totals using fewer database queries that no longer grow with customer count.
+
+Source: WooCommerce Blog (https://woocommerce.com/posts/woocommerce-11-2)</description>
+      <pubDate>Thu, 08 Oct 2026 21:21:06 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/woocommerce-launches-version-11-2-with-checkout-date-picker-and</guid>
       <category>Platforms</category>
     </item>
     <item>
@@ -807,22 +819,6 @@ O’Neill began her tenure as Lululemon’s CEO in April, and industry watchers 
 Source: Retail Dive (https://retaildive.com/news/lululemon-ceo-heidi-oneill-overhauls-c-suite-first-move/832434)</description>
       <pubDate>Wed, 07 Oct 2026 20:42:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/lululemon-ceo-heidi-oneill-names-new-cpo-and-coo-as-part-of-c-su</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>ICSC Projects $1.7 Trillion Holiday Spend, 78% to Match or Top 2025 Levels</title>
-      <link>https://commercenewsdesk.com/briefs/icsc-projects-1-7-trillion-holiday-spend-78-to-match-or-top-2025</link>
-      <description>The ICSC projected that holiday retail sales will reach $1.7 trillion this season, forecasting growth of 4.3 to 4.9 percent. The survey found that 78 percent of consumers intend to spend the same or more than last year, while the top 10 percent anticipate spending five times the average shopper.
-
-About 23 percent of respondents said they expect to still be paying for their holiday purchases in 2027. Nearly two‑thirds (68 percent) said discounts, promotions and exclusive offers will encourage additional store trips, and 93 percent plan to visit a physical store to buy or pick up an online order. Meanwhile, 61 percent said they will use AI tools or assistants this year, up from 47 percent in the prior survey.
-
-“Consumers have made it clear they are willing to make sacrifices for the things that matter to them this holiday season, but they are making careful decisions about when and where they spend to make that money go further,” Tom McGee, president and CEO of the ICSC said.
-
-Last year’s survey found 47 percent of consumers planned to use AI tools for holiday shopping, compared with 61 percent this year. Concerns about the job market affecting holiday spending rose from 43 percent in 2025 to 49 percent in the current poll.
-
-Source: Sourcing Journal (https://wwd.com/sourcing-journal/industry-news/shoppers-prioritize-holiday-despite-financial-strain-1239319045)</description>
-      <pubDate>Wed, 07 Oct 2026 18:57:25 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/icsc-projects-1-7-trillion-holiday-spend-78-to-match-or-top-2025</guid>
       <category>Platforms</category>
     </item>
   </channel>

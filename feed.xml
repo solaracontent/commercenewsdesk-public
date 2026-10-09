@@ -5,8 +5,24 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 23:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:22:21 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Natura launches $99 Interface ring for 24/7 AI agent control</title>
+      <link>https://commercenewsdesk.com/briefs/natura-launches-99-interface-ring-for-24-7-ai-agent-control</link>
+      <description>Natura launches its Interface ring, a $99 wearable that lets users command AI agents and track health, according to a TechCrunch report dated Oct. 8. The always‑on ring is meant to give users round‑the‑clock access to AI agents for tasks such as tracking workouts, checking schedules, reordering shampoo, or turning off a TV.
+
+Priced at $99, the Interface ring is water‑resistant enough to wear while showering or sleeping, and it connects to a smartphone app that relays voice commands to the AI agents. Users can invoke agents to perform actions like ordering products, managing loyalty programs, or setting alarms, with the ring capturing speech via a built‑in microphone. The ring does not store payment credentials locally; instead, it relies on the user’s existing wallet or card network for any transactions initiated by the agent. Natura claims the ring’s applications are limitless, citing examples such as tracking a run, checking a morning schedule, ordering shampoo mid‑shower, or turning off a TV and setting an alarm.
+
+“Over time, we evolved to an understanding where you really want to have access to your agents 24/7,” Carlo Edoardo Ferraris said.
+
+After years of developing consumer hardware, founder Carlo Edoardo Ferraris sought a new interface that would let users interact with AI agents as naturally as speaking to another person. The Interface ring was first disclosed in a TechCrunch report on Oct. 8, which described the device as a health‑tracking wearable that also enables AI agent control.
+
+Source: PYMNTS (https://pymnts.com/news/artificial-intelligence/2026/natura-wants-people-controlling-ai-agents-from-their-fingers)</description>
+      <pubDate>Thu, 08 Oct 2026 20:01:12 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/natura-launches-99-interface-ring-for-24-7-ai-agent-control</guid>
+      <category>Platforms</category>
+    </item>
     <item>
       <title>FMCSA advances split‑sleeper berth pilot with 256‑driver trial</title>
       <link>https://commercenewsdesk.com/briefs/fmcsa-advances-splitsleeper-berth-pilot-with-256driver-trial</link>
@@ -232,6 +248,24 @@ Source: FreightWaves (https://freightwaves.com/news/samsung-seeks-186m-from-cma-
       <pubDate>Thu, 08 Oct 2026 14:20:18 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/samsung-seeks-186-million-from-cma-cgm-over-container-charges</guid>
       <category>Logistics</category>
+    </item>
+    <item>
+      <title>Omaha Steaks launches No Bull campaign to attract Gen Z shoppers</title>
+      <link>https://commercenewsdesk.com/briefs/omaha-steaks-launches-no-bull-campaign-to-attract-gen-z-shoppers</link>
+      <description>Omaha Steaks, which has been around for 109 years, launched its No Bull campaign in September to attract Gen Z shoppers. Roughly two weeks after the launch, conversion rates climbed 46% and social media mentions surged 130%, according to company data.
+
+The No Bull campaign runs across TV, radio, YouTube, podcasts, paid social, and influencer partnerships, building on the earlier ‘America’s Table’ effort that debuted in June with a Kevin Costner‑narrated national ad. Senior Director of Growth Marketing Angie Kubicek said the brand now ties its ‘quality’ claim to U.S. sourcing, extended aging, and hand‑cut by butchers, responding to customer concerns about meat origin. The campaign also addresses a broader industry context, noting that the Trump administration announced plans in September to import about 660 million pounds of lean beef trimmings over 90 days via reduced tariffs.
+
+“Now we're making sure that when we say quality, it stands for something,” Angie Kubicek, Senior Director of Growth Marketing said.
+
+“The brand learned through internal insights that a large number of its customers have expressed that where their meat comes from matters to them,” Angie Kubicek, Senior Director of Growth Marketing said.
+
+Before the No Bull push, Omaha Steaks relied on savings‑driven promotions and vague descriptors like “gourmet” or “quality” to sell its meat. In June the brand debuted the “America’s Table” campaign, which included its first national ad narrated by Kevin Costner and highlighted the dinner table’s role in historic moments.
+
+Source: Marketing Dive (https://marketingdive.com/news/inside-omaha-steaks-efforts-to-ditch-marketing-bull-and-attract-gen-z/832062)</description>
+      <pubDate>Thu, 08 Oct 2026 14:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/omaha-steaks-launches-no-bull-campaign-to-attract-gen-z-shoppers</guid>
+      <category>Platforms</category>
     </item>
     <item>
       <title>Rust Coast Deploys Real-Time Computer Vision to Cut Apparel Fit Errors</title>
@@ -792,40 +826,6 @@ Source: PYMNTS (https://pymnts.com/shipping/2026/ups-trims-seasonal-hiring-after
       <pubDate>Wed, 07 Oct 2026 16:15:36 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ups-cuts-seasonal-hiring-by-9-as-package-volume-falls-3-3</guid>
       <category>Logistics</category>
-    </item>
-    <item>
-      <title>Ramp veterans raise $25 million for AI creative platform Melius</title>
-      <link>https://commercenewsdesk.com/briefs/ramp-veterans-raise-25-million-for-ai-creative-platform-melius</link>
-      <description>Ramp veterans Joowon Kim, Young Kim, and Arnav Ramu announced on Oct. 6 that they have raised $25 million for their AI creative platform Melius. The financing will support expansion of Melius’s platform, which lets users generate images, videos and ad campaigns using AI agents. Joowon Kim, Young Kim and Arnav Ramu previously worked as engineers at the spending/finance software company Ramp.
-
-After six months of building an AI-powered performance marketing tool, the team decided the idea lacked traction and scrapped the entire codebase. Melius now offers a set of AI agents that handle tasks such as adjusting lighting so users can focus on creative direction. The platform targets people who want to move from concept to finished creative assets without a steep learning curve.
-
-“Transitioning from wanting to make something to actually making it has never been seamless,” Joowon Kim, Co-Founder said.
-
-“We scrapped the entire codebase; we burned all of it,” Joowon Kim, Co-Founder said.
-
-Before raising the $25 million, the founders had spent six months developing an AI-powered performance marketing tool that they ultimately abandoned. They then shifted focus to building a platform for creating images, videos and ad campaigns using AI agents.
-
-Source: PYMNTS (https://pymnts.com/news/artificial-intelligence/2026/ramp-veterans-raise-25-million-for-ai-creative-platform-melius)</description>
-      <pubDate>Wed, 07 Oct 2026 16:00:44 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ramp-veterans-raise-25-million-for-ai-creative-platform-melius</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Pacsun uses TikTok creator to sell 11,000 jeans in 48 hours</title>
-      <link>https://commercenewsdesk.com/briefs/pacsun-uses-tiktok-creator-to-sell-11-000-jeans-in-48-hours</link>
-      <description>In November 2023, Pacsun sold 11,000 pairs of its Casey Jean in Astrid Wash after a TikTok video by creator Lyla Biggs went viral two days before Black Friday. The brand said the surge generated over $20 million in sales on TikTok alone.
-
-Biggs, who had roughly 5,000 followers at the time, is a member of Pacsun’s TikTok affiliate creator program. Pacsun, founded in 1980 as a surf shop, now markets to Gen Z and Gen Alpha shoppers. The video featured the low‑rise Casey Jean in Astrid Wash, a style that helped the brand capture a sudden spike in demand.
-
-“Brands are going to make the mistake of believing the attention economy is about capturing more attention, and it is not,” Kim Vernon, marketing veteran formerly of Calvin Klein and Prada Group said.
-
-The panel occurred at Impakt, an invite‑only business conference in New York City on a Tuesday. Panelists including Channing Bailey of Channing &amp; Company, brand strategist Christine Keeley, and Vylit co‑founder Ami Gan echoed the need to find the right community amid a crowded market. The conversation occurred weeks before Black Friday, when U.S. online shoppers spent $11.8 billion the previous year according to Adobe Analytics.
-
-Source: Sourcing Journal (https://wwd.com/sourcing-journal/industry-news/impakt-conference-attention-economy-brands-1239317672)</description>
-      <pubDate>Wed, 07 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/pacsun-uses-tiktok-creator-to-sell-11-000-jeans-in-48-hours</guid>
-      <category>Platforms</category>
     </item>
   </channel>
 </rss>

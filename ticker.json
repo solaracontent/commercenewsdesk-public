@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-10-09T04:22:23.767795+00:00",
+  "generated_at": "2026-10-09T04:54:36.963448+00:00",
   "items": [
+    {
+      "headline": "American Express faces $350 million penalty from OCC over AML failures",
+      "desk": "Payments",
+      "slug": "american-express-faces-350-million-penalty-from-occ-over-aml-fai",
+      "url": "https://commercenewsdesk.com/briefs/american-express-faces-350-million-penalty-from-occ-over-aml-fai",
+      "time_utc": "2026-10-09T01:01:00+00:00",
+      "time_et": "Oct 8, 21:01 ET"
+    },
     {
       "headline": "FedEx and Stripe plan 2027 financing product using supply-chain data for SMBs",
       "desk": "Platforms",
@@ -88,14 +96,6 @@
       "url": "https://commercenewsdesk.com/briefs/meta-unveils-aienhanced-ad-tools-and-shopify-checkout-at-adverti",
       "time_utc": "2026-10-08T16:20:00+00:00",
       "time_et": "Oct 8, 12:20 ET"
-    },
-    {
-      "headline": "Next, Primark and Tesco fund WRAP\u2019s overhaul of UK textile collection",
-      "desk": "Platforms",
-      "slug": "next-primark-and-tesco-fund-wraps-overhaul-of-uk-textile-collect",
-      "url": "https://commercenewsdesk.com/briefs/next-primark-and-tesco-fund-wraps-overhaul-of-uk-textile-collect",
-      "time_utc": "2026-10-08T16:19:58+00:00",
-      "time_et": "Oct 8, 12:19 ET"
     }
   ]
 }

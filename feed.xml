@@ -5,8 +5,22 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 04:22:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:54:36 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>American Express faces $350 million penalty from OCC over AML failures</title>
+      <link>https://commercenewsdesk.com/briefs/american-express-faces-350-million-penalty-from-occ-over-aml-fai</link>
+      <description>On Thursday, the Office of the Comptroller of the Currency and the Federal Reserve Board issued enforcement actions against American Express, levying a $350 million civil money penalty on its bank subsidiary. The OCC also cited systemic breakdowns in suspicious activity monitoring that allowed roughly $13 billion of suspected money laundering to flow through the card network over the past decade.
+
+The Fed issued a separate cease-and-desist order to American Express and its travel‑related services arm. An Amex regulatory filing noted that part of the penalty had been reserved in prior periods and would not affect its full‑year 2026 guidance. The filing added that the consent orders are not expected to alter the company’s 2027 outlook, and an Amex spokesperson did not immediately respond to a request for comment. The OCC stressed that institutions of American Express’s scale need to devote sufficient resources to AML compliance to safeguard economic and national security.
+
+“The OCC expects banks of American Express’s size and complexity to devote sufficient resources to ensure compliance with laws and regulations designed to detect and prevent money laundering, which are critical to both economic and national security,” Jonathan Gould, Comptroller of the Currency said.
+
+Source: Payments Dive (https://paymentsdive.com/news/amex-dinged-by-fed-occ-must-pay-350m-for-aml-failures/832575)</description>
+      <pubDate>Fri, 09 Oct 2026 01:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/american-express-faces-350-million-penalty-from-occ-over-aml-fai</guid>
+      <category>Payments</category>
+    </item>
     <item>
       <title>FedEx and Stripe plan 2027 financing product using supply-chain data for SMBs</title>
       <link>https://commercenewsdesk.com/briefs/fedex-and-stripe-plan-2027-financing-product-using-supply-chain</link>
@@ -802,24 +816,6 @@ Source: PYMNTS (https://pymnts.com/news/cross-border-payments/2026/ofac-warning-
       <pubDate>Wed, 07 Oct 2026 21:03:59 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ofac-warns-cfos-that-sanctions-risk-can-lurk-in-payment-routes</guid>
       <category>Payments</category>
-    </item>
-    <item>
-      <title>Lululemon CEO Heidi O’Neill names new CPO and COO as part of C-suite overhaul</title>
-      <link>https://commercenewsdesk.com/briefs/lululemon-ceo-heidi-oneill-names-new-cpo-and-coo-as-part-of-c-su</link>
-      <description>About a month after joining Lululemon, CEO Heidi O’Neill appointed former Athleta CEO Maggie Gauger as chief product officer and ex‑Walmart Canada growth chief Joseph Godsey as chief operating officer, with the new roles set to start Oct. 26. Simultaneously, Lululemon said chief supply chain officer Ted Dagnese and chief brand and product activation officer Nikki Neuburger will depart effective Nov. 6, while the company searches to fill three additional C‑suite posts — chief brand officer, chief communications officer, and chief technology officer.
-
-The product and operations roles are newly created positions within Lululemon’s executive team. O’Neill said the reshaped leadership will work more cohesively around strategy and execution to deliver greater impact for guests, communities, and the business. She emphasized putting product, design, and innovation at the center of operations to build a stronger pipeline of differentiated offerings for both stores and online channels. The appointments were announced roughly one month after O’Neill assumed the CEO role, marking her first executive reshuffle. Lululemon said it is actively seeking candidates for chief brand officer, chief communications officer, and chief technology officer to complete the leadership team.
-
-“Lululemon is a rare, extraordinary brand, but we have work to do to build a stronger and more competitive company,” Heidi O’Neill said.
-
-“We are establishing a deeply experienced leadership team that will work in a more coordinated manner, aligned around the strategy and execution that delivers the most impact for our guests, our communities, and our business,” Heidi O’Neill said.
-
-O’Neill began her tenure as Lululemon’s CEO in April, and industry watchers had been anticipating her initial leadership decisions. The announcement was described as the first step in addressing the company’s recent performance challenges.
-
-Source: Retail Dive (https://retaildive.com/news/lululemon-ceo-heidi-oneill-overhauls-c-suite-first-move/832434)</description>
-      <pubDate>Wed, 07 Oct 2026 20:42:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/lululemon-ceo-heidi-oneill-names-new-cpo-and-coo-as-part-of-c-su</guid>
-      <category>Platforms</category>
     </item>
   </channel>
 </rss>

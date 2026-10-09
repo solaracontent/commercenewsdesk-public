@@ -5,8 +5,26 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 17:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:52:44 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Block launches ad campaign targeting 60 million bitcoin‑curious Americans</title>
+      <link>https://commercenewsdesk.com/briefs/block-launches-ad-campaign-targeting-60-million-bitcoincurious-a</link>
+      <description>Block launched a consumer advertising campaign last week aimed at 60 million bitcoin‑curious Americans The move follows Block’s October 2025 integration of bitcoin payments into Square point‑of‑sale terminals and its 5% discount for Cash App users who spend bitcoin at Square merchants
+
+Cash App reports about 59 million active wallet users, while Square’s platform hosts roughly 4 million sellers. Since launching bitcoin sales on Cash App in January 2018, Block says about 24 million consumers have purchased the cryptocurrency through the app. The October 2025 update lets Square merchants accept bitcoin payments and optionally convert a portion of card sales into bitcoin. Block’s 5% bitcoin discount applies when Cash App users pay with the cryptocurrency at a participating Square merchant.
+
+“I don’t think anybody else has an opportunity to kick off a two-sided marketplace like this,” Miles Suter, head of bitcoin and stablecoin at Block said.
+
+“I don’t think there is anything more important in my lifetime to work on,” Jack Dorsey, founder of Block said.
+
+Block introduced bitcoin sales on Cash App in January 2018, which has since attracted about 24 million active purchasers. In October 2025 the company integrated bitcoin payments into Square point‑of‑sale terminals, allowing merchants to accept and convert card sales to bitcoin.
+
+Source: Payments Dive (https://paymentsdive.com/news/block-envisions-bitcoin-for-all/832610)</description>
+      <pubDate>Fri, 09 Oct 2026 14:20:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/block-launches-ad-campaign-targeting-60-million-bitcoincurious-a</guid>
+      <category>Payments</category>
+    </item>
     <item>
       <title>Walmart opens fifth automated fulfillment center in Stockton, California</title>
       <link>https://commercenewsdesk.com/briefs/walmart-opens-fifth-automated-fulfillment-center-in-stockton-cal</link>
@@ -779,22 +797,6 @@ PYMNTS Intelligence’s “The Fragmented Paycheck: Why Rising Spending No Longe
 Source: PYMNTS (https://pymnts.com/consumer-insights/2026/higher-prices-are-splitting-consumers-into-three-camps)</description>
       <pubDate>Thu, 08 Oct 2026 08:00:35 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/pymnts-report-splits-u-s-consumers-into-three-spending-groups-as</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Amazon cuts about 1,000 roles in latest workforce reduction</title>
-      <link>https://commercenewsdesk.com/briefs/amazon-cuts-about-1-000-roles-in-latest-workforce-reduction</link>
-      <description>Amazon eliminated approximately 1,000 roles across its Stores, customer service, marketplace support and retail engineering teams on 6 October 2026. The cuts were disclosed via internal emails and affected employees in India and the UK, according to messages from an internal Slack channel with nearly 37,000 members. These reductions follow two earlier rounds that removed about 30,000 roles in October 2025 and January 2026.
-
-An Amazon spokesperson told Business Insider that only a small number of positions, mainly in the Stores business, were eliminated that day. Employees asked about severance packages, medical leave, internal transfer options and whether further notifications would follow. Amazon has also reached out to former workers, including those from prior layoffs, to fill openings in its Amazon Web Services and artificial intelligence divisions.
-
-“a small number,” Amazon spokesperson said.
-
-Since late 2022, Amazon has eliminated more than 57,000 corporate positions. This includes the 16,000 roles cut in January 2026 and the roughly 30,000 roles removed in the two rounds announced in October 2025 and January 2026.
-
-Source: Retail Insight Network (https://retail-insight-network.com/news/amazon-cuts-approximately-1000-roles)</description>
-      <pubDate>Thu, 08 Oct 2026 07:50:32 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/amazon-cuts-about-1-000-roles-in-latest-workforce-reduction</guid>
       <category>Platforms</category>
     </item>
   </channel>

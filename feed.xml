@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 20:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:11:04 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mastercard CEO says stablecoins can solve cross-border payment delays</title>
@@ -104,6 +104,24 @@ Source: Retail Dive (https://retaildive.com/news/elf-brands-fragrance-athleta-ce
       <pubDate>Fri, 09 Oct 2026 15:42:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/e-l-f-brands-rolls-out-13-fragrance-mist-and-body-cream-line</guid>
       <category>Platforms</category>
+    </item>
+    <item>
+      <title>EU plans new surveillance fee on non‑EU parcels alongside existing charges</title>
+      <link>https://commercenewsdesk.com/briefs/eu-plans-new-surveillance-fee-on-noneu-parcels-alongside-existin</link>
+      <description>The European Commission is developing a new surveillance fee for packages entering the EU from outside the bloc, to be added to the current 3‑euro import duty and the forthcoming 2‑euro customs handling charge. The fee, described in a leaked draft of the European Product Act as the “Union market surveillance fee,” is intended to fund market surveillance and could trigger fines of up to 6 % of a company’s global annual revenue.
+
+As of 1 July this year, a flat import fee of 3 euros per product category in a parcel has been in effect, and it will be superseded by standard customs duties starting in July 2028.
+From 1 November, a separate handling fee of 2 euros per declaration line is expected to be introduced, without any VAT component.
+The surveillance fee would be levied on importers, with the liability for direct shipments from online retailers still to be determined, and would be lower for bulk imports than for individual consumer shipments.
+
+For years, Brussels has watched with concern as packages from online retailers—particularly those from China—have flooded the European Union.
+In its latest annual report, the agency identified this lack of oversight as a top risk.
+This handling fee is intended to strengthen inspection of ecommerce shipments.
+
+Source: Ecommerce News Netherlands (https://ecommercenews.nl/brussel-werkt-aan-nog-een-pakketheffing)</description>
+      <pubDate>Fri, 09 Oct 2026 14:46:06 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/eu-plans-new-surveillance-fee-on-noneu-parcels-alongside-existin</guid>
+      <category>Policy</category>
     </item>
     <item>
       <title>Block launches ad campaign targeting 60 million bitcoin‑curious Americans</title>
@@ -790,22 +808,6 @@ Source: Inc42 (https://inc42.com/buzz/d2c-lifestyle-brand-dailyobjects-raises-%E
       <pubDate>Thu, 08 Oct 2026 12:44:56 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/dailyobjects-raises-332-cr-in-series-c-to-expand-offline-retail</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>FTC orders Gildan and S&amp;S to end T-shirt pricing restrictions</title>
-      <link>https://commercenewsdesk.com/briefs/ftc-orders-gildan-and-s-s-to-end-t-shirt-pricing-restrictions</link>
-      <description>The Federal Trade Commission announced that it has secured changes to the partnership agreement between Gildan Activewear SRL and wholesale distributor S&amp;S Holdings LLC to remove pricing restrictions that favored S&amp;S over competitors. The revised agreement states that nothing in it restricts Gildan’s discretion to set prices or offer partnership support to any other North American wholesale distributor.
-
-The FTC investigated Gildan for potential violations of Section 2(a) of the Robinson-Patman Act, which prohibits sellers from engaging in certain price discrimination. After the amendment, the FTC closed its investigation and posted a public letter from Gildan confirming the contract change. The action follows an RPA settlement with Southern Glazer’s Wine and Spirits, the largest U.S. wine and spirits distributor, which was the first federal enforcement case in over 20 years.
-
-“Congress has prohibited unfair and discriminatory pricing practices that favor big businesses and box out small businesses, which are the engine of the American economy,” Daniel Guarnera said.
-
-Last week the FTC entered an RPA settlement with Southern Glazer’s Wine and Spirits, the largest U.S. distributor of wine and spirits. That settlement was the first RPA case resolved by a federal enforcement agency in over 20 years.
-
-Source: FTC Press Releases (https://ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-fair-pricing-protections-taking-action-against-major-wholesale-t-shirt-distributors)</description>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ftc-orders-gildan-and-s-s-to-end-t-shirt-pricing-restrictions</guid>
-      <category>Policy</category>
     </item>
   </channel>
 </rss>

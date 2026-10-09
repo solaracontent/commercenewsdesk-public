@@ -5,8 +5,58 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:54:40 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mastercard CEO says stablecoins can solve cross-border payment delays</title>
+      <link>https://commercenewsdesk.com/briefs/mastercard-ceo-says-stablecoins-can-solve-cross-border-payment-d</link>
+      <description>In an interview with Bloomberg TV, Mastercard CEO Michael Miebach said stablecoins offer an instant alternative to cross-border payments that currently take days and have unclear fees. Open Standard announced on September 30 that its U.S. dollar-backed OUSD stablecoin is live, with Mastercard among four integration options alongside Stripe, Coinbase, and Visa.
+
+On June 30, Open Standard said the stablecoin would launch later in 2026 and noted that several dozen companies had signed up, calling OUSD a money movement stablecoin.
+
+“From a working capital perspective for a company, if you could move the money instantly, it would be so much better,” Michael Miebach, CEO, Mastercard said.
+
+“For issuers with international reach, these two use cases together make B2B cross-border infrastructure one of the clearest near-term growth opportunities,” PYMNTS Intelligence report said.
+
+Earlier in June, Open Standard said its stablecoin would launch later in 2026 and noted that several dozen firms had already signed up to use it.
+
+Source: PYMNTS (https://pymnts.com/news/cross-border-payments/2026/mastercard-ceo-says-stablecoins-solve-cross-border-payment-delays)</description>
+      <pubDate>Fri, 09 Oct 2026 16:47:10 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/mastercard-ceo-says-stablecoins-can-solve-cross-border-payment-d</guid>
+      <category>Payments</category>
+    </item>
+    <item>
+      <title>GreyOrange acquires Site Bionics to add digital twin tech to gStore</title>
+      <link>https://commercenewsdesk.com/briefs/greyorange-acquires-site-bionics-to-add-digital-twin-tech-to-gst</link>
+      <description>GreyOrange has acquired Site Bionics, the developer of an AI-powered digital twin platform. The acquisition lets retailers turn existing security cameras into a live, continuously updated model of store activity.
+
+The technology will be integrated first with gStore, GreyOrange’s AI-powered retail SaaS for store inventory and omnichannel operations. It combines Site Bionics’ video‑language models with gStore’s item‑level RFID intelligence to give a single AI‑driven view of products and people on the floor. All processing happens on‑site, tracking is anonymous, and the system is protected by enterprise‑grade security and privacy controls.
+
+“For years, this industry has promised retailers that RFID and computer vision would come together and show them the full story of their stores. That promise has gone unmet,” Adam Blair, co‑founder of Site Bionics said.
+
+Site Bionics was founded by Adam Blair, former chief technology officer of Radar, and Don Gillett, former head architect of Amazon Go. GreyOrange says the Site Bionics team will deploy the technology in gStore first, with plans to extend it to warehouse operations through the GreyMatter platform.
+
+Source: Sourcing Journal (https://wwd.com/sourcing-journal/industry-news/greyorange-acquires-site-bionics-1239333572)</description>
+      <pubDate>Fri, 09 Oct 2026 16:30:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/greyorange-acquires-site-bionics-to-add-digital-twin-tech-to-gst</guid>
+      <category>Platforms</category>
+    </item>
+    <item>
+      <title>Stord secures $400 million credit facility led by Citi and names new CFO, CRO</title>
+      <link>https://commercenewsdesk.com/briefs/stord-secures-400-million-credit-facility-led-by-citi-and-names</link>
+      <description>Stord closed a $400 million credit facility led by Citi on Thursday and appointed Bill Zerella as chief financial officer and Mark Wayland as chief revenue officer. The facility was oversubscribed, closing at nearly double its original target size.
+
+The credit facility follows a $250 million Series F round led by Strike Capital in May that valued Stord at $3 billion. Combined, the equity and credit capacity now totals $650 million for 2026, according to the company. Stord operates nearly 100 fulfillment locations worldwide, serves over 1,000 brands, and processes more than $15 billion in gross merchandise volume each year.
+
+“This facility, combined with our $250 million Series F, gives us the balance sheet to match the scale, potential, and impact of what we’re building,” Sean Henry, CEO and co-founder of Stord said.
+
+The deal follows a $250 million Series F led by Strike Capital in May that valued Stord at $3 billion. Stord has expanded its footprint through acquisitions including ProPack Logistics and Pitney Bowes’ e‑commerce fulfillment unit in 2024, Ware2Go from UPS in May 2025, and Shipwire from Ceva Logistics in January.
+
+Source: FreightWaves (https://freightwaves.com/news/stord-400m-credit-facility-citi)</description>
+      <pubDate>Fri, 09 Oct 2026 16:16:03 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/stord-secures-400-million-credit-facility-led-by-citi-and-names</guid>
+      <category>Logistics</category>
+    </item>
     <item>
       <title>Adrian Jules launches tech platform for luxury custom tailors</title>
       <link>https://commercenewsdesk.com/briefs/adrian-jules-launches-tech-platform-for-luxury-custom-tailors</link>
@@ -22,6 +72,24 @@ Source: WWD (https://wwd.com/sourcing-journal/industry-news/where-60-years-of-ma
       <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/adrian-jules-launches-tech-platform-for-luxury-custom-tailors</guid>
       <category>Platforms</category>
+    </item>
+    <item>
+      <title>Kodiak and Charger launch autonomous trucks on 435‑mile Dallas‑Laredo route</title>
+      <link>https://commercenewsdesk.com/briefs/kodiak-and-charger-launch-autonomous-trucks-on-435mile-dallaslar</link>
+      <description>Kodiak AI and Charger Logistics launched autonomous freight service on a 435‑mile lane between Dallas and Laredo, Texas, as announced Thursday. Kodiak’s long‑haul Autonomy Readiness Measure reached 96% at the end of September, up from 93% in August and 84% in February.
+
+A safety driver remains behind the wheel for now, with the companies planning to shift to driverless operations once Kodiak completes its safety case. The inaugural run occurred on September 8, moving refrigerated and dry van freight for consumer‑packaged‑goods and food‑and‑beverage shippers between Charger’s Dallas and Laredo terminals. Laredo, the nation’s highest‑volume commercial land port, processed over $350 billion of international trade in 2025, and the lane marks Kodiak’s first autonomous route serving that gateway.
+
+“Autonomy lets us build a network that serves both our customers and our drivers,” Andy Khera, president of Charger Logistics said.
+
+“Charger came to us knowing what they wanted from autonomy and what they need to see before scaling it,” Don Burnette, founder and CEO of Kodiak said.
+
+Before this launch, Kodiak’s driverless trucks had been operating in commercial service in the Permian Basin since December 2024. Charger also has an autonomous trucking agreement with Aurora Innovation for second‑generation driverless trucks on the same Dallas‑Laredo lane, a deal reported in August. Kodiak’s readiness metric had risen from 84% in February to 93% in August before reaching 96% at the end of September.
+
+Source: FreightWaves (https://freightwaves.com/news/kodiak-charger-autonomous-trucks-dallas-laredo)</description>
+      <pubDate>Fri, 09 Oct 2026 15:57:20 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/kodiak-and-charger-launch-autonomous-trucks-on-435mile-dallaslar</guid>
+      <category>Logistics</category>
     </item>
     <item>
       <title>E.l.f. Brands rolls out $13 fragrance mist and body cream line</title>
@@ -140,6 +208,28 @@ Source: WWD (https://wwd.com/sourcing-journal/industry-news/aafa-meta-facebook-i
       <pubDate>Fri, 09 Oct 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/aafa-urges-ustr-to-add-facebook-instagram-to-2026-notorious-mark</guid>
       <category>Platforms</category>
+    </item>
+    <item>
+      <title>Federal court certifies class action for IEEPA tariff refunds</title>
+      <link>https://commercenewsdesk.com/briefs/federal-court-certifies-class-action-for-ieepa-tariff-refunds</link>
+      <description>The U.S. Court of International Trade certified a class of importers who paid IEEPA tariffs between Feb. 1, 2025 and Feb. 19, 2026, in a slip order issued Thursday. The court estimates that without class-action status, roughly $30 billion in IEEPA tariffs would remain with the government.
+
+The certification covers importers who paid the tariffs during the specified period, excluding those who already filed individual lawsuits, and aims to provide a single refund pathway for all eligible entries.
+To date, more than 4,000 individual suits have been filed, and CBP has already refunded over $100 billion through its CAPE portal for the roughly $166 billion collected.
+The court also noted that CBP has begun processing refunds for finally liquidated entries this week, though only for a select group of importers with existing lawsuits.
+
+“The decision doesn't immediately expand refund eligibility or direct payment,” James Kim said.
+
+“It does, however, create a potential path forward for non-litigants, toward a single order requiring refunds to be issued to importers that have not pursued individual lawsuits,” James Kim said.
+
+After the Supreme Court ruled the IEEPA tariffs illegal in February, the Court of International Trade ordered Customs and Border Protection to issue refunds for the approximately $166 billion collected.
+Since that order, CBP has distributed over $100 billion in refunds via the CAPE system and has recently expanded the portal to handle finally liquidated entries, albeit only for importers with active lawsuits.
+The Justice Department is appealing the refund order, arguing the court lacks authority to mandate reimbursements for importers who have not sued.
+
+Source: Supply Chain Dive (https://supplychaindive.com/news/federal-court-clears-way-for-class-action-suit-against-ieepa-tariffs/832600)</description>
+      <pubDate>Fri, 09 Oct 2026 11:59:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/federal-court-certifies-class-action-for-ieepa-tariff-refunds</guid>
+      <category>Policy</category>
     </item>
     <item>
       <title>NeoGrowth secures ₹85 crore to boost digital lending for Indian MSMEs</title>
@@ -716,86 +806,6 @@ Source: FTC Press Releases (https://ftc.gov/news-events/news/press-releases/2026
       <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ftc-orders-gildan-and-s-s-to-end-t-shirt-pricing-restrictions</guid>
       <category>Policy</category>
-    </item>
-    <item>
-      <title>Zalando opens 140,000‑square‑metre new distribution centre in France</title>
-      <link>https://commercenewsdesk.com/briefs/zalando-opens-140-000squaremetre-new-distribution-centre-in-fran</link>
-      <description>Zalando has officially opened its first mega‑distribution centre in France, a 140,000‑square‑metre facility in Montereau-sur-le-Jard just south of Paris, after five years of planning and construction. The centre fulfills the 300‑million‑euro investment pledge made by founder and CEO Robert Gentz at the 2021 Choose France summit.
-
-The site will ramp up gradually to full capacity, eventually processing a significant portion of Zalando’s French online orders, reflecting the company’s gradual growth strategy.
-Positioned on the outskirts of Paris, the complex is intended to speed up deliveries across western Europe, strengthen the company’s logistics network, and support its European expansion.
-Zalando describes the facility as one of the most beautiful and modern locations in its entire European network, according to its Managing Director for Western Europe.
-The opening marks the German e‑commerce giant’s first mega‑distribution centre in France, extending its footprint beyond Germany and neighbouring markets and underscoring its commitment to the French market.
-
-“Back then, it was just a promise. Today, this investment is taking shape in a 140,000 m² facility—one of the most beautiful and modern locations in our entire European network,” Laura Toledano Khelif, Zalando’s Managing Director for Western Europe said.
-
-Planning for the centre began five years before its opening, with the early work starting before the launch.
-In 2021, Robert Gentz announced the 300‑million‑euro investment at the Choose France summit, framing it as a long‑term commitment to the French market.
-The facility’s location in Montereau-sur-le-Jard was chosen for its proximity to the major transport corridors serving Paris and surrounding regions.
-
-Source: RetailDetail EU (https://retaildetail.eu/news/fashion/zalando-sets-up-shop-in-france-with-a-giant-distribution-center)</description>
-      <pubDate>Thu, 08 Oct 2026 11:36:19 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/zalando-opens-140-000squaremetre-new-distribution-centre-in-fran</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Asendia’s e-PAQ GO gives retailers access to over 250,000 European OOH points</title>
-      <link>https://commercenewsdesk.com/briefs/asendias-e-paq-go-gives-retailers-access-to-over-250-000-europea</link>
-      <description>Asendia’s e-PAQ GO now gives retailers access to over 250,000 out-of-home lockers and collection points across key European markets. The service comes as 72% of global retailers say they remain optimistic about international growth despite tariffs and trade tensions.
-
-e-PAQ GO is described as plug‑and‑play global logistics that removes the need for retailers to manage multiple carrier contracts. The platform is API‑ready, so it can be connected to existing e‑commerce systems without custom development. By consolidating customs declarations, tax calculations, and tracking numbers, it aims to minimise clearance delays at borders. Retailers can present shoppers with the three most common OOH options in Europe – lockers, parcel shops, and home delivery – through a single checkout integration. In Poland, lockers are the preferred pickup point; in France, parcel shops dominate; in the United Kingdom, most consumers still expect doorstep service. Offering the locally familiar choice is intended to increase post‑purchase satisfaction and encourage repeat purchases from international buyers. Asendia says the offering reduces the overhead normally associated with setting up separate international delivery networks. By providing a consistent returns process through the same OOH points, it also helps close the loop on cross‑border orders. The company cites the Asendia Global 360 Report to show that optimism about overseas expansion remains high even amid trade uncertainty. Ultimately, the goal is to convert the logistical simplicity of OOH delivery into stronger brand loyalty across borders.
-
-Source: InternetRetailing (https://internetretailing.net/why-out-of-home-delivery-unlocks-global-reach)</description>
-      <pubDate>Thu, 08 Oct 2026 11:07:43 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/asendias-e-paq-go-gives-retailers-access-to-over-250-000-europea</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Connecticut man sentenced to two years for $3.5M Amazon trucking fraud</title>
-      <link>https://commercenewsdesk.com/briefs/connecticut-man-sentenced-to-two-years-for-3-5m-amazon-trucking</link>
-      <description>Ameer Nasir, a 25‑year‑old from Trumbull, Connecticut, was sentenced on Wednesday to two years in federal prison for defrauding Amazon Logistics of more than $3.5 million. He had registered 23 trucking accounts with Amazon Relay, which prosecutors tied to over 1,000 nonexistent trailer moves.
-
-The scheme ran from December 2019 through February 2021, during which Nasir used the accounts to obtain transportation assignments and falsely check trailers in and out via Amazon Relay. Prosecutors said he evaded Relay’s GPS geofencing safeguard by misusing the platform’s manual override, and one May 16, 2020, assignment from Kent, Washington, to Lakeland, Florida, was billed at $4,566.41 although the trailer never moved. Nasir pleaded guilty to one wire fraud count on March 6, 2026, and the court ordered $3,547,090.93 in restitution plus three years of supervised release.
-
-Amazon has since added identity and driver verification measures to its Relay platform to curb fraud, according to earlier FreightWaves reporting. The scheme ended in February 2021, and the indictment shows Nasir exploited the system more than five years ago, leaving uncertain whether a similar fraud could succeed today.
-
-Source: FreightWaves (https://freightwaves.com/news/man-gets-2-years-for-3-5m-amazon-fraud-using-23-trucking-accounts)</description>
-      <pubDate>Thu, 08 Oct 2026 10:11:01 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/connecticut-man-sentenced-to-two-years-for-3-5m-amazon-trucking</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Australian shoppers plan to spend $346 on Black Friday, up from $324 last year</title>
-      <link>https://commercenewsdesk.com/briefs/australian-shoppers-plan-to-spend-346-on-black-friday-up-from-32</link>
-      <description>Australian shoppers intend to spend an average of $346 over the 2026 Black Friday Cyber Monday period, up from $324 last year, according to Shopify’s holiday retail report. This rise contrasts with a global decline in planned spending from $276 to $268, while 54% of respondents said economic conditions influenced their holiday purchases, prompting extra research before buying.
-
-The report found that 85% of Australian shoppers prefer waiting to purchase a specific item rather than choosing an immediate alternative, compared with a global average of 79%. It also showed that 62% of Australian consumers expect to use AI tools for deal discovery and product comparison, with 70% of shoppers aged 25 to 34 already using such tools versus 45% across all age groups. Among businesses, 51% are investing in AI-generated content, 46% in virtual assistants and 45% in optimising store platforms for AI recommendation engines. The findings also highlight shifting merchant choices, with 54% of respondents reporting increased purchases from independent or niche brands compared to the previous year.
-
-“Australians are still willing to spend this holiday season, but they’re putting more work into deciding what’s worth their money,” James Johnson, head of enterprise ANZ at Shopify said.
-
-The findings come from Shopify’s holiday retail report. Australian consumers anticipate higher spending during the 2026 Black Friday Cyber Monday period even amid ongoing economic pressures.
-
-Source: Internet Retailing Australia (https://internetretailing.com.au/australian-shoppers-set-to-increase-black-friday-spending)</description>
-      <pubDate>Thu, 08 Oct 2026 08:31:28 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/australian-shoppers-plan-to-spend-346-on-black-friday-up-from-32</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Fast Retailing posts 32% profit rise to 743.1 billion yen</title>
-      <link>https://commercenewsdesk.com/briefs/fast-retailing-posts-32-profit-rise-to-743-1-billion-yen</link>
-      <description>Fast Retailing reported operating profit of 743.13 billion yen for the year ended August 31, a rise of about 32 percent from 564.3 billion yen a year earlier. The company forecast operating profit of 830 billion yen for the year ending August 2027, exceeding its own 730 billion yen target and the average analyst estimate of 726.45 billion yen.
-
-Fast Retailing operates more than 2,500 Uniqlo stores worldwide, with nearly 900 of them in China, its largest foreign market.
-A weak yen raised import costs in Japan, pressuring fourth‑quarter results and prompting the company to consider price increases there.
-Fast Retailing plans to double the number of its flagship‑store format in Japan to 20 over the next decade to counter online competition and revive foot traffic.
-
-The Uniqlo operator has beaten quarterly expectations throughout the year and repeatedly raised its profit guidance.
-Fast Retailing traces its origins to a single Uniqlo store opened in Hiroshima in 1984 and has since expanded to over 2,500 stores worldwide.
-
-Source: Inside Retail Asia (https://insideretail.asia/2026/10/08/uniqlo-parent-fast-retailing-shocks-with-32-per-cent-profit-boost)</description>
-      <pubDate>Thu, 08 Oct 2026 08:30:27 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/fast-retailing-posts-32-profit-rise-to-743-1-billion-yen</guid>
-      <category>Platforms</category>
     </item>
   </channel>
 </rss>

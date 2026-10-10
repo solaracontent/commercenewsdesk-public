@@ -5,8 +5,22 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 07:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:38:46 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Indian startups raise $122.9 million in first week of October</title>
+      <link>https://commercenewsdesk.com/briefs/indian-startups-raise-122-9-million-in-first-week-of-october</link>
+      <description>Indian startups raised $122.9 million across 25 deals between October 5 and October 9, according to Inc42. The amount marks a 47.4% decline from the $233.6 million raised in 16 deals the prior week. Ecommerce led the sector with $63.9 million across nine deals, driven by DailyObjects’ $34.3 million Series C.
+
+Fintech secured $24 million, advanced hardware and technology attracted $10 million, while edtech and healthtech each brought in roughly $9 million and $8 million respectively, with fintech led by BITKRAFT Ventures in StockGro’s round.
+
+The previous week saw startups raise $233.6 million across 16 deals. This week’s figures cover the period October 5 through October 9.
+
+Source: Inc42 (https://inc42.com/buzz/from-dailyobjects-to-stockgro-indian-startups-raised-about-123-mn-this-week)</description>
+      <pubDate>Sat, 10 Oct 2026 03:30:25 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/indian-startups-raise-122-9-million-in-first-week-of-october</guid>
+      <category>Platforms</category>
+    </item>
     <item>
       <title>Revolut aims to match biggest U.S. tech firms after $115B valuation</title>
       <link>https://commercenewsdesk.com/briefs/revolut-aims-to-match-biggest-u-s-tech-firms-after-115b-valuatio</link>
@@ -782,25 +796,6 @@ By keeping policies up to date automatically, merchants can avoid the need for f
 Source: Shopify Changelog (https://changelog.shopify.com/posts/automatically-generated-policies-help-you-launch-faster)</description>
       <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/shopify-adds-automated-policy-generation-to-speed-store-launches</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Consumers anticipate higher spending as inflation worries climb</title>
-      <link>https://commercenewsdesk.com/briefs/consumers-anticipate-higher-spending-as-inflation-worries-climb</link>
-      <description>According to the Fed survey, median expected household spending growth rose to 5.5% in September, the highest since May 2023. Inflation expectations climbed to 3.9%, while the perceived chance of job loss dropped to 13.5%, its lowest since December 2024.
-
-Expected household income growth edged up to 3.1%, its highest since February 2025, while the perceived probability of losing a job fell to 13.5% and the chance of finding new work after a layoff rose to 46.1%.
-Median year-ahead inflation expectations climbed to 3.9% (highest since May 2023), three-year expectations rose to 3.3%, the five-year measure held at 3.0%, and expected price growth reached 5.5% for food, 4.8% for gas, 6.8% for rent, 7.5% for college and 9.2% for medical care.
-The Consumer Expectations Index fell 0.7 points to 54.1, the macroeconomic and buying climate subindex slipped 2.2 points to 45.0, buying conditions dropped 1.8 points and personal financial resilience remained near 58.3.
-Job mobility fell 2.2 points to 46.9, below the neutral level of 50, personal job security remained high at 80.4, perceived safety from layoffs improved to 71.9, and 51.8% of consumers said their savings would cover three months or less if income stopped.
-
-In August, the Consumer Expectations Index had already slipped, marking the second straight month of decline.
-Personal financial resilience stayed near 58.3 while buying conditions fell 1.8 points.
-Personal job security stayed at 80.4 and perceived safety from layoffs improved to 71.9.
-
-Source: PYMNTS (https://pymnts.com/economy/2026/consumers-expect-to-spend-more-as-inflation-anxiety-rises)</description>
-      <pubDate>Thu, 08 Oct 2026 15:37:06 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/consumers-anticipate-higher-spending-as-inflation-worries-climb</guid>
       <category>Platforms</category>
     </item>
   </channel>

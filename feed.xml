@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 03:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:38:57 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Revolut aims to match biggest U.S. tech firms after $115B valuation</title>
@@ -22,6 +22,18 @@ Source: PYMNTS (https://pymnts.com/business/2026/revolut-ceo-targets-long-term-g
       <pubDate>Fri, 09 Oct 2026 22:48:59 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/revolut-aims-to-match-biggest-u-s-tech-firms-after-115b-valuatio</guid>
       <category>Payments</category>
+    </item>
+    <item>
+      <title>Google pilots Local Coupons for retailers, charging only on redemption</title>
+      <link>https://commercenewsdesk.com/briefs/google-pilots-local-coupons-for-retailers-charging-only-on-redem</link>
+      <description>Google has begun a pilot of Local Coupons, a Search ads offering that displays discounts to nearby shoppers and stores the coupon in their mobile wallet for in-store use. Retailers are charged only when a shopper actually redeems the coupon at checkout, linking the ad directly to an in-store sale. Each coupon carries a unique code that the register verifies at scan time to prevent double redemption.
+
+Google has not disclosed which retailers are participating in the pilot or when it might expand the program more widely. The service aims to give advertisers a measurable connection between online search activity and physical store purchases.
+
+Source: Shopifreaks (https://shopifreaks.com/google-pilots-local-coupons-which-put-store-deals-in-search-and-mobile-wallets-and-only-charge-retailers-when-shoppers-redeem)</description>
+      <pubDate>Fri, 09 Oct 2026 22:10:27 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/google-pilots-local-coupons-for-retailers-charging-only-on-redem</guid>
+      <category>Platforms</category>
     </item>
     <item>
       <title>Beximco seeks approval to reopen factories with foreign investment</title>
@@ -790,18 +802,6 @@ Source: PYMNTS (https://pymnts.com/economy/2026/consumers-expect-to-spend-more-a
       <pubDate>Thu, 08 Oct 2026 15:37:06 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/consumers-anticipate-higher-spending-as-inflation-worries-climb</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>SONAR Rate Intelligence adds intermodal rates with 21.1% savings estimate</title>
-      <link>https://commercenewsdesk.com/briefs/sonar-rate-intelligence-adds-intermodal-rates-with-21-1-savings</link>
-      <description>In October 2026, SONAR Rate Intelligence added intermodal contract and spot rates plus a conversion savings tool that shows truckload-to-intermodal savings averaging 21.1% per load. On the Chicago-to-Elizabeth, New Jersey lane, the tool estimates a saving of roughly $593 per load when shifting from van to intermodal.
-
-Users can select intermodal as an equipment type or drill into it from any van lane to view contract and spot rates, resolved ramps, and rate trends. The conversion savings feature calculates estimated savings per load, total lane savings, intermodal volume, and conversion potential, allowing users to input their own rates and annual volume. Data includes intermodal contract rates, spot rates on covered corridors, rate and volume trends over the last 12 months, and suggested in‑gate and out‑gate ramps with distances from origin and destination.
-
-Source: FreightWaves (https://freightwaves.com/news/sonar-rate-intelligence-adds-intermodal-rates-and-truckload-to-intermodal-conversion-savings)</description>
-      <pubDate>Thu, 08 Oct 2026 15:11:45 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/sonar-rate-intelligence-adds-intermodal-rates-with-21-1-savings</guid>
-      <category>Logistics</category>
     </item>
   </channel>
 </rss>

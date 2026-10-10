@@ -5,8 +5,22 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 11:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:41:26 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Online auction sells 171 antique glass eyes for $2,640</title>
+      <link>https://commercenewsdesk.com/briefs/online-auction-sells-171-antique-glass-eyes-for-2-640</link>
+      <description>Potter &amp; Potter sold a drawer of 171 antique prosthetic glass eyes for $2,640 at its Oct. 1 auction. The lot attracted 11 bids and the price includes the buyer’s premium.
+
+The eyes are early 20th‑century German prosthetic glass eyes, arranged in a wooden grid drawer. A condition report noted light dust and occasionally sharp glass ends. Shipping expenses for the lot include labor, materials, insurance and transportation. Potter &amp; Potter’s conditions of sale cover the purchase price, buyer’s premium, applicable taxes and other charges.
+
+The auction was part of Potter &amp; Potter’s “Weird Tales! UFOs, Curiosities and Tattoos” sale, which offered 569 lots. Online access gave shoppers an opportunity to browse a collection that would make an ordinary estate sale look positively restrained.
+
+Source: PYMNTS (https://pymnts.com/pymnts-features/the-weekender/2026/online-auctions-put-a-price-on-strange)</description>
+      <pubDate>Sat, 10 Oct 2026 08:00:47 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/online-auction-sells-171-antique-glass-eyes-for-2-640</guid>
+      <category>Marketplaces</category>
+    </item>
     <item>
       <title>Indian startups raise $122.9 million in first week of October</title>
       <link>https://commercenewsdesk.com/briefs/indian-startups-raise-122-9-million-in-first-week-of-october</link>
@@ -773,29 +787,6 @@ The initiative follows years of warnings about financial pressures facing the UK
 Source: Sourcing Journal (https://wwd.com/sourcing-journal/industry-news/wrap-next-primark-tesco-textile-collections-1239333409)</description>
       <pubDate>Thu, 08 Oct 2026 16:19:58 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/next-primark-and-tesco-fund-wraps-overhaul-of-uk-textile-collect</guid>
-      <category>Platforms</category>
-    </item>
-    <item>
-      <title>Shopify adds automated policy generation to speed store launches</title>
-      <link>https://commercenewsdesk.com/briefs/shopify-adds-automated-policy-generation-to-speed-store-launches</link>
-      <description>On October 8, 2026, Shopify introduced automated generation for return and refund, contact information, terms of service, shipping, and legal notice policies to help merchants launch stores faster. The automated policies stay in sync with store settings and Shopify’s recommendations, while merchants remain responsible for ensuring compliance.
-
-Merchants activate the feature by opening Settings &gt; Policies in the Shopify admin interface.
-They then choose the specific policy they wish to automate from the list of available options.
-After selecting a policy, they toggle the Use automated policy switch to the on position.
-Finally, they click the Save button to apply the automation.
-Once enabled, the system automatically updates the policy whenever the underlying store settings change.
-This synchronization ensures that the policy reflects the current configuration without manual intervention.
-The automation applies to five distinct policy types: return and refund, contact information, terms of service, shipping, and legal notice.
-For each of these policy types, the generated text aligns with Shopify’s current recommendations.
-Shopify clarifies that the automation does not relieve the store owner of responsibility for the policy’s content.
-Merchants must still review the automated policies to confirm they meet applicable legal requirements.
-The feature is intended to reduce the time required to set up a new store or expand into additional markets.
-By keeping policies up to date automatically, merchants can avoid the need for frequent manual edits as their store evolves.
-
-Source: Shopify Changelog (https://changelog.shopify.com/posts/automatically-generated-policies-help-you-launch-faster)</description>
-      <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/shopify-adds-automated-policy-generation-to-speed-store-launches</guid>
       <category>Platforms</category>
     </item>
   </channel>

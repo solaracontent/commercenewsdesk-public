@@ -5,8 +5,24 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 01:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:39:24 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Revolut aims to match biggest U.S. tech firms after $115B valuation</title>
+      <link>https://commercenewsdesk.com/briefs/revolut-aims-to-match-biggest-u-s-tech-firms-after-115b-valuatio</link>
+      <description>On Oct. 9, Revolut CEO Nik Storonsky said the company, valued at $115 billion, aims to expand its technology suite and eventually rival the largest U.S. tech firms. He pointed to a proprietary AI model called PRAGMA, trained on 40 billion transactions from 25 million users across 111 countries, as the foundation for future products.
+
+Revolut processes roughly 30 to 40 million transactions each day, giving it a large data set for training its models. The company received conditional OCC approval for a U.S. national bank charter on Sept. 3. It is working with the FDIC and Federal Reserve to complete remaining requirements. On Sept. 16 Revolut added a banking license in Colombia, bringing its total of full banking licenses worldwide to six.
+
+“With 30 to 40 million transactions taking place every day on Revolut, we have a unique dataset to build on,” Nik Storonsky, CEO said.
+
+Before these announcements, Revolut had already secured bank licenses in the United Kingdom, France, Australia, Lithuania and Mexico. The company had been pursuing a U.S. banking charter to enable credit cards and loans in America.
+
+Source: PYMNTS (https://pymnts.com/business/2026/revolut-ceo-targets-long-term-growth-with-proprietary-models)</description>
+      <pubDate>Fri, 09 Oct 2026 22:48:59 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/revolut-aims-to-match-biggest-u-s-tech-firms-after-115b-valuatio</guid>
+      <category>Payments</category>
+    </item>
     <item>
       <title>Beximco seeks approval to reopen factories with foreign investment</title>
       <link>https://commercenewsdesk.com/briefs/beximco-seeks-approval-to-reopen-factories-with-foreign-investme</link>
@@ -785,22 +801,6 @@ Users can select intermodal as an equipment type or drill into it from any van l
 Source: FreightWaves (https://freightwaves.com/news/sonar-rate-intelligence-adds-intermodal-rates-and-truckload-to-intermodal-conversion-savings)</description>
       <pubDate>Thu, 08 Oct 2026 15:11:45 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/sonar-rate-intelligence-adds-intermodal-rates-with-21-1-savings</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>AI-driven trade surge lifts semiconductors to 42% of global goods growth in 2025</title>
-      <link>https://commercenewsdesk.com/briefs/ai-driven-trade-surge-lifts-semiconductors-to-42-of-global-goods</link>
-      <description>Semiconductors, data transmission equipment and data center hardware made up 42% of all goods trade growth in 2025, according to a NYU Stern report commissioned by DHL. That share climbed to roughly 76% in the first quarter of the same year.
-
-FedEx’s chief commercial officer said the addressable transportation market for data centers and IT service equipment is conservatively valued at $7 billion. DHL Global Forwarding estimates the data center logistics market was about $23 billion in 2025 and projects it to reach at least $35 billion by 2030. Analysts estimate cloud providers could spend as much as $525 billion on data center construction in 2026 alone. AI-related supply chains require speed, visibility, cross-border expertise and resilience. This shift demands logistics providers with expertise in handling sensitive, high‑value cargo and navigating complex international regulations.
-
-“The biggest story in global trade right now is AI – not tariffs,” John Pearson, CEO of DHL Express said.
-
-AI infrastructure differs from typical consumer goods because it involves moving large, valuable, and delicate items from Asian factories to worldwide data centers, requiring special handling, customs clearance and storage. U.S. AI investment has boosted imports of related goods even as overall imports of other products have fallen.
-
-Source: FreightWaves (https://freightwaves.com/news/ai-gold-rush-transforms-trans-pacific-trade-and-logistics)</description>
-      <pubDate>Thu, 08 Oct 2026 14:52:07 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ai-driven-trade-surge-lifts-semiconductors-to-42-of-global-goods</guid>
       <category>Logistics</category>
     </item>
   </channel>

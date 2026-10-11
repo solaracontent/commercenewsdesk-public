@@ -5,8 +5,22 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 14:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:40:08 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Orlando trucking owner pleads guilty to $1 million USPS freight‑auction fraud</title>
+      <link>https://commercenewsdesk.com/briefs/orlando-trucking-owner-pleads-guilty-to-1-million-usps-freightau</link>
+      <description>Khayyam Arif Oglu Farajov, the Orlando‑based owner of Talishco LLC, pleaded guilty on Friday to one wire‑fraud count and one money‑laundering count in a scheme that collected more than $1 million. He agreed to forfeit the seized brokerage accounts and pay $993,979 in restitution, while each conviction carries a maximum federal prison sentence of 20 years.
+
+Farajov enrolled Talishco in the USPS Freight Auction program in May 2022 and, between June 2022 and January 2023, won hundreds of contracts for bulk‑mail transportation. He repeatedly failed to send trucks for the routes he secured, offered excuses about missing drivers, and later falsely marked those shipments as delivered to trigger payments. The proceeds were moved through accounts linked to shell companies under his control and then invested in the stock market for personal enrichment. Federal investigators traced the funds, seized the two brokerage accounts, and the USPS Office of Inspector General led the investigation. USPS requires proof of delivery before paying Freight Auction suppliers, accepting tracking scans, electronic messages or manual submissions through its Logistics Gateway. However, the 2024 federal audit found that the agency did not properly verify those records before issuing payments.
+
+The USPS launched the Freight Auction program in October 2021 to secure trucking capacity through competitive spot‑market bidding. A 2024 federal audit identified 102 participating transportation suppliers during fiscal years 2022 and 2023. The same audit found weaknesses in how the agency validated proof‑of‑delivery records, noting 69,225 paid trips worth about $197.9 million lacked reliable support.
+
+Source: FreightWaves (https://freightwaves.com/news/orlando-trucking-owner-pleads-guilty-in-1m-usps-freight-auction-fraud)</description>
+      <pubDate>Sun, 11 Oct 2026 11:26:13 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/orlando-trucking-owner-pleads-guilty-to-1-million-usps-freightau</guid>
+      <category>Logistics</category>
+    </item>
     <item>
       <title>Northwest freight rejections jump to 20.3% while Midwest holds steady at 18.6%</title>
       <link>https://commercenewsdesk.com/briefs/northwest-freight-rejections-jump-to-20-3-while-midwest-holds-st</link>
@@ -774,22 +788,6 @@ Source: Sourcing Journal (https://wwd.com/sourcing-journal/sustainability/bond-e
       <pubDate>Thu, 08 Oct 2026 16:38:04 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/bond-eye-maxxam-and-woolmark-launch-45-45-10-wool-blend-swimwear</guid>
       <category>Platforms</category>
-    </item>
-    <item>
-      <title>Mastercard and SoFi enable Orbi to launch crypto‑linked debit card in Mexico</title>
-      <link>https://commercenewsdesk.com/briefs/mastercard-and-sofi-enable-orbi-to-launch-cryptolinked-debit-car</link>
-      <description>Mastercard and SoFi are helping Orbi launch a crypto‑linked debit card in Mexico, where stablecoins made up 40% of crypto purchases in 2025. The card lets users spend either fiat or crypto balances at checkout while merchants receive traditional fiat, and SoFi supplies the BIN sponsorship, issuance, authorization, processing and compliance infrastructure. The program is available to Orbi customers across Mexico and does not require merchants to alter their existing point‑of‑sale systems.
-
-SoFi’s role includes providing the bank identification number, handling transaction approvals, and ensuring compliance with local regulations.
-
-“Mexico is one of the world’s largest remittance markets, and stablecoins are becoming an increasingly important way to move money across its borders,” Kathleen Pierce-Gilmore, SoFi Tech Solutions President said.
-
-In 2025, stablecoins accounted for 40% of crypto purchases among Bitso users in Mexico, Argentina, Brazil and Colombia, surpassing bitcoin’s 18% share. A PYMNTS Intelligence report released in July found that consumers are interested in using crypto for purchases but face acceptance, trust and uneven payment experiences, noting that linked cards could help bridge the gap.
-
-Source: PYMNTS (https://pymnts.com/cryptocurrency/2026/mastercard-sofi-help-orbi-launch-crypto-card-mexico)</description>
-      <pubDate>Thu, 08 Oct 2026 16:21:50 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/mastercard-and-sofi-enable-orbi-to-launch-cryptolinked-debit-car</guid>
-      <category>Payments</category>
     </item>
   </channel>
 </rss>

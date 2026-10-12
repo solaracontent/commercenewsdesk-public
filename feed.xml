@@ -5,7 +5,7 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 16:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:43:08 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Ikea adds UK, Ireland and Germany to second‑hand marketplace, total nine markets</title>
@@ -22,6 +22,24 @@ Source: Ecommerce News Europe (https://ecommercenews.eu/ikea-expands-second-hand
       <pubDate>Mon, 12 Oct 2026 14:34:48 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ikea-adds-uk-ireland-and-germany-to-secondhand-marketplace-total</guid>
       <category>Platforms</category>
+    </item>
+    <item>
+      <title>NY Fed says tariffs added 2.9 points to consumer goods prices since early 2025</title>
+      <link>https://commercenewsdesk.com/briefs/ny-fed-says-tariffs-added-2-9-points-to-consumer-goods-prices-si</link>
+      <description>Researchers at the Federal Reserve Bank of New York said Trump administration tariffs raised consumer goods prices by 2.9 percentage points from early 2025 through February this year, and noted that prices would have fallen without the import taxes. They estimated that after a year, consumer goods prices increase about 0.25% for each percentage point rise in average tariffs.
+
+The researchers noted that a full year passed before consumers felt the complete effect of tariffs imposed early last year. University of Michigan data showed consumer inflation expectations for the next 12 months rose to 4.7% this month, up from 4.6% in September. A Reuters/Ipsos poll found 78% of Americans blame President Donald Trump’s policies for price gains that outpace their wages. Long‑run inflation expectations edged up 0.1 percentage point to 3.5%, staying above the 2.8%‑3.2% range seen in 2024. The NY Fed’s estimate drew on price changes across 67 consumer‑goods categories that feed into the CPI.
+
+“Tariffs pass through to import prices nearly completely in the first month,” Federal Reserve Bank of New York researchers said.
+
+“Inflation expectations over both time horizons increased for the second straight month to their highest readings since May,” Joanne Hsu, director of the University of Michigan’s surveys of consumers said.
+
+Ongoing price pressures, driven by the highest U.S. tariffs since the 1930s and a war‑related jump in fuel costs, have weakened consumer views on affordability and lifted expectations that inflation will rise. Joanne Hsu said the current figure far tops the 3.4% recorded in February before the Iran conflict and surpasses every 2024 reading.
+
+Source: Retail Dive (https://retaildive.com/news/tariffs-pushed-up-consumer-goods-prices-ny-fed-inflation-elections-tax-taxes/832701)</description>
+      <pubDate>Mon, 12 Oct 2026 14:01:00 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ny-fed-says-tariffs-added-2-9-points-to-consumer-goods-prices-si</guid>
+      <category>Policy</category>
     </item>
     <item>
       <title>Tractor Supply opens 865,000-sq-ft Idaho DC with $200M investment</title>
@@ -759,22 +777,6 @@ Source: Inc42 (https://inc42.com/features/payments-vs-lending-the-tale-of-paytms
       <pubDate>Fri, 09 Oct 2026 13:08:02 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/paytm-s-lending-revenue-jumps-to-2-594-cr-as-payments-growth-slo</guid>
       <category>Payments</category>
-    </item>
-    <item>
-      <title>West Coast container rates slip $2 per FEU as trans-Pacific prices ease</title>
-      <link>https://commercenewsdesk.com/briefs/west-coast-container-rates-slip-2-per-feu-as-trans-pacific-price</link>
-      <description>Far East‑U.S. West Coast spot rates fell $2 per FEU on Oct. 7, marking the first daily decline in weeks. Despite the drop, rates stayed 1.1% above their Sept. 30 level at $8,336 per FEU, while Asia‑U.S. East Coast averages rose to $11,512 per FEU, up 0.5% over the week. On the trans‑Atlantic lane, North Europe‑U.S. East Coast spot rates slipped 1.1% week over week to $2,854 per FEU.
-
-Asia‑Mediterranean spot rates averaged $4,007 per FEU, down 5.9% from Sept. 30. Lower short‑term rates are giving European shippers more leverage as they negotiate long‑term contracts. The narrowing gap between Mediterranean and North Europe rates reflects shifting trade patterns.
-
-“For European shippers, tender season is in full force and falling short-term rates are a welcome development as they negotiate long-term contracts,” Peter Sand, Chief Analyst at Xeneta said.
-
-As demand eases from a high level, competition for vessel capacity is diminishing, improving negotiating conditions for shippers. Sand said carrier rerouting away from the Suez Canal route around Africa may help explain the pricing relationship.
-
-Source: FreightWaves (https://freightwaves.com/news/us-west-coast-container-rates-edge-lower)</description>
-      <pubDate>Fri, 09 Oct 2026 13:07:24 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/west-coast-container-rates-slip-2-per-feu-as-trans-pacific-price</guid>
-      <category>Logistics</category>
     </item>
   </channel>
 </rss>

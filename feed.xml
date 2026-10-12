@@ -5,8 +5,24 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 02:38:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:12:49 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ramp reaches $60 billion valuation after $1.85 billion funding round</title>
+      <link>https://commercenewsdesk.com/briefs/ramp-reaches-60-billion-valuation-after-1-85-billion-funding-rou</link>
+      <description>Ramp announced a new funding round on Friday, Oct. 9, raising $1.85 billion and achieving a $60 billion valuation. The $60 billion valuation excludes the fresh capital, making Ramp the most highly valued private company in corporate spend management.
+
+The round follows a Series F in June that brought in $750 million at a $44 billion valuation. Ramp said it now serves 70,000 businesses, up from 50,000 at the start of 2026, and that its annualized revenue had topped $1.5 billion. Its closest rival, Brex, was sold to Capital One earlier this year for $5 billion. Ramp also highlighted its Router tool, which it said reduces AI costs by about 30% by selecting the optimal model for each task.
+
+“finance is going through the biggest structural change since the spreadsheet,” Eric Glyman, Co-Founder and CEO said.
+
+In September, Bloomberg reported that Ramp was in early talks for a $60 billion valuation. That followed the company’s Series F in June, which raised $750 million at a $44 billion valuation. Earlier in 2026, Brex was acquired by Capital One for $5 billion.
+
+Source: PYMNTS (https://pymnts.com/news/investment-tracker/fintech-investments/2026/ramp-valued-at-60-billion-following-new-funding-round)</description>
+      <pubDate>Mon, 12 Oct 2026 00:25:56 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/ramp-reaches-60-billion-valuation-after-1-85-billion-funding-rou</guid>
+      <category>Platforms</category>
+    </item>
     <item>
       <title>Fed Data Shows 20% of U.S. Households Fell Behind on Loan Payments</title>
       <link>https://commercenewsdesk.com/briefs/fed-data-shows-20-of-u-s-households-fell-behind-on-loan-payments</link>
@@ -767,20 +783,6 @@ FMCSA had denied Aurora and Waymo’s 2023 request for the same relief in Decemb
 Source: FreightWaves (https://freightwaves.com/news/fmcsa-aurora-warning-beacon-exemption-five-year)</description>
       <pubDate>Thu, 08 Oct 2026 18:49:38 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/fmcsa-grants-five-year-beacon-exemption-for-level-4-autonomous-t</guid>
-      <category>Logistics</category>
-    </item>
-    <item>
-      <title>Global container volumes hit record 17.46 million TEUs in August</title>
-      <link>https://commercenewsdesk.com/briefs/global-container-volumes-hit-record-17-46-million-teus-in-august</link>
-      <description>Container Trades Statistics reported that global container shipping volumes reached a record 17.46 million twenty-foot equivalent units in August in its Oct. 8 report. August liftings were 3.7% higher than in August 2025, pushing year‑to‑date volumes up 4.7% year‑over‑year compared with the same period last year.
-
-The CTS Global Price Index rose two points to 117 in August, its highest level since July 2024, while overall North American container imports were up 2% through August versus the same period last year and Sub‑Saharan Africa imports grew 13% through August. The combined Indian Sub‑Continent and Middle East region saw imports fall 5% and exports drop 10% year‑to‑date, while steady Asia exports increased 8% year‑to‑date, adding roughly 6.3 million TEUs and trans‑Pacific trade rose 5% year‑to‑date. August volumes were 7.2% higher than in August 2024 and 12.9% above August 2023 levels. The Global Price Index was about 50% above its January level and 44% higher than in August 2025, and CTS warned that slowing month‑to‑month growth could signal a moderation in demand heading into the final quarter.
-
-The previous record was set in July 2026. Earlier in 2026, North American imports had posted negative year‑to‑date growth before a gradual recovery began in May.
-
-Source: FreightWaves (https://freightwaves.com/news/global-container-volumes-hit-record-17-46-million-teus)</description>
-      <pubDate>Thu, 08 Oct 2026 18:20:17 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/global-container-volumes-hit-record-17-46-million-teus-in-august</guid>
       <category>Logistics</category>
     </item>
   </channel>

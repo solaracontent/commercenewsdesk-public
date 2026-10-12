@@ -5,8 +5,22 @@
     <link>https://commercenewsdesk.com</link>
     <description>Ecommerce news briefed in two sentences, with a link to whoever reported it.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Oct 2026 02:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:38:46 +0000</lastBuildDate>
     <atom:link href="https://commercenewsdesk.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Fed Data Shows 20% of U.S. Households Fell Behind on Loan Payments</title>
+      <link>https://commercenewsdesk.com/briefs/fed-data-shows-20-of-u-s-households-fell-behind-on-loan-payments</link>
+      <description>The Federal Reserve’s Survey of Consumer Finances, released on October 9, found that nearly 20% of U.S. families were behind on loan payments in 2025, up from about 12% in the 2022 survey. The survey also showed the poorest quarter of households losing more than half of their net worth, falling from $3,800 to $1,700. Median wealth for Black families dropped 25% after a 60% gain in the 2022 survey.
+
+Households using buy now, pay later services increased from 7% in the 2022 survey to 12% in the latest 2025 data, according to the Fed’s Survey of Consumer Finances. The survey covered the 2022‑2025 period, during which annual GDP growth averaged about 2.5% and the consumer‑price index rose 3.6% per year on average. While incomes rose for less‑well‑off Americans over the same timeframe, their net worth did not increase, leaving the poorest quarter of households with $1,700 in wealth compared with $3,800 in 2022. Consumers facing high financial stress were 6 percentage points more likely to have made their most recent grocery purchase online than those with low stress, with 16% versus 10% reporting online grocery purchases.
+
+In the 2022 Survey of Consumer Finances, about 12% of families reported being behind on loan payments and 7% used buy now, pay later services. Median wealth for Black families had risen 60% in the 2022 survey before the latest decline. The survey’s release date was Friday, October 9, as noted in the Fed’s announcement.
+
+Source: PYMNTS (https://pymnts.com/consumer-finance/2026/20-of-americans-behind-on-loans-fed-data-shows)</description>
+      <pubDate>Sun, 11 Oct 2026 23:14:31 +0000</pubDate>
+      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/fed-data-shows-20-of-u-s-households-fell-behind-on-loan-payments</guid>
+      <category>Platforms</category>
+    </item>
     <item>
       <title>Meta sued over ‘Ends today’ AI glasses emails that kept $224 sale live</title>
       <link>https://commercenewsdesk.com/briefs/meta-sued-over-ends-today-ai-glasses-emails-that-kept-224-sale-l</link>
@@ -768,20 +782,6 @@ Source: FreightWaves (https://freightwaves.com/news/global-container-volumes-hit
       <pubDate>Thu, 08 Oct 2026 18:20:17 +0000</pubDate>
       <guid isPermaLink="true">https://commercenewsdesk.com/briefs/global-container-volumes-hit-record-17-46-million-teus-in-august</guid>
       <category>Logistics</category>
-    </item>
-    <item>
-      <title>Google Cloud offers Gemini agent for enterprise Workspace users</title>
-      <link>https://commercenewsdesk.com/briefs/google-cloud-offers-gemini-agent-for-enterprise-workspace-users</link>
-      <description>Google Cloud launched a universal Gemini agent for enterprise Workspace users that runs in Gmail, Drive, Docs, and Calendar. It can respond to queries, perform knowledge tasks, generate images and media, and write and execute code.
-
-It is secured through identity and policy management, authorization and permission controls, and secure sandboxing and network gateways, and includes cost controls via multi-model orchestration, Smart Routing, and real-time spend caps. The agent can securely connect to a user’s company software and any Model Context Protocol server, use custom skills added by the user, and learn from each interaction. Industry‑specific agents for financial services and legal are now in preview, with government, healthcare, and retail versions planned for release soon.
-
-In April, Google Cloud unveiled the Gemini Enterprise Agent Platform as a unified system for building, connecting, securing, and governing AI agents. In August it said it had agentic AI solutions for financial services and legal in preview, positioning them as the first in a series of industry‑specific offerings.
-
-Source: PYMNTS (https://pymnts.com/news/artificial-intelligence/2026/google-cloud-targets-enterprise-market-with-universal-agent-work)</description>
-      <pubDate>Thu, 08 Oct 2026 16:41:34 +0000</pubDate>
-      <guid isPermaLink="true">https://commercenewsdesk.com/briefs/google-cloud-offers-gemini-agent-for-enterprise-workspace-users</guid>
-      <category>Platforms</category>
     </item>
   </channel>
 </rss>
